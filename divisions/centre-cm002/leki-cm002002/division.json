@@ -1,0 +1,47 @@
+{
+  "id": "CM002002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Lekié",
+    "en": "Lekié",
+    "slug": "leki-cm002002"
+  },
+  "code": {
+    "id": "CM002002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM002",
+    "level": 1,
+    "name": {
+      "local": "Centre",
+      "en": "Centre",
+      "slug": "centre-cm002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.149",
+    "lon": "11.364"
+  },
+  "metadata": {},
+  "source": {}
+}

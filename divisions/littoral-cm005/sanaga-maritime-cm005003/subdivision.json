@@ -1,0 +1,596 @@
+[
+  {
+    "id": "CM005003001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Dibamba",
+      "en": "Dibamba",
+      "slug": "dibamba-cm005003001"
+    },
+    "code": {
+      "id": "CM005003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005003",
+      "level": 2,
+      "name": {
+        "local": "Sanaga-Maritime",
+        "en": "Sanaga-Maritime",
+        "slug": "sanaga-maritime-cm005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005003",
+        "level": 2,
+        "name": {
+          "local": "Sanaga-Maritime",
+          "en": "Sanaga-Maritime",
+          "slug": "sanaga-maritime-cm005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.021",
+      "lon": "10.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005003002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Dizangue",
+      "en": "Dizangue",
+      "slug": "dizangue-cm005003002"
+    },
+    "code": {
+      "id": "CM005003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005003",
+      "level": 2,
+      "name": {
+        "local": "Sanaga-Maritime",
+        "en": "Sanaga-Maritime",
+        "slug": "sanaga-maritime-cm005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005003",
+        "level": 2,
+        "name": {
+          "local": "Sanaga-Maritime",
+          "en": "Sanaga-Maritime",
+          "slug": "sanaga-maritime-cm005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.818",
+      "lon": "9.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005003003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Edea 1er",
+      "en": "Edea 1er",
+      "slug": "edea-1er-cm005003003"
+    },
+    "code": {
+      "id": "CM005003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005003",
+      "level": 2,
+      "name": {
+        "local": "Sanaga-Maritime",
+        "en": "Sanaga-Maritime",
+        "slug": "sanaga-maritime-cm005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005003",
+        "level": 2,
+        "name": {
+          "local": "Sanaga-Maritime",
+          "en": "Sanaga-Maritime",
+          "slug": "sanaga-maritime-cm005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.56",
+      "lon": "10.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005003004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Edea 2e",
+      "en": "Edea 2e",
+      "slug": "edea-2e-cm005003004"
+    },
+    "code": {
+      "id": "CM005003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005003",
+      "level": 2,
+      "name": {
+        "local": "Sanaga-Maritime",
+        "en": "Sanaga-Maritime",
+        "slug": "sanaga-maritime-cm005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005003",
+        "level": 2,
+        "name": {
+          "local": "Sanaga-Maritime",
+          "en": "Sanaga-Maritime",
+          "slug": "sanaga-maritime-cm005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.997",
+      "lon": "10.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005003005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Massock-Songloulou",
+      "en": "Massock-Songloulou",
+      "slug": "massock-songloulou-cm005003005"
+    },
+    "code": {
+      "id": "CM005003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005003",
+      "level": 2,
+      "name": {
+        "local": "Sanaga-Maritime",
+        "en": "Sanaga-Maritime",
+        "slug": "sanaga-maritime-cm005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005003",
+        "level": 2,
+        "name": {
+          "local": "Sanaga-Maritime",
+          "en": "Sanaga-Maritime",
+          "slug": "sanaga-maritime-cm005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.136",
+      "lon": "10.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005003006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mouanko",
+      "en": "Mouanko",
+      "slug": "mouanko-cm005003006"
+    },
+    "code": {
+      "id": "CM005003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005003",
+      "level": 2,
+      "name": {
+        "local": "Sanaga-Maritime",
+        "en": "Sanaga-Maritime",
+        "slug": "sanaga-maritime-cm005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005003",
+        "level": 2,
+        "name": {
+          "local": "Sanaga-Maritime",
+          "en": "Sanaga-Maritime",
+          "slug": "sanaga-maritime-cm005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.584",
+      "lon": "9.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005003007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ndom",
+      "en": "Ndom",
+      "slug": "ndom-cm005003007"
+    },
+    "code": {
+      "id": "CM005003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005003",
+      "level": 2,
+      "name": {
+        "local": "Sanaga-Maritime",
+        "en": "Sanaga-Maritime",
+        "slug": "sanaga-maritime-cm005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005003",
+        "level": 2,
+        "name": {
+          "local": "Sanaga-Maritime",
+          "en": "Sanaga-Maritime",
+          "slug": "sanaga-maritime-cm005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.428",
+      "lon": "10.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005003008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngambe",
+      "en": "Ngambe",
+      "slug": "ngambe-cm005003008"
+    },
+    "code": {
+      "id": "CM005003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005003",
+      "level": 2,
+      "name": {
+        "local": "Sanaga-Maritime",
+        "en": "Sanaga-Maritime",
+        "slug": "sanaga-maritime-cm005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005003",
+        "level": 2,
+        "name": {
+          "local": "Sanaga-Maritime",
+          "en": "Sanaga-Maritime",
+          "slug": "sanaga-maritime-cm005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.353",
+      "lon": "10.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005003009",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngwei",
+      "en": "Ngwei",
+      "slug": "ngwei-cm005003009"
+    },
+    "code": {
+      "id": "CM005003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005003",
+      "level": 2,
+      "name": {
+        "local": "Sanaga-Maritime",
+        "en": "Sanaga-Maritime",
+        "slug": "sanaga-maritime-cm005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005003",
+        "level": 2,
+        "name": {
+          "local": "Sanaga-Maritime",
+          "en": "Sanaga-Maritime",
+          "slug": "sanaga-maritime-cm005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.797",
+      "lon": "10.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005003010",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nyanon",
+      "en": "Nyanon",
+      "slug": "nyanon-cm005003010"
+    },
+    "code": {
+      "id": "CM005003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005003",
+      "level": 2,
+      "name": {
+        "local": "Sanaga-Maritime",
+        "en": "Sanaga-Maritime",
+        "slug": "sanaga-maritime-cm005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005003",
+        "level": 2,
+        "name": {
+          "local": "Sanaga-Maritime",
+          "en": "Sanaga-Maritime",
+          "slug": "sanaga-maritime-cm005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.214",
+      "lon": "10.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005003011",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Pouma",
+      "en": "Pouma",
+      "slug": "pouma-cm005003011"
+    },
+    "code": {
+      "id": "CM005003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005003",
+      "level": 2,
+      "name": {
+        "local": "Sanaga-Maritime",
+        "en": "Sanaga-Maritime",
+        "slug": "sanaga-maritime-cm005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005003",
+        "level": 2,
+        "name": {
+          "local": "Sanaga-Maritime",
+          "en": "Sanaga-Maritime",
+          "slug": "sanaga-maritime-cm005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.912",
+      "lon": "10.553"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

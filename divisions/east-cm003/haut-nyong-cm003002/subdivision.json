@@ -1,0 +1,758 @@
+[
+  {
+    "id": "CM003002001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Abong-Mbang",
+      "en": "Abong-Mbang",
+      "slug": "abong-mbang-cm003002001"
+    },
+    "code": {
+      "id": "CM003002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.855",
+      "lon": "13.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003002002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bebend",
+      "en": "Bebend",
+      "slug": "bebend-cm003002002"
+    },
+    "code": {
+      "id": "CM003002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.915",
+      "lon": "12.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003002003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Dimako",
+      "en": "Dimako",
+      "slug": "dimako-cm003002003"
+    },
+    "code": {
+      "id": "CM003002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.337",
+      "lon": "13.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003002004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Dja",
+      "en": "Dja",
+      "slug": "dja-cm003002004"
+    },
+    "code": {
+      "id": "CM003002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.573",
+      "lon": "13.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003002005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Doumaintang",
+      "en": "Doumaintang",
+      "slug": "doumaintang-cm003002005"
+    },
+    "code": {
+      "id": "CM003002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.197",
+      "lon": "13.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003002006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Doume",
+      "en": "Doume",
+      "slug": "doume-cm003002006"
+    },
+    "code": {
+      "id": "CM003002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.298",
+      "lon": "13.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003002007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Lomie",
+      "en": "Lomie",
+      "slug": "lomie-cm003002007"
+    },
+    "code": {
+      "id": "CM003002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.104",
+      "lon": "13.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003002008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mboanz",
+      "en": "Mboanz",
+      "slug": "mboanz-cm003002008"
+    },
+    "code": {
+      "id": "CM003002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.093",
+      "lon": "12.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003002009",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mboma",
+      "en": "Mboma",
+      "slug": "mboma-cm003002009"
+    },
+    "code": {
+      "id": "CM003002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.195",
+      "lon": "12.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003002010",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Messamena",
+      "en": "Messamena",
+      "slug": "messamena-cm003002010"
+    },
+    "code": {
+      "id": "CM003002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.606",
+      "lon": "12.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003002011",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Messok",
+      "en": "Messok",
+      "slug": "messok-cm003002011"
+    },
+    "code": {
+      "id": "CM003002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.096",
+      "lon": "14.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003002012",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngoyla",
+      "en": "Ngoyla",
+      "slug": "ngoyla-cm003002012"
+    },
+    "code": {
+      "id": "CM003002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.614",
+      "lon": "14.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003002013",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nguelemendouka",
+      "en": "Nguelemendouka",
+      "slug": "nguelemendouka-cm003002013"
+    },
+    "code": {
+      "id": "CM003002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.347",
+      "lon": "12.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003002014",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Somalomo",
+      "en": "Somalomo",
+      "slug": "somalomo-cm003002014"
+    },
+    "code": {
+      "id": "CM003002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nyong",
+        "en": "Haut-Nyong",
+        "slug": "haut-nyong-cm003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nyong",
+          "en": "Haut-Nyong",
+          "slug": "haut-nyong-cm003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.307",
+      "lon": "12.968"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

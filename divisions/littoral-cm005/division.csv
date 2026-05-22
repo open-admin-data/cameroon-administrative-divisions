@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.subdivision,geo.lat,geo.lon
+CM005001,Moungo,Moungo,moungo-cm005001,CM005001,13,4.7,9.774
+CM005002,Nkam,Nkam,nkam-cm005002,CM005002,4,4.587,10.085
+CM005003,Sanaga-Maritime,Sanaga-Maritime,sanaga-maritime-cm005003,CM005003,11,3.935,10.182
+CM005004,Wouri,Wouri,wouri-cm005004,CM005004,6,4.054,9.664

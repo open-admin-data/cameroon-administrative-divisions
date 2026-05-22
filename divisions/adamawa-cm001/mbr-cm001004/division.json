@@ -1,0 +1,47 @@
+{
+  "id": "CM001004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mbéré",
+    "en": "Mbéré",
+    "slug": "mbr-cm001004"
+  },
+  "code": {
+    "id": "CM001004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM001",
+    "level": 1,
+    "name": {
+      "local": "Adamaoua",
+      "en": "Adamawa",
+      "slug": "adamawa-cm001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM001",
+      "level": 1,
+      "name": {
+        "local": "Adamaoua",
+        "en": "Adamawa",
+        "slug": "adamawa-cm001"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.612",
+    "lon": "14.382"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CM010003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Lebialem",
+    "en": "Lebialem",
+    "slug": "lebialem-cm010003"
+  },
+  "code": {
+    "id": "CM010003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM010",
+    "level": 1,
+    "name": {
+      "local": "Sud-Ouest",
+      "en": "South-West",
+      "slug": "south-west-cm010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM010",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ouest",
+        "en": "South-West",
+        "slug": "south-west-cm010"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.559",
+    "lon": "9.913"
+  },
+  "metadata": {},
+  "source": {}
+}

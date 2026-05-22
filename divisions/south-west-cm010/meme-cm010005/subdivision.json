@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CM010005001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Konye",
+      "en": "Konye",
+      "slug": "konye-cm010005001"
+    },
+    "code": {
+      "id": "CM010005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010005",
+      "level": 2,
+      "name": {
+        "local": "Meme",
+        "en": "Meme",
+        "slug": "meme-cm010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010005",
+        "level": 2,
+        "name": {
+          "local": "Meme",
+          "en": "Meme",
+          "slug": "meme-cm010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.871",
+      "lon": "9.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010005002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kumba 1st",
+      "en": "Kumba 1st",
+      "slug": "kumba-1st-cm010005002"
+    },
+    "code": {
+      "id": "CM010005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010005",
+      "level": 2,
+      "name": {
+        "local": "Meme",
+        "en": "Meme",
+        "slug": "meme-cm010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010005",
+        "level": 2,
+        "name": {
+          "local": "Meme",
+          "en": "Meme",
+          "slug": "meme-cm010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.546",
+      "lon": "9.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010005003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kumba 2nd",
+      "en": "Kumba 2nd",
+      "slug": "kumba-2nd-cm010005003"
+    },
+    "code": {
+      "id": "CM010005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010005",
+      "level": 2,
+      "name": {
+        "local": "Meme",
+        "en": "Meme",
+        "slug": "meme-cm010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010005",
+        "level": 2,
+        "name": {
+          "local": "Meme",
+          "en": "Meme",
+          "slug": "meme-cm010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.732",
+      "lon": "9.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010005004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kumba 3rd",
+      "en": "Kumba 3rd",
+      "slug": "kumba-3rd-cm010005004"
+    },
+    "code": {
+      "id": "CM010005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010005",
+      "level": 2,
+      "name": {
+        "local": "Meme",
+        "en": "Meme",
+        "slug": "meme-cm010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010005",
+        "level": 2,
+        "name": {
+          "local": "Meme",
+          "en": "Meme",
+          "slug": "meme-cm010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.539",
+      "lon": "9.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010005005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mbonge",
+      "en": "Mbonge",
+      "slug": "mbonge-cm010005005"
+    },
+    "code": {
+      "id": "CM010005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010005",
+      "level": 2,
+      "name": {
+        "local": "Meme",
+        "en": "Meme",
+        "slug": "meme-cm010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010005",
+        "level": 2,
+        "name": {
+          "local": "Meme",
+          "en": "Meme",
+          "slug": "meme-cm010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.444",
+      "lon": "9.183"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

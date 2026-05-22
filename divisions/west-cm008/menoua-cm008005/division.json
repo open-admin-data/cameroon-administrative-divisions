@@ -1,0 +1,47 @@
+{
+  "id": "CM008005",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Menoua",
+    "en": "Menoua",
+    "slug": "menoua-cm008005"
+  },
+  "code": {
+    "id": "CM008005",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM008",
+    "level": 1,
+    "name": {
+      "local": "Ouest",
+      "en": "West",
+      "slug": "west-cm008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM008",
+      "level": 1,
+      "name": {
+        "local": "Ouest",
+        "en": "West",
+        "slug": "west-cm008"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.407",
+    "lon": "10.114"
+  },
+  "metadata": {},
+  "source": {}
+}

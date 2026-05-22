@@ -1,0 +1,31 @@
+# Cameroon Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Adamawa](https://github.com/open-admin-data/cameroon-administrative-divisions/blob/main/docs/llms-full/adamawa-cm001.txt) — 5 divisions, 21 subdivisions
+- [Centre](https://github.com/open-admin-data/cameroon-administrative-divisions/blob/main/docs/llms-full/centre-cm002.txt) — 10 divisions, 70 subdivisions
+- [East](https://github.com/open-admin-data/cameroon-administrative-divisions/blob/main/docs/llms-full/east-cm003.txt) — 4 divisions, 33 subdivisions
+- [Far-North](https://github.com/open-admin-data/cameroon-administrative-divisions/blob/main/docs/llms-full/far-north-cm004.txt) — 6 divisions, 47 subdivisions
+- [Littoral](https://github.com/open-admin-data/cameroon-administrative-divisions/blob/main/docs/llms-full/littoral-cm005.txt) — 4 divisions, 34 subdivisions
+- [North](https://github.com/open-admin-data/cameroon-administrative-divisions/blob/main/docs/llms-full/north-cm006.txt) — 4 divisions, 21 subdivisions
+- [North-West](https://github.com/open-admin-data/cameroon-administrative-divisions/blob/main/docs/llms-full/north-west-cm007.txt) — 7 divisions, 34 subdivisions
+- [South](https://github.com/open-admin-data/cameroon-administrative-divisions/blob/main/docs/llms-full/south-cm009.txt) — 4 divisions, 29 subdivisions
+- [South-West](https://github.com/open-admin-data/cameroon-administrative-divisions/blob/main/docs/llms-full/south-west-cm010.txt) — 6 divisions, 31 subdivisions
+- [West](https://github.com/open-admin-data/cameroon-administrative-divisions/blob/main/docs/llms-full/west-cm008.txt) — 8 divisions, 40 subdivisions
+
+## Summary
+
+| Region | Divisions | Subdivisions | 
+|---|---|---|
+| Adamawa | 5 | 21 | 
+| Centre | 10 | 70 | 
+| East | 4 | 33 | 
+| Far-North | 6 | 47 | 
+| Littoral | 4 | 34 | 
+| North | 4 | 21 | 
+| North-West | 7 | 34 | 
+| South | 4 | 29 | 
+| South-West | 6 | 31 | 
+| West | 8 | 40 | 

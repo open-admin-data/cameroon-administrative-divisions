@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CM004006001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bourrha",
+      "en": "Bourrha",
+      "slug": "bourrha-cm004006001"
+    },
+    "code": {
+      "id": "CM004006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004006",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Tsanaga",
+        "en": "Mayo-Tsanaga",
+        "slug": "mayo-tsanaga-cm004006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004006",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Tsanaga",
+          "en": "Mayo-Tsanaga",
+          "slug": "mayo-tsanaga-cm004006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.25",
+      "lon": "13.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004006002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Hina",
+      "en": "Hina",
+      "slug": "hina-cm004006002"
+    },
+    "code": {
+      "id": "CM004006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004006",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Tsanaga",
+        "en": "Mayo-Tsanaga",
+        "slug": "mayo-tsanaga-cm004006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004006",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Tsanaga",
+          "en": "Mayo-Tsanaga",
+          "slug": "mayo-tsanaga-cm004006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.33",
+      "lon": "13.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004006003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Koza",
+      "en": "Koza",
+      "slug": "koza-cm004006003"
+    },
+    "code": {
+      "id": "CM004006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004006",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Tsanaga",
+        "en": "Mayo-Tsanaga",
+        "slug": "mayo-tsanaga-cm004006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004006",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Tsanaga",
+          "en": "Mayo-Tsanaga",
+          "slug": "mayo-tsanaga-cm004006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.923",
+      "lon": "13.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004006004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mayo-Moskota",
+      "en": "Mayo-Moskota",
+      "slug": "mayo-moskota-cm004006004"
+    },
+    "code": {
+      "id": "CM004006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004006",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Tsanaga",
+        "en": "Mayo-Tsanaga",
+        "slug": "mayo-tsanaga-cm004006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004006",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Tsanaga",
+          "en": "Mayo-Tsanaga",
+          "slug": "mayo-tsanaga-cm004006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.041",
+      "lon": "13.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004006005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mogode",
+      "en": "Mogode",
+      "slug": "mogode-cm004006005"
+    },
+    "code": {
+      "id": "CM004006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004006",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Tsanaga",
+        "en": "Mayo-Tsanaga",
+        "slug": "mayo-tsanaga-cm004006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004006",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Tsanaga",
+          "en": "Mayo-Tsanaga",
+          "slug": "mayo-tsanaga-cm004006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "13.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004006006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mokolo",
+      "en": "Mokolo",
+      "slug": "mokolo-cm004006006"
+    },
+    "code": {
+      "id": "CM004006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004006",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Tsanaga",
+        "en": "Mayo-Tsanaga",
+        "slug": "mayo-tsanaga-cm004006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004006",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Tsanaga",
+          "en": "Mayo-Tsanaga",
+          "slug": "mayo-tsanaga-cm004006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.666",
+      "lon": "13.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004006007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Soulede-Roua",
+      "en": "Soulede-Roua",
+      "slug": "soulede-roua-cm004006007"
+    },
+    "code": {
+      "id": "CM004006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004006",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Tsanaga",
+        "en": "Mayo-Tsanaga",
+        "slug": "mayo-tsanaga-cm004006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004006",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Tsanaga",
+          "en": "Mayo-Tsanaga",
+          "slug": "mayo-tsanaga-cm004006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.757",
+      "lon": "13.978"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

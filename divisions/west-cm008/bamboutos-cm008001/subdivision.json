@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CM008001001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Babadjou",
+      "en": "Babadjou",
+      "slug": "babadjou-cm008001001"
+    },
+    "code": {
+      "id": "CM008001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008001",
+      "level": 2,
+      "name": {
+        "local": "Bamboutos",
+        "en": "Bamboutos",
+        "slug": "bamboutos-cm008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008001",
+        "level": 2,
+        "name": {
+          "local": "Bamboutos",
+          "en": "Bamboutos",
+          "slug": "bamboutos-cm008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.692",
+      "lon": "10.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008001002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Batcham",
+      "en": "Batcham",
+      "slug": "batcham-cm008001002"
+    },
+    "code": {
+      "id": "CM008001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008001",
+      "level": 2,
+      "name": {
+        "local": "Bamboutos",
+        "en": "Bamboutos",
+        "slug": "bamboutos-cm008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008001",
+        "level": 2,
+        "name": {
+          "local": "Bamboutos",
+          "en": "Bamboutos",
+          "slug": "bamboutos-cm008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.58",
+      "lon": "10.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008001003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Galim",
+      "en": "Galim",
+      "slug": "galim-cm008001003"
+    },
+    "code": {
+      "id": "CM008001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008001",
+      "level": 2,
+      "name": {
+        "local": "Bamboutos",
+        "en": "Bamboutos",
+        "slug": "bamboutos-cm008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008001",
+        "level": 2,
+        "name": {
+          "local": "Bamboutos",
+          "en": "Bamboutos",
+          "slug": "bamboutos-cm008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.726",
+      "lon": "10.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008001004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mbouda",
+      "en": "Mbouda",
+      "slug": "mbouda-cm008001004"
+    },
+    "code": {
+      "id": "CM008001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008001",
+      "level": 2,
+      "name": {
+        "local": "Bamboutos",
+        "en": "Bamboutos",
+        "slug": "bamboutos-cm008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008001",
+        "level": 2,
+        "name": {
+          "local": "Bamboutos",
+          "en": "Bamboutos",
+          "slug": "bamboutos-cm008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.634",
+      "lon": "10.316"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

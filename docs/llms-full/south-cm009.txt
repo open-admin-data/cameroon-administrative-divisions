@@ -1,0 +1,145 @@
+# South — Cameroon Administrative Divisions
+
+> 4 divisions, 29 subdivisions
+> Code: CM009
+> Coordinates: 2.92, 11.347
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Divisions
+
+### Dja-et-Lobo
+
+Code: CM009001, Coordinates: 2.925, 12.242
+Subdivisions: 8
+
+#### Bengbis
+
+Code: CM009001001, Coordinates: 3.322, 12.414
+
+#### Djoum
+
+Code: CM009001002, Coordinates: 2.636, 12.814
+
+#### Meyomessala
+
+Code: CM009001003, Coordinates: 3.091, 12.238
+
+#### Meyomessi
+
+Code: CM009001004, Coordinates: 2.725, 12.269
+
+#### Mintom
+
+Code: CM009001005, Coordinates: 2.538, 13.398
+
+#### Oveng
+
+Code: CM009001006, Coordinates: 2.471, 12.334
+
+#### Sangmelima
+
+Code: CM009001007, Coordinates: 2.915, 11.903
+
+#### Zoetele
+
+Code: CM009001008, Coordinates: 3.271, 11.871
+
+### Mvila
+
+Code: CM009002, Coordinates: 2.732, 11.437
+Subdivisions: 8
+
+#### Biwong-Bane
+
+Code: CM009002001, Coordinates: 3.094, 11.097
+
+#### Biwong-Bulu
+
+Code: CM009002002, Coordinates: 2.79, 11.516
+
+#### Ebolowa 1er
+
+Code: CM009002003, Coordinates: 2.924, 10.923
+
+#### Ebolowa 2e
+
+Code: CM009002004, Coordinates: 2.701, 11.279
+
+#### Efoulan
+
+Code: CM009002005, Coordinates: 3.075, 10.78
+
+#### Mengong
+
+Code: CM009002006, Coordinates: 2.939, 11.43
+
+#### Mvangane
+
+Code: CM009002007, Coordinates: 2.535, 11.962
+
+#### Ngoulemakong
+
+Code: CM009002008, Coordinates: 3.084, 11.463
+
+### Océan
+
+Code: CM009003, Coordinates: 2.875, 10.284
+Subdivisions: 9
+
+#### Akom 2
+
+Code: CM009003001, Coordinates: 2.829, 10.469
+
+#### Bipindi
+
+Code: CM009003002, Coordinates: 3.194, 10.416
+
+#### Campo
+
+Code: CM009003003, Coordinates: 2.425, 10.1
+
+#### Kribi 1er
+
+Code: CM009003004, Coordinates: 2.801, 9.907
+
+#### Kribi 2e
+
+Code: CM009003005, Coordinates: 3.014, 9.976
+
+#### Lokoundje
+
+Code: CM009003006, Coordinates: 3.115, 10.122
+
+#### Lolodorf
+
+Code: CM009003007, Coordinates: 3.273, 10.713
+
+#### Mvengue
+
+Code: CM009003008, Coordinates: 3.276, 10.977
+
+#### Niete
+
+Code: CM009003009, Coordinates: 2.749, 10.129
+
+### Vallée-du-Ntem
+
+Code: CM009004, Coordinates: 2.482, 10.97
+Subdivisions: 4
+
+#### Ambam
+
+Code: CM009004001, Coordinates: 2.516, 11.212
+
+#### Kye-Ossi
+
+Code: CM009004002, Coordinates: 2.239, 11.275
+
+#### Maan
+
+Code: CM009004003, Coordinates: 2.483, 10.676
+
+#### Olamze
+
+Code: CM009004004, Coordinates: 2.233, 11.054
+

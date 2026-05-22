@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CM005002001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nkondjock",
+      "en": "Nkondjock",
+      "slug": "nkondjock-cm005002001"
+    },
+    "code": {
+      "id": "CM005002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005002",
+      "level": 2,
+      "name": {
+        "local": "Nkam",
+        "en": "Nkam",
+        "slug": "nkam-cm005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005002",
+        "level": 2,
+        "name": {
+          "local": "Nkam",
+          "en": "Nkam",
+          "slug": "nkam-cm005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.786",
+      "lon": "10.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005002002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nord-Makombe",
+      "en": "Nord-Makombe",
+      "slug": "nord-makombe-cm005002002"
+    },
+    "code": {
+      "id": "CM005002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005002",
+      "level": 2,
+      "name": {
+        "local": "Nkam",
+        "en": "Nkam",
+        "slug": "nkam-cm005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005002",
+        "level": 2,
+        "name": {
+          "local": "Nkam",
+          "en": "Nkam",
+          "slug": "nkam-cm005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.942",
+      "lon": "10.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005002003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Yabassi",
+      "en": "Yabassi",
+      "slug": "yabassi-cm005002003"
+    },
+    "code": {
+      "id": "CM005002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005002",
+      "level": 2,
+      "name": {
+        "local": "Nkam",
+        "en": "Nkam",
+        "slug": "nkam-cm005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005002",
+        "level": 2,
+        "name": {
+          "local": "Nkam",
+          "en": "Nkam",
+          "slug": "nkam-cm005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.402",
+      "lon": "10.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005002004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Yingui",
+      "en": "Yingui",
+      "slug": "yingui-cm005002004"
+    },
+    "code": {
+      "id": "CM005002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005002",
+      "level": 2,
+      "name": {
+        "local": "Nkam",
+        "en": "Nkam",
+        "slug": "nkam-cm005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005002",
+        "level": 2,
+        "name": {
+          "local": "Nkam",
+          "en": "Nkam",
+          "slug": "nkam-cm005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.439",
+      "lon": "10.456"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

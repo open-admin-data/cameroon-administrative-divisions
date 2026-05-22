@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CM002004001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mbangassina",
+      "en": "Mbangassina",
+      "slug": "mbangassina-cm002004001"
+    },
+    "code": {
+      "id": "CM002004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002004",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Kim",
+        "en": "Mbam-et-Kim",
+        "slug": "mbam-et-kim-cm002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002004",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Kim",
+          "en": "Mbam-et-Kim",
+          "slug": "mbam-et-kim-cm002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.564",
+      "lon": "11.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002004002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngambe-Tikar",
+      "en": "Ngambe-Tikar",
+      "slug": "ngambe-tikar-cm002004002"
+    },
+    "code": {
+      "id": "CM002004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002004",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Kim",
+        "en": "Mbam-et-Kim",
+        "slug": "mbam-et-kim-cm002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002004",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Kim",
+          "en": "Mbam-et-Kim",
+          "slug": "mbam-et-kim-cm002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.653",
+      "lon": "11.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002004003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngoro",
+      "en": "Ngoro",
+      "slug": "ngoro-cm002004003"
+    },
+    "code": {
+      "id": "CM002004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002004",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Kim",
+        "en": "Mbam-et-Kim",
+        "slug": "mbam-et-kim-cm002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002004",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Kim",
+          "en": "Mbam-et-Kim",
+          "slug": "mbam-et-kim-cm002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "11.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002004004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ntui",
+      "en": "Ntui",
+      "slug": "ntui-cm002004004"
+    },
+    "code": {
+      "id": "CM002004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002004",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Kim",
+        "en": "Mbam-et-Kim",
+        "slug": "mbam-et-kim-cm002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002004",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Kim",
+          "en": "Mbam-et-Kim",
+          "slug": "mbam-et-kim-cm002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.525",
+      "lon": "11.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002004005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Yoko",
+      "en": "Yoko",
+      "slug": "yoko-cm002004005"
+    },
+    "code": {
+      "id": "CM002004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002004",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Kim",
+        "en": "Mbam-et-Kim",
+        "slug": "mbam-et-kim-cm002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002004",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Kim",
+          "en": "Mbam-et-Kim",
+          "slug": "mbam-et-kim-cm002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.445",
+      "lon": "12.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

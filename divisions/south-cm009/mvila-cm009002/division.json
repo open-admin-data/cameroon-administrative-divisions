@@ -1,0 +1,47 @@
+{
+  "id": "CM009002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mvila",
+    "en": "Mvila",
+    "slug": "mvila-cm009002"
+  },
+  "code": {
+    "id": "CM009002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM009",
+    "level": 1,
+    "name": {
+      "local": "Sud",
+      "en": "South",
+      "slug": "south-cm009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM009",
+      "level": 1,
+      "name": {
+        "local": "Sud",
+        "en": "South",
+        "slug": "south-cm009"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.732",
+    "lon": "11.437"
+  },
+  "metadata": {},
+  "source": {}
+}

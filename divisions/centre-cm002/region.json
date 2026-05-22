@@ -1,0 +1,30 @@
+{
+  "id": "CM002",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Centre",
+    "en": "Centre",
+    "slug": "centre-cm002"
+  },
+  "code": {
+    "id": "CM002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "division": 10,
+    "subdivision": 70
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.684",
+    "lon": "11.852"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CM008005001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Dschang",
+      "en": "Dschang",
+      "slug": "dschang-cm008005001"
+    },
+    "code": {
+      "id": "CM008005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008005",
+      "level": 2,
+      "name": {
+        "local": "Menoua",
+        "en": "Menoua",
+        "slug": "menoua-cm008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008005",
+        "level": 2,
+        "name": {
+          "local": "Menoua",
+          "en": "Menoua",
+          "slug": "menoua-cm008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.415",
+      "lon": "10.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008005002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Fokoue",
+      "en": "Fokoue",
+      "slug": "fokoue-cm008005002"
+    },
+    "code": {
+      "id": "CM008005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008005",
+      "level": 2,
+      "name": {
+        "local": "Menoua",
+        "en": "Menoua",
+        "slug": "menoua-cm008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008005",
+        "level": 2,
+        "name": {
+          "local": "Menoua",
+          "en": "Menoua",
+          "slug": "menoua-cm008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.321",
+      "lon": "10.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008005003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Fongo-Tongo",
+      "en": "Fongo-Tongo",
+      "slug": "fongo-tongo-cm008005003"
+    },
+    "code": {
+      "id": "CM008005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008005",
+      "level": 2,
+      "name": {
+        "local": "Menoua",
+        "en": "Menoua",
+        "slug": "menoua-cm008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008005",
+        "level": 2,
+        "name": {
+          "local": "Menoua",
+          "en": "Menoua",
+          "slug": "menoua-cm008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.553",
+      "lon": "10.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008005004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nkong-Ni",
+      "en": "Nkong-Ni",
+      "slug": "nkong-ni-cm008005004"
+    },
+    "code": {
+      "id": "CM008005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008005",
+      "level": 2,
+      "name": {
+        "local": "Menoua",
+        "en": "Menoua",
+        "slug": "menoua-cm008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008005",
+        "level": 2,
+        "name": {
+          "local": "Menoua",
+          "en": "Menoua",
+          "slug": "menoua-cm008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.511",
+      "lon": "10.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008005005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Penka-Michel",
+      "en": "Penka-Michel",
+      "slug": "penka-michel-cm008005005"
+    },
+    "code": {
+      "id": "CM008005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008005",
+      "level": 2,
+      "name": {
+        "local": "Menoua",
+        "en": "Menoua",
+        "slug": "menoua-cm008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008005",
+        "level": 2,
+        "name": {
+          "local": "Menoua",
+          "en": "Menoua",
+          "slug": "menoua-cm008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.446",
+      "lon": "10.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008005006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Santchou",
+      "en": "Santchou",
+      "slug": "santchou-cm008005006"
+    },
+    "code": {
+      "id": "CM008005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008005",
+      "level": 2,
+      "name": {
+        "local": "Menoua",
+        "en": "Menoua",
+        "slug": "menoua-cm008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008005",
+        "level": 2,
+        "name": {
+          "local": "Menoua",
+          "en": "Menoua",
+          "slug": "menoua-cm008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.302",
+      "lon": "9.949"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

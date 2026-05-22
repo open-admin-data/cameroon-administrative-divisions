@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CM003001001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Gari Gombo",
+      "en": "Gari Gombo",
+      "slug": "gari-gombo-cm003001001"
+    },
+    "code": {
+      "id": "CM003001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003001",
+      "level": 2,
+      "name": {
+        "local": "Boumba-et-Ngoko",
+        "en": "Boumba-et-Ngoko",
+        "slug": "boumba-et-ngoko-cm003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003001",
+        "level": 2,
+        "name": {
+          "local": "Boumba-et-Ngoko",
+          "en": "Boumba-et-Ngoko",
+          "slug": "boumba-et-ngoko-cm003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.749",
+      "lon": "14.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003001002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Moloundou",
+      "en": "Moloundou",
+      "slug": "moloundou-cm003001002"
+    },
+    "code": {
+      "id": "CM003001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003001",
+      "level": 2,
+      "name": {
+        "local": "Boumba-et-Ngoko",
+        "en": "Boumba-et-Ngoko",
+        "slug": "boumba-et-ngoko-cm003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003001",
+        "level": 2,
+        "name": {
+          "local": "Boumba-et-Ngoko",
+          "en": "Boumba-et-Ngoko",
+          "slug": "boumba-et-ngoko-cm003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.077",
+      "lon": "15.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003001003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Salapoumbe",
+      "en": "Salapoumbe",
+      "slug": "salapoumbe-cm003001003"
+    },
+    "code": {
+      "id": "CM003001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003001",
+      "level": 2,
+      "name": {
+        "local": "Boumba-et-Ngoko",
+        "en": "Boumba-et-Ngoko",
+        "slug": "boumba-et-ngoko-cm003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003001",
+        "level": 2,
+        "name": {
+          "local": "Boumba-et-Ngoko",
+          "en": "Boumba-et-Ngoko",
+          "slug": "boumba-et-ngoko-cm003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.683",
+      "lon": "15.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003001004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Yokadouma",
+      "en": "Yokadouma",
+      "slug": "yokadouma-cm003001004"
+    },
+    "code": {
+      "id": "CM003001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003001",
+      "level": 2,
+      "name": {
+        "local": "Boumba-et-Ngoko",
+        "en": "Boumba-et-Ngoko",
+        "slug": "boumba-et-ngoko-cm003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003001",
+        "level": 2,
+        "name": {
+          "local": "Boumba-et-Ngoko",
+          "en": "Boumba-et-Ngoko",
+          "slug": "boumba-et-ngoko-cm003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.139",
+      "lon": "15.162"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

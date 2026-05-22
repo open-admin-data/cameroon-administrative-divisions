@@ -1,0 +1,47 @@
+{
+  "id": "CM006004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mayo-Rey",
+    "en": "Mayo-Rey",
+    "slug": "mayo-rey-cm006004"
+  },
+  "code": {
+    "id": "CM006004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM006",
+    "level": 1,
+    "name": {
+      "local": "Nord",
+      "en": "North",
+      "slug": "north-cm006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM006",
+      "level": 1,
+      "name": {
+        "local": "Nord",
+        "en": "North",
+        "slug": "north-cm006"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.195",
+    "lon": "14.341"
+  },
+  "metadata": {},
+  "source": {}
+}

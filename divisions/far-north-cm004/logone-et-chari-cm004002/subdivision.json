@@ -1,0 +1,542 @@
+[
+  {
+    "id": "CM004002001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Blangoua",
+      "en": "Blangoua",
+      "slug": "blangoua-cm004002001"
+    },
+    "code": {
+      "id": "CM004002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004002",
+      "level": 2,
+      "name": {
+        "local": "Logone-et-Chari",
+        "en": "Logone-et-Chari",
+        "slug": "logone-et-chari-cm004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004002",
+        "level": 2,
+        "name": {
+          "local": "Logone-et-Chari",
+          "en": "Logone-et-Chari",
+          "slug": "logone-et-chari-cm004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.774",
+      "lon": "14.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004002002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Darak",
+      "en": "Darak",
+      "slug": "darak-cm004002002"
+    },
+    "code": {
+      "id": "CM004002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004002",
+      "level": 2,
+      "name": {
+        "local": "Logone-et-Chari",
+        "en": "Logone-et-Chari",
+        "slug": "logone-et-chari-cm004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004002",
+        "level": 2,
+        "name": {
+          "local": "Logone-et-Chari",
+          "en": "Logone-et-Chari",
+          "slug": "logone-et-chari-cm004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.771",
+      "lon": "14.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004002003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Fotokol",
+      "en": "Fotokol",
+      "slug": "fotokol-cm004002003"
+    },
+    "code": {
+      "id": "CM004002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004002",
+      "level": 2,
+      "name": {
+        "local": "Logone-et-Chari",
+        "en": "Logone-et-Chari",
+        "slug": "logone-et-chari-cm004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004002",
+        "level": 2,
+        "name": {
+          "local": "Logone-et-Chari",
+          "en": "Logone-et-Chari",
+          "slug": "logone-et-chari-cm004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.473",
+      "lon": "14.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004002004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Goulfey",
+      "en": "Goulfey",
+      "slug": "goulfey-cm004002004"
+    },
+    "code": {
+      "id": "CM004002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004002",
+      "level": 2,
+      "name": {
+        "local": "Logone-et-Chari",
+        "en": "Logone-et-Chari",
+        "slug": "logone-et-chari-cm004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004002",
+        "level": 2,
+        "name": {
+          "local": "Logone-et-Chari",
+          "en": "Logone-et-Chari",
+          "slug": "logone-et-chari-cm004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.413",
+      "lon": "14.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004002005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Hile-Alifa",
+      "en": "Hile-Alifa",
+      "slug": "hile-alifa-cm004002005"
+    },
+    "code": {
+      "id": "CM004002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004002",
+      "level": 2,
+      "name": {
+        "local": "Logone-et-Chari",
+        "en": "Logone-et-Chari",
+        "slug": "logone-et-chari-cm004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004002",
+        "level": 2,
+        "name": {
+          "local": "Logone-et-Chari",
+          "en": "Logone-et-Chari",
+          "slug": "logone-et-chari-cm004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.683",
+      "lon": "14.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004002006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kousseri",
+      "en": "Kousseri",
+      "slug": "kousseri-cm004002006"
+    },
+    "code": {
+      "id": "CM004002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004002",
+      "level": 2,
+      "name": {
+        "local": "Logone-et-Chari",
+        "en": "Logone-et-Chari",
+        "slug": "logone-et-chari-cm004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004002",
+        "level": 2,
+        "name": {
+          "local": "Logone-et-Chari",
+          "en": "Logone-et-Chari",
+          "slug": "logone-et-chari-cm004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.061",
+      "lon": "14.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004002007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Logone-Birni",
+      "en": "Logone-Birni",
+      "slug": "logone-birni-cm004002007"
+    },
+    "code": {
+      "id": "CM004002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004002",
+      "level": 2,
+      "name": {
+        "local": "Logone-et-Chari",
+        "en": "Logone-et-Chari",
+        "slug": "logone-et-chari-cm004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004002",
+        "level": 2,
+        "name": {
+          "local": "Logone-et-Chari",
+          "en": "Logone-et-Chari",
+          "slug": "logone-et-chari-cm004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.803",
+      "lon": "14.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004002008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Makary",
+      "en": "Makary",
+      "slug": "makary-cm004002008"
+    },
+    "code": {
+      "id": "CM004002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004002",
+      "level": 2,
+      "name": {
+        "local": "Logone-et-Chari",
+        "en": "Logone-et-Chari",
+        "slug": "logone-et-chari-cm004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004002",
+        "level": 2,
+        "name": {
+          "local": "Logone-et-Chari",
+          "en": "Logone-et-Chari",
+          "slug": "logone-et-chari-cm004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.443",
+      "lon": "14.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004002009",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Waza",
+      "en": "Waza",
+      "slug": "waza-cm004002009"
+    },
+    "code": {
+      "id": "CM004002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004002",
+      "level": 2,
+      "name": {
+        "local": "Logone-et-Chari",
+        "en": "Logone-et-Chari",
+        "slug": "logone-et-chari-cm004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004002",
+        "level": 2,
+        "name": {
+          "local": "Logone-et-Chari",
+          "en": "Logone-et-Chari",
+          "slug": "logone-et-chari-cm004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.416",
+      "lon": "14.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004002010",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Zina",
+      "en": "Zina",
+      "slug": "zina-cm004002010"
+    },
+    "code": {
+      "id": "CM004002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004002",
+      "level": 2,
+      "name": {
+        "local": "Logone-et-Chari",
+        "en": "Logone-et-Chari",
+        "slug": "logone-et-chari-cm004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004002",
+        "level": 2,
+        "name": {
+          "local": "Logone-et-Chari",
+          "en": "Logone-et-Chari",
+          "slug": "logone-et-chari-cm004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.23",
+      "lon": "14.965"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

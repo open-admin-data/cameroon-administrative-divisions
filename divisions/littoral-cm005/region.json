@@ -1,0 +1,30 @@
+{
+  "id": "CM005",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Littoral",
+    "en": "Littoral",
+    "slug": "littoral-cm005"
+  },
+  "code": {
+    "id": "CM005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "division": 4,
+    "subdivision": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.295",
+    "lon": "10.227"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CM008001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Bamboutos",
+    "en": "Bamboutos",
+    "slug": "bamboutos-cm008001"
+  },
+  "code": {
+    "id": "CM008001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM008",
+    "level": 1,
+    "name": {
+      "local": "Ouest",
+      "en": "West",
+      "slug": "west-cm008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM008",
+      "level": 1,
+      "name": {
+        "local": "Ouest",
+        "en": "West",
+        "slug": "west-cm008"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.668",
+    "lon": "10.293"
+  },
+  "metadata": {},
+  "source": {}
+}

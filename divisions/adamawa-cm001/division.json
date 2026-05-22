@@ -1,0 +1,237 @@
+[
+  {
+    "id": "CM001001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Djérem",
+      "en": "Djérem",
+      "slug": "djrem-cm001001"
+    },
+    "code": {
+      "id": "CM001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001",
+      "level": 1,
+      "name": {
+        "local": "Adamaoua",
+        "en": "Adamawa",
+        "slug": "adamawa-cm001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "12.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Faro-et-Déo",
+      "en": "Faro-et-Déo",
+      "slug": "faro-et-do-cm001002"
+    },
+    "code": {
+      "id": "CM001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001",
+      "level": 1,
+      "name": {
+        "local": "Adamaoua",
+        "en": "Adamawa",
+        "slug": "adamawa-cm001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.533",
+      "lon": "12.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mayo-Banyo",
+      "en": "Mayo-Banyo",
+      "slug": "mayo-banyo-cm001003"
+    },
+    "code": {
+      "id": "CM001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001",
+      "level": 1,
+      "name": {
+        "local": "Adamaoua",
+        "en": "Adamawa",
+        "slug": "adamawa-cm001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.614",
+      "lon": "11.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mbéré",
+      "en": "Mbéré",
+      "slug": "mbr-cm001004"
+    },
+    "code": {
+      "id": "CM001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001",
+      "level": 1,
+      "name": {
+        "local": "Adamaoua",
+        "en": "Adamawa",
+        "slug": "adamawa-cm001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.612",
+      "lon": "14.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Vina",
+      "en": "Vina",
+      "slug": "vina-cm001005"
+    },
+    "code": {
+      "id": "CM001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001",
+      "level": 1,
+      "name": {
+        "local": "Adamaoua",
+        "en": "Adamawa",
+        "slug": "adamawa-cm001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.246",
+      "lon": "13.646"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

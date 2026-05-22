@@ -1,0 +1,47 @@
+{
+  "id": "CM007004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Menchum",
+    "en": "Menchum",
+    "slug": "menchum-cm007004"
+  },
+  "code": {
+    "id": "CM007004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM007",
+    "level": 1,
+    "name": {
+      "local": "Nord-Ouest",
+      "en": "North-West",
+      "slug": "north-west-cm007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM007",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ouest",
+        "en": "North-West",
+        "slug": "north-west-cm007"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.623",
+    "lon": "10.043"
+  },
+  "metadata": {},
+  "source": {}
+}

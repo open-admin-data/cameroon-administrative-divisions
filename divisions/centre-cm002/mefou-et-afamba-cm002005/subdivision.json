@@ -1,0 +1,434 @@
+[
+  {
+    "id": "CM002005001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Afanloum",
+      "en": "Afanloum",
+      "slug": "afanloum-cm002005001"
+    },
+    "code": {
+      "id": "CM002005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002005",
+      "level": 2,
+      "name": {
+        "local": "Mefou-et-Afamba",
+        "en": "Mefou-et-Afamba",
+        "slug": "mefou-et-afamba-cm002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002005",
+        "level": 2,
+        "name": {
+          "local": "Mefou-et-Afamba",
+          "en": "Mefou-et-Afamba",
+          "slug": "mefou-et-afamba-cm002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.127",
+      "lon": "12.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002005002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Assamba",
+      "en": "Assamba",
+      "slug": "assamba-cm002005002"
+    },
+    "code": {
+      "id": "CM002005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002005",
+      "level": 2,
+      "name": {
+        "local": "Mefou-et-Afamba",
+        "en": "Mefou-et-Afamba",
+        "slug": "mefou-et-afamba-cm002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002005",
+        "level": 2,
+        "name": {
+          "local": "Mefou-et-Afamba",
+          "en": "Mefou-et-Afamba",
+          "slug": "mefou-et-afamba-cm002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.992",
+      "lon": "12.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002005003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Awae",
+      "en": "Awae",
+      "slug": "awae-cm002005003"
+    },
+    "code": {
+      "id": "CM002005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002005",
+      "level": 2,
+      "name": {
+        "local": "Mefou-et-Afamba",
+        "en": "Mefou-et-Afamba",
+        "slug": "mefou-et-afamba-cm002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002005",
+        "level": 2,
+        "name": {
+          "local": "Mefou-et-Afamba",
+          "en": "Mefou-et-Afamba",
+          "slug": "mefou-et-afamba-cm002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.888",
+      "lon": "11.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002005004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Edzendouan",
+      "en": "Edzendouan",
+      "slug": "edzendouan-cm002005004"
+    },
+    "code": {
+      "id": "CM002005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002005",
+      "level": 2,
+      "name": {
+        "local": "Mefou-et-Afamba",
+        "en": "Mefou-et-Afamba",
+        "slug": "mefou-et-afamba-cm002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002005",
+        "level": 2,
+        "name": {
+          "local": "Mefou-et-Afamba",
+          "en": "Mefou-et-Afamba",
+          "slug": "mefou-et-afamba-cm002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.197",
+      "lon": "11.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002005005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Esse",
+      "en": "Esse",
+      "slug": "esse-cm002005005"
+    },
+    "code": {
+      "id": "CM002005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002005",
+      "level": 2,
+      "name": {
+        "local": "Mefou-et-Afamba",
+        "en": "Mefou-et-Afamba",
+        "slug": "mefou-et-afamba-cm002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002005",
+        "level": 2,
+        "name": {
+          "local": "Mefou-et-Afamba",
+          "en": "Mefou-et-Afamba",
+          "slug": "mefou-et-afamba-cm002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.123",
+      "lon": "11.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002005006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mfou",
+      "en": "Mfou",
+      "slug": "mfou-cm002005006"
+    },
+    "code": {
+      "id": "CM002005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002005",
+      "level": 2,
+      "name": {
+        "local": "Mefou-et-Afamba",
+        "en": "Mefou-et-Afamba",
+        "slug": "mefou-et-afamba-cm002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002005",
+        "level": 2,
+        "name": {
+          "local": "Mefou-et-Afamba",
+          "en": "Mefou-et-Afamba",
+          "slug": "mefou-et-afamba-cm002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.689",
+      "lon": "11.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002005007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nkolafamba",
+      "en": "Nkolafamba",
+      "slug": "nkolafamba-cm002005007"
+    },
+    "code": {
+      "id": "CM002005007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002005",
+      "level": 2,
+      "name": {
+        "local": "Mefou-et-Afamba",
+        "en": "Mefou-et-Afamba",
+        "slug": "mefou-et-afamba-cm002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002005",
+        "level": 2,
+        "name": {
+          "local": "Mefou-et-Afamba",
+          "en": "Mefou-et-Afamba",
+          "slug": "mefou-et-afamba-cm002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.808",
+      "lon": "11.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002005008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Soa",
+      "en": "Soa",
+      "slug": "soa-cm002005008"
+    },
+    "code": {
+      "id": "CM002005008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002005",
+      "level": 2,
+      "name": {
+        "local": "Mefou-et-Afamba",
+        "en": "Mefou-et-Afamba",
+        "slug": "mefou-et-afamba-cm002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002005",
+        "level": 2,
+        "name": {
+          "local": "Mefou-et-Afamba",
+          "en": "Mefou-et-Afamba",
+          "slug": "mefou-et-afamba-cm002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.005",
+      "lon": "11.579"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

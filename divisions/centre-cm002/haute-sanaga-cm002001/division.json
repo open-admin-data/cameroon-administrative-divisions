@@ -1,0 +1,47 @@
+{
+  "id": "CM002001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Haute-Sanaga",
+    "en": "Haute-Sanaga",
+    "slug": "haute-sanaga-cm002001"
+  },
+  "code": {
+    "id": "CM002001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM002",
+    "level": 1,
+    "name": {
+      "local": "Centre",
+      "en": "Centre",
+      "slug": "centre-cm002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.655",
+    "lon": "12.581"
+  },
+  "metadata": {},
+  "source": {}
+}

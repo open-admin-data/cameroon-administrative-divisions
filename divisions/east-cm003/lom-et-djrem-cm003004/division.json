@@ -1,0 +1,47 @@
+{
+  "id": "CM003004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Lom-et-Djérem",
+    "en": "Lom-et-Djérem",
+    "slug": "lom-et-djrem-cm003004"
+  },
+  "code": {
+    "id": "CM003004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM003",
+    "level": 1,
+    "name": {
+      "local": "Est",
+      "en": "East",
+      "slug": "east-cm003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM003",
+      "level": 1,
+      "name": {
+        "local": "Est",
+        "en": "East",
+        "slug": "east-cm003"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.234",
+    "lon": "13.67"
+  },
+  "metadata": {},
+  "source": {}
+}

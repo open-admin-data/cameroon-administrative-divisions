@@ -1,0 +1,30 @@
+{
+  "id": "CM007",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Nord-Ouest",
+    "en": "North-West",
+    "slug": "north-west-cm007"
+  },
+  "code": {
+    "id": "CM007",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "division": 7,
+    "subdivision": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.433",
+    "lon": "10.47"
+  },
+  "metadata": {},
+  "source": {}
+}

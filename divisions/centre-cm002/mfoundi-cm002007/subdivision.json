@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CM002007001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Yaounde 1er",
+      "en": "Yaounde 1er",
+      "slug": "yaounde-1er-cm002007001"
+    },
+    "code": {
+      "id": "CM002007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002007",
+      "level": 2,
+      "name": {
+        "local": "Mfoundi",
+        "en": "Mfoundi",
+        "slug": "mfoundi-cm002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002007",
+        "level": 2,
+        "name": {
+          "local": "Mfoundi",
+          "en": "Mfoundi",
+          "slug": "mfoundi-cm002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.915",
+      "lon": "11.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002007002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Yaounde 2e",
+      "en": "Yaounde 2e",
+      "slug": "yaounde-2e-cm002007002"
+    },
+    "code": {
+      "id": "CM002007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002007",
+      "level": 2,
+      "name": {
+        "local": "Mfoundi",
+        "en": "Mfoundi",
+        "slug": "mfoundi-cm002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002007",
+        "level": 2,
+        "name": {
+          "local": "Mfoundi",
+          "en": "Mfoundi",
+          "slug": "mfoundi-cm002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.907",
+      "lon": "11.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002007003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Yaounde 3e",
+      "en": "Yaounde 3e",
+      "slug": "yaounde-3e-cm002007003"
+    },
+    "code": {
+      "id": "CM002007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002007",
+      "level": 2,
+      "name": {
+        "local": "Mfoundi",
+        "en": "Mfoundi",
+        "slug": "mfoundi-cm002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002007",
+        "level": 2,
+        "name": {
+          "local": "Mfoundi",
+          "en": "Mfoundi",
+          "slug": "mfoundi-cm002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.791",
+      "lon": "11.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002007004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Yaounde 4e",
+      "en": "Yaounde 4e",
+      "slug": "yaounde-4e-cm002007004"
+    },
+    "code": {
+      "id": "CM002007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002007",
+      "level": 2,
+      "name": {
+        "local": "Mfoundi",
+        "en": "Mfoundi",
+        "slug": "mfoundi-cm002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002007",
+        "level": 2,
+        "name": {
+          "local": "Mfoundi",
+          "en": "Mfoundi",
+          "slug": "mfoundi-cm002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.815",
+      "lon": "11.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002007005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Yaounde 5e",
+      "en": "Yaounde 5e",
+      "slug": "yaounde-5e-cm002007005"
+    },
+    "code": {
+      "id": "CM002007005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002007",
+      "level": 2,
+      "name": {
+        "local": "Mfoundi",
+        "en": "Mfoundi",
+        "slug": "mfoundi-cm002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002007",
+        "level": 2,
+        "name": {
+          "local": "Mfoundi",
+          "en": "Mfoundi",
+          "slug": "mfoundi-cm002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.895",
+      "lon": "11.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002007006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Yaounde 6e",
+      "en": "Yaounde 6e",
+      "slug": "yaounde-6e-cm002007006"
+    },
+    "code": {
+      "id": "CM002007006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002007",
+      "level": 2,
+      "name": {
+        "local": "Mfoundi",
+        "en": "Mfoundi",
+        "slug": "mfoundi-cm002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002007",
+        "level": 2,
+        "name": {
+          "local": "Mfoundi",
+          "en": "Mfoundi",
+          "slug": "mfoundi-cm002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.833",
+      "lon": "11.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002007007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Yaounde 7e",
+      "en": "Yaounde 7e",
+      "slug": "yaounde-7e-cm002007007"
+    },
+    "code": {
+      "id": "CM002007007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002007",
+      "level": 2,
+      "name": {
+        "local": "Mfoundi",
+        "en": "Mfoundi",
+        "slug": "mfoundi-cm002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002007",
+        "level": 2,
+        "name": {
+          "local": "Mfoundi",
+          "en": "Mfoundi",
+          "slug": "mfoundi-cm002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.875",
+      "lon": "11.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

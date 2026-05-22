@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CM001004001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Dir",
+      "en": "Dir",
+      "slug": "dir-cm001004001"
+    },
+    "code": {
+      "id": "CM001004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001004",
+      "level": 2,
+      "name": {
+        "local": "Mbéré",
+        "en": "Mbéré",
+        "slug": "mbr-cm001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001004",
+        "level": 2,
+        "name": {
+          "local": "Mbéré",
+          "en": "Mbéré",
+          "slug": "mbr-cm001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.406",
+      "lon": "13.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001004002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Djohong",
+      "en": "Djohong",
+      "slug": "djohong-cm001004002"
+    },
+    "code": {
+      "id": "CM001004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001004",
+      "level": 2,
+      "name": {
+        "local": "Mbéré",
+        "en": "Mbéré",
+        "slug": "mbr-cm001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001004",
+        "level": 2,
+        "name": {
+          "local": "Mbéré",
+          "en": "Mbéré",
+          "slug": "mbr-cm001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.931",
+      "lon": "14.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001004003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Meiganga",
+      "en": "Meiganga",
+      "slug": "meiganga-cm001004003"
+    },
+    "code": {
+      "id": "CM001004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001004",
+      "level": 2,
+      "name": {
+        "local": "Mbéré",
+        "en": "Mbéré",
+        "slug": "mbr-cm001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001004",
+        "level": 2,
+        "name": {
+          "local": "Mbéré",
+          "en": "Mbéré",
+          "slug": "mbr-cm001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.437",
+      "lon": "14.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001004004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngaoui",
+      "en": "Ngaoui",
+      "slug": "ngaoui-cm001004004"
+    },
+    "code": {
+      "id": "CM001004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001004",
+      "level": 2,
+      "name": {
+        "local": "Mbéré",
+        "en": "Mbéré",
+        "slug": "mbr-cm001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001004",
+        "level": 2,
+        "name": {
+          "local": "Mbéré",
+          "en": "Mbéré",
+          "slug": "mbr-cm001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.781",
+      "lon": "14.962"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

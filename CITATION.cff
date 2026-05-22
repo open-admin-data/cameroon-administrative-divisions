@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Cameroon Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-22"
+url: "https://github.com/open-admin-data/cameroon-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/cameroon-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - cameroon
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Cameroon's administrative hierarchy:
+  10 regions, 58 divisions, 360 subdivisions.
+  Bilingual with coordinates and postal codes where available.

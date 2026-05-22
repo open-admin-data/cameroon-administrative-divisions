@@ -1,0 +1,47 @@
+{
+  "id": "CM009004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Vallée-du-Ntem",
+    "en": "Vallée-du-Ntem",
+    "slug": "valle-du-ntem-cm009004"
+  },
+  "code": {
+    "id": "CM009004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM009",
+    "level": 1,
+    "name": {
+      "local": "Sud",
+      "en": "South",
+      "slug": "south-cm009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM009",
+      "level": 1,
+      "name": {
+        "local": "Sud",
+        "en": "South",
+        "slug": "south-cm009"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.482",
+    "lon": "10.97"
+  },
+  "metadata": {},
+  "source": {}
+}

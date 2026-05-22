@@ -1,0 +1,47 @@
+{
+  "id": "CM006003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mayo-Louti",
+    "en": "Mayo-Louti",
+    "slug": "mayo-louti-cm006003"
+  },
+  "code": {
+    "id": "CM006003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM006",
+    "level": 1,
+    "name": {
+      "local": "Nord",
+      "en": "North",
+      "slug": "north-cm006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM006",
+      "level": 1,
+      "name": {
+        "local": "Nord",
+        "en": "North",
+        "slug": "north-cm006"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.913",
+    "lon": "13.881"
+  },
+  "metadata": {},
+  "source": {}
+}

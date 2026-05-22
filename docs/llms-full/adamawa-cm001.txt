@@ -1,0 +1,118 @@
+# Adamawa — Cameroon Administrative Divisions
+
+> 5 divisions, 21 subdivisions
+> Code: CM001
+> Coordinates: 7.082, 13.218
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Divisions
+
+### Djérem
+
+Code: CM001001, Coordinates: 6.529, 12.74
+Subdivisions: 2
+
+#### Ngaoundal
+
+Code: CM001001001, Coordinates: 6.44, 13.14
+
+#### Tibati
+
+Code: CM001001002, Coordinates: 6.529, 12.643
+
+### Faro-et-Déo
+
+Code: CM001002, Coordinates: 7.533, 12.598
+Subdivisions: 4
+
+#### Galim-Tignere
+
+Code: CM001002001, Coordinates: 7.131, 12.308
+
+#### Kontcha
+
+Code: CM001002002, Coordinates: 8.063, 12.269
+
+#### Mayo-Baleo
+
+Code: CM001002003, Coordinates: 7.679, 12.332
+
+#### Tignere
+
+Code: CM001002004, Coordinates: 7.361, 12.635
+
+### Mayo-Banyo
+
+Code: CM001003, Coordinates: 6.614, 11.783
+Subdivisions: 3
+
+#### Bankim
+
+Code: CM001003001, Coordinates: 6.257, 11.496
+
+#### Banyo
+
+Code: CM001003002, Coordinates: 6.723, 11.799
+
+#### Mayo-Darle
+
+Code: CM001003003, Coordinates: 6.476, 11.652
+
+### Mbéré
+
+Code: CM001004, Coordinates: 6.612, 14.382
+Subdivisions: 4
+
+#### Dir
+
+Code: CM001004001, Coordinates: 6.406, 13.671
+
+#### Djohong
+
+Code: CM001004002, Coordinates: 6.931, 14.872
+
+#### Meiganga
+
+Code: CM001004003, Coordinates: 6.437, 14.421
+
+#### Ngaoui
+
+Code: CM001004004, Coordinates: 6.781, 14.962
+
+### Vina
+
+Code: CM001005, Coordinates: 7.246, 13.646
+Subdivisions: 8
+
+#### Belel
+
+Code: CM001005001, Coordinates: 7.108, 14.39
+
+#### Martap
+
+Code: CM001005002, Coordinates: 7.223, 13.174
+
+#### Mbe
+
+Code: CM001005003, Coordinates: 7.772, 13.541
+
+#### Nganha
+
+Code: CM001005004, Coordinates: 7.462, 13.916
+
+#### Ngaoundere 1er
+
+Code: CM001005005, Coordinates: 7.275, 13.547
+
+#### Ngaoundere 2e
+
+Code: CM001005006, Coordinates: 7.348, 13.627
+
+#### Ngaoundere 3e
+
+Code: CM001005007, Coordinates: 7.499, 13.565
+
+#### Nyambaka
+
+Code: CM001005008, Coordinates: 6.911, 13.796
+

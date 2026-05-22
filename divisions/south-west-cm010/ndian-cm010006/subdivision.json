@@ -1,0 +1,488 @@
+[
+  {
+    "id": "CM010006001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bamusso",
+      "en": "Bamusso",
+      "slug": "bamusso-cm010006001"
+    },
+    "code": {
+      "id": "CM010006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010006",
+      "level": 2,
+      "name": {
+        "local": "Ndian",
+        "en": "Ndian",
+        "slug": "ndian-cm010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010006",
+        "level": 2,
+        "name": {
+          "local": "Ndian",
+          "en": "Ndian",
+          "slug": "ndian-cm010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.461",
+      "lon": "8.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010006002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Dikome Balue",
+      "en": "Dikome Balue",
+      "slug": "dikome-balue-cm010006002"
+    },
+    "code": {
+      "id": "CM010006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010006",
+      "level": 2,
+      "name": {
+        "local": "Ndian",
+        "en": "Ndian",
+        "slug": "ndian-cm010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010006",
+        "level": 2,
+        "name": {
+          "local": "Ndian",
+          "en": "Ndian",
+          "slug": "ndian-cm010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.807",
+      "lon": "9.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010006003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ekondo Titi",
+      "en": "Ekondo Titi",
+      "slug": "ekondo-titi-cm010006003"
+    },
+    "code": {
+      "id": "CM010006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010006",
+      "level": 2,
+      "name": {
+        "local": "Ndian",
+        "en": "Ndian",
+        "slug": "ndian-cm010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010006",
+        "level": 2,
+        "name": {
+          "local": "Ndian",
+          "en": "Ndian",
+          "slug": "ndian-cm010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.693",
+      "lon": "8.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010006004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Idabato",
+      "en": "Idabato",
+      "slug": "idabato-cm010006004"
+    },
+    "code": {
+      "id": "CM010006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010006",
+      "level": 2,
+      "name": {
+        "local": "Ndian",
+        "en": "Ndian",
+        "slug": "ndian-cm010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010006",
+        "level": 2,
+        "name": {
+          "local": "Ndian",
+          "en": "Ndian",
+          "slug": "ndian-cm010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "8.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010006005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Isangele",
+      "en": "Isangele",
+      "slug": "isangele-cm010006005"
+    },
+    "code": {
+      "id": "CM010006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010006",
+      "level": 2,
+      "name": {
+        "local": "Ndian",
+        "en": "Ndian",
+        "slug": "ndian-cm010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010006",
+        "level": 2,
+        "name": {
+          "local": "Ndian",
+          "en": "Ndian",
+          "slug": "ndian-cm010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.795",
+      "lon": "8.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010006006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kombo Abedimo",
+      "en": "Kombo Abedimo",
+      "slug": "kombo-abedimo-cm010006006"
+    },
+    "code": {
+      "id": "CM010006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010006",
+      "level": 2,
+      "name": {
+        "local": "Ndian",
+        "en": "Ndian",
+        "slug": "ndian-cm010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010006",
+        "level": 2,
+        "name": {
+          "local": "Ndian",
+          "en": "Ndian",
+          "slug": "ndian-cm010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.599",
+      "lon": "8.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010006007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kombo Itindi",
+      "en": "Kombo Itindi",
+      "slug": "kombo-itindi-cm010006007"
+    },
+    "code": {
+      "id": "CM010006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010006",
+      "level": 2,
+      "name": {
+        "local": "Ndian",
+        "en": "Ndian",
+        "slug": "ndian-cm010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010006",
+        "level": 2,
+        "name": {
+          "local": "Ndian",
+          "en": "Ndian",
+          "slug": "ndian-cm010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.653",
+      "lon": "8.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010006008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mundemba",
+      "en": "Mundemba",
+      "slug": "mundemba-cm010006008"
+    },
+    "code": {
+      "id": "CM010006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010006",
+      "level": 2,
+      "name": {
+        "local": "Ndian",
+        "en": "Ndian",
+        "slug": "ndian-cm010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010006",
+        "level": 2,
+        "name": {
+          "local": "Ndian",
+          "en": "Ndian",
+          "slug": "ndian-cm010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.052",
+      "lon": "8.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010006009",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Toko",
+      "en": "Toko",
+      "slug": "toko-cm010006009"
+    },
+    "code": {
+      "id": "CM010006009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010006",
+      "level": 2,
+      "name": {
+        "local": "Ndian",
+        "en": "Ndian",
+        "slug": "ndian-cm010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010006",
+        "level": 2,
+        "name": {
+          "local": "Ndian",
+          "en": "Ndian",
+          "slug": "ndian-cm010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.181",
+      "lon": "9.109"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

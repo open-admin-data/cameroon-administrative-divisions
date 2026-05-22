@@ -1,0 +1,47 @@
+{
+  "id": "CM008002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Haut-Nkam",
+    "en": "Haut-Nkam",
+    "slug": "haut-nkam-cm008002"
+  },
+  "code": {
+    "id": "CM008002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM008",
+    "level": 1,
+    "name": {
+      "local": "Ouest",
+      "en": "West",
+      "slug": "west-cm008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM008",
+      "level": 1,
+      "name": {
+        "local": "Ouest",
+        "en": "West",
+        "slug": "west-cm008"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.147",
+    "lon": "10.176"
+  },
+  "metadata": {},
+  "source": {}
+}

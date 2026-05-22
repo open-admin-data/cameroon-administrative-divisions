@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CM001001001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngaoundal",
+      "en": "Ngaoundal",
+      "slug": "ngaoundal-cm001001001"
+    },
+    "code": {
+      "id": "CM001001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001001",
+      "level": 2,
+      "name": {
+        "local": "Djérem",
+        "en": "Djérem",
+        "slug": "djrem-cm001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001001",
+        "level": 2,
+        "name": {
+          "local": "Djérem",
+          "en": "Djérem",
+          "slug": "djrem-cm001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.44",
+      "lon": "13.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001001002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Tibati",
+      "en": "Tibati",
+      "slug": "tibati-cm001001002"
+    },
+    "code": {
+      "id": "CM001001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001001",
+      "level": 2,
+      "name": {
+        "local": "Djérem",
+        "en": "Djérem",
+        "slug": "djrem-cm001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001001",
+        "level": 2,
+        "name": {
+          "local": "Djérem",
+          "en": "Djérem",
+          "slug": "djrem-cm001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "12.643"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

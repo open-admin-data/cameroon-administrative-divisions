@@ -1,0 +1,113 @@
+# North — Cameroon Administrative Divisions
+
+> 4 divisions, 21 subdivisions
+> Code: CM006
+> Coordinates: 8.637, 13.873
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Divisions
+
+### Bénoué
+
+Code: CM006001, Coordinates: 9.178, 13.438
+Subdivisions: 12
+
+#### Bascheo
+
+Code: CM006001001, Coordinates: 9.764, 13.357
+
+#### Bibemi
+
+Code: CM006001002, Coordinates: 9.303, 13.953
+
+#### Dembo
+
+Code: CM006001003, Coordinates: 9.788, 13.539
+
+#### Demsa
+
+Code: CM006001004, Coordinates: 9.486, 13.221
+
+#### Garoua 1er
+
+Code: CM006001005, Coordinates: 9.337, 13.364
+
+#### Garoua 2e
+
+Code: CM006001006, Coordinates: 9.348, 13.429
+
+#### Garoua 3e
+
+Code: CM006001007, Coordinates: 9.272, 13.473
+
+#### Lagdo
+
+Code: CM006001008, Coordinates: 8.758, 13.52
+
+#### Mayo-Hourna
+
+Code: CM006001009, Coordinates: 9.345, 13.129
+
+#### Pitoa
+
+Code: CM006001010, Coordinates: 9.474, 13.62
+
+#### Tcheboa
+
+Code: CM006001011, Coordinates: 8.932, 13.277
+
+#### Touroua
+
+Code: CM006001012, Coordinates: 9.027, 13.014
+
+### Faro
+
+Code: CM006002, Coordinates: 8.422, 12.851
+Subdivisions: 2
+
+#### Beka
+
+Code: CM006002001, Coordinates: 8.715, 12.787
+
+#### Poli
+
+Code: CM006002002, Coordinates: 8.195, 12.813
+
+### Mayo-Louti
+
+Code: CM006003, Coordinates: 9.913, 13.881
+Subdivisions: 3
+
+#### Figuil
+
+Code: CM006003001, Coordinates: 9.898, 14.072
+
+#### Guider
+
+Code: CM006003002, Coordinates: 9.907, 13.885
+
+#### Mayo-Oulo
+
+Code: CM006003003, Coordinates: 10.006, 13.483
+
+### Mayo-Rey
+
+Code: CM006004, Coordinates: 8.195, 14.341
+Subdivisions: 4
+
+#### Madingring
+
+Code: CM006004001, Coordinates: 8.227, 14.994
+
+#### Rey-Bouba
+
+Code: CM006004002, Coordinates: 8.844, 14.3
+
+#### Tchollire
+
+Code: CM006004003, Coordinates: 7.867, 14.144
+
+#### Touboro
+
+Code: CM006004004, Coordinates: 7.642, 15.051
+

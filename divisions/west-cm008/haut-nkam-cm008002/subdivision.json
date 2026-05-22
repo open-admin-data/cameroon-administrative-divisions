@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CM008002001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bafang",
+      "en": "Bafang",
+      "slug": "bafang-cm008002001"
+    },
+    "code": {
+      "id": "CM008002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nkam",
+        "en": "Haut-Nkam",
+        "slug": "haut-nkam-cm008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nkam",
+          "en": "Haut-Nkam",
+          "slug": "haut-nkam-cm008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.114",
+      "lon": "10.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008002002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bakou",
+      "en": "Bakou",
+      "slug": "bakou-cm008002002"
+    },
+    "code": {
+      "id": "CM008002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nkam",
+        "en": "Haut-Nkam",
+        "slug": "haut-nkam-cm008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nkam",
+          "en": "Haut-Nkam",
+          "slug": "haut-nkam-cm008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.003",
+      "lon": "10.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008002003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bana",
+      "en": "Bana",
+      "slug": "bana-cm008002003"
+    },
+    "code": {
+      "id": "CM008002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nkam",
+        "en": "Haut-Nkam",
+        "slug": "haut-nkam-cm008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nkam",
+          "en": "Haut-Nkam",
+          "slug": "haut-nkam-cm008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.121",
+      "lon": "10.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008002004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bandja",
+      "en": "Bandja",
+      "slug": "bandja-cm008002004"
+    },
+    "code": {
+      "id": "CM008002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nkam",
+        "en": "Haut-Nkam",
+        "slug": "haut-nkam-cm008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nkam",
+          "en": "Haut-Nkam",
+          "slug": "haut-nkam-cm008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.271",
+      "lon": "10.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008002005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Banka",
+      "en": "Banka",
+      "slug": "banka-cm008002005"
+    },
+    "code": {
+      "id": "CM008002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nkam",
+        "en": "Haut-Nkam",
+        "slug": "haut-nkam-cm008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nkam",
+          "en": "Haut-Nkam",
+          "slug": "haut-nkam-cm008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.197",
+      "lon": "10.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008002006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Banwa",
+      "en": "Banwa",
+      "slug": "banwa-cm008002006"
+    },
+    "code": {
+      "id": "CM008002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nkam",
+        "en": "Haut-Nkam",
+        "slug": "haut-nkam-cm008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nkam",
+          "en": "Haut-Nkam",
+          "slug": "haut-nkam-cm008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.085",
+      "lon": "10.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008002007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kekem",
+      "en": "Kekem",
+      "slug": "kekem-cm008002007"
+    },
+    "code": {
+      "id": "CM008002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Nkam",
+        "en": "Haut-Nkam",
+        "slug": "haut-nkam-cm008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Nkam",
+          "en": "Haut-Nkam",
+          "slug": "haut-nkam-cm008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "10.074"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

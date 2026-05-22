@@ -1,0 +1,47 @@
+{
+  "id": "CM002004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mbam-et-Kim",
+    "en": "Mbam-et-Kim",
+    "slug": "mbam-et-kim-cm002004"
+  },
+  "code": {
+    "id": "CM002004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM002",
+    "level": 1,
+    "name": {
+      "local": "Centre",
+      "en": "Centre",
+      "slug": "centre-cm002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.305",
+    "lon": "11.959"
+  },
+  "metadata": {},
+  "source": {}
+}

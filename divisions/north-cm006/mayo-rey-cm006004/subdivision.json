@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CM006004001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Madingring",
+      "en": "Madingring",
+      "slug": "madingring-cm006004001"
+    },
+    "code": {
+      "id": "CM006004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006004",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Rey",
+        "en": "Mayo-Rey",
+        "slug": "mayo-rey-cm006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006004",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Rey",
+          "en": "Mayo-Rey",
+          "slug": "mayo-rey-cm006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.227",
+      "lon": "14.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006004002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Rey-Bouba",
+      "en": "Rey-Bouba",
+      "slug": "rey-bouba-cm006004002"
+    },
+    "code": {
+      "id": "CM006004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006004",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Rey",
+        "en": "Mayo-Rey",
+        "slug": "mayo-rey-cm006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006004",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Rey",
+          "en": "Mayo-Rey",
+          "slug": "mayo-rey-cm006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.844",
+      "lon": "14.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006004003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Tchollire",
+      "en": "Tchollire",
+      "slug": "tchollire-cm006004003"
+    },
+    "code": {
+      "id": "CM006004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006004",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Rey",
+        "en": "Mayo-Rey",
+        "slug": "mayo-rey-cm006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006004",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Rey",
+          "en": "Mayo-Rey",
+          "slug": "mayo-rey-cm006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.867",
+      "lon": "14.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006004004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Touboro",
+      "en": "Touboro",
+      "slug": "touboro-cm006004004"
+    },
+    "code": {
+      "id": "CM006004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006004",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Rey",
+        "en": "Mayo-Rey",
+        "slug": "mayo-rey-cm006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006004",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Rey",
+          "en": "Mayo-Rey",
+          "slug": "mayo-rey-cm006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.642",
+      "lon": "15.051"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

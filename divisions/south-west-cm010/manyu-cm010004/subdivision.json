@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CM010004001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Akwaya",
+      "en": "Akwaya",
+      "slug": "akwaya-cm010004001"
+    },
+    "code": {
+      "id": "CM010004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010004",
+      "level": 2,
+      "name": {
+        "local": "Manyu",
+        "en": "Manyu",
+        "slug": "manyu-cm010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010004",
+        "level": 2,
+        "name": {
+          "local": "Manyu",
+          "en": "Manyu",
+          "slug": "manyu-cm010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.163",
+      "lon": "9.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010004002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Eyumodjock",
+      "en": "Eyumodjock",
+      "slug": "eyumodjock-cm010004002"
+    },
+    "code": {
+      "id": "CM010004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010004",
+      "level": 2,
+      "name": {
+        "local": "Manyu",
+        "en": "Manyu",
+        "slug": "manyu-cm010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010004",
+        "level": 2,
+        "name": {
+          "local": "Manyu",
+          "en": "Manyu",
+          "slug": "manyu-cm010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.606",
+      "lon": "9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010004003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mamfe",
+      "en": "Mamfe",
+      "slug": "mamfe-cm010004003"
+    },
+    "code": {
+      "id": "CM010004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010004",
+      "level": 2,
+      "name": {
+        "local": "Manyu",
+        "en": "Manyu",
+        "slug": "manyu-cm010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010004",
+        "level": 2,
+        "name": {
+          "local": "Manyu",
+          "en": "Manyu",
+          "slug": "manyu-cm010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.648",
+      "lon": "9.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010004004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Upper Bayang",
+      "en": "Upper Bayang",
+      "slug": "upper-bayang-cm010004004"
+    },
+    "code": {
+      "id": "CM010004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010004",
+      "level": 2,
+      "name": {
+        "local": "Manyu",
+        "en": "Manyu",
+        "slug": "manyu-cm010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010004",
+        "level": 2,
+        "name": {
+          "local": "Manyu",
+          "en": "Manyu",
+          "slug": "manyu-cm010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.603",
+      "lon": "9.722"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

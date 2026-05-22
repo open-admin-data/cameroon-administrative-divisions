@@ -1,0 +1,47 @@
+{
+  "id": "CM001003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mayo-Banyo",
+    "en": "Mayo-Banyo",
+    "slug": "mayo-banyo-cm001003"
+  },
+  "code": {
+    "id": "CM001003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM001",
+    "level": 1,
+    "name": {
+      "local": "Adamaoua",
+      "en": "Adamawa",
+      "slug": "adamawa-cm001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM001",
+      "level": 1,
+      "name": {
+        "local": "Adamaoua",
+        "en": "Adamawa",
+        "slug": "adamawa-cm001"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.614",
+    "lon": "11.783"
+  },
+  "metadata": {},
+  "source": {}
+}

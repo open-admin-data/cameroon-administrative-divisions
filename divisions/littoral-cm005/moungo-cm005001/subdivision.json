@@ -1,0 +1,704 @@
+[
+  {
+    "id": "CM005001001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bare-Bakem",
+      "en": "Bare-Bakem",
+      "slug": "bare-bakem-cm005001001"
+    },
+    "code": {
+      "id": "CM005001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005001",
+      "level": 2,
+      "name": {
+        "local": "Moungo",
+        "en": "Moungo",
+        "slug": "moungo-cm005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005001",
+        "level": 2,
+        "name": {
+          "local": "Moungo",
+          "en": "Moungo",
+          "slug": "moungo-cm005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.983",
+      "lon": "10.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005001002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Dibombari",
+      "en": "Dibombari",
+      "slug": "dibombari-cm005001002"
+    },
+    "code": {
+      "id": "CM005001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005001",
+      "level": 2,
+      "name": {
+        "local": "Moungo",
+        "en": "Moungo",
+        "slug": "moungo-cm005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005001",
+        "level": 2,
+        "name": {
+          "local": "Moungo",
+          "en": "Moungo",
+          "slug": "moungo-cm005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.177",
+      "lon": "9.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005001003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Fiko",
+      "en": "Fiko",
+      "slug": "fiko-cm005001003"
+    },
+    "code": {
+      "id": "CM005001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005001",
+      "level": 2,
+      "name": {
+        "local": "Moungo",
+        "en": "Moungo",
+        "slug": "moungo-cm005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005001",
+        "level": 2,
+        "name": {
+          "local": "Moungo",
+          "en": "Moungo",
+          "slug": "moungo-cm005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.337",
+      "lon": "9.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005001004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Loum",
+      "en": "Loum",
+      "slug": "loum-cm005001004"
+    },
+    "code": {
+      "id": "CM005001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005001",
+      "level": 2,
+      "name": {
+        "local": "Moungo",
+        "en": "Moungo",
+        "slug": "moungo-cm005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005001",
+        "level": 2,
+        "name": {
+          "local": "Moungo",
+          "en": "Moungo",
+          "slug": "moungo-cm005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.696",
+      "lon": "9.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005001005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Manjo",
+      "en": "Manjo",
+      "slug": "manjo-cm005001005"
+    },
+    "code": {
+      "id": "CM005001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005001",
+      "level": 2,
+      "name": {
+        "local": "Moungo",
+        "en": "Moungo",
+        "slug": "moungo-cm005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005001",
+        "level": 2,
+        "name": {
+          "local": "Moungo",
+          "en": "Moungo",
+          "slug": "moungo-cm005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.872",
+      "lon": "9.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005001006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mbanga",
+      "en": "Mbanga",
+      "slug": "mbanga-cm005001006"
+    },
+    "code": {
+      "id": "CM005001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005001",
+      "level": 2,
+      "name": {
+        "local": "Moungo",
+        "en": "Moungo",
+        "slug": "moungo-cm005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005001",
+        "level": 2,
+        "name": {
+          "local": "Moungo",
+          "en": "Moungo",
+          "slug": "moungo-cm005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.391",
+      "lon": "9.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005001007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Melong",
+      "en": "Melong",
+      "slug": "melong-cm005001007"
+    },
+    "code": {
+      "id": "CM005001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005001",
+      "level": 2,
+      "name": {
+        "local": "Moungo",
+        "en": "Moungo",
+        "slug": "moungo-cm005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005001",
+        "level": 2,
+        "name": {
+          "local": "Moungo",
+          "en": "Moungo",
+          "slug": "moungo-cm005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.167",
+      "lon": "9.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005001008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mombo",
+      "en": "Mombo",
+      "slug": "mombo-cm005001008"
+    },
+    "code": {
+      "id": "CM005001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005001",
+      "level": 2,
+      "name": {
+        "local": "Moungo",
+        "en": "Moungo",
+        "slug": "moungo-cm005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005001",
+        "level": 2,
+        "name": {
+          "local": "Moungo",
+          "en": "Moungo",
+          "slug": "moungo-cm005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.568",
+      "lon": "9.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005001009",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Njombe-Penja",
+      "en": "Njombe-Penja",
+      "slug": "njombe-penja-cm005001009"
+    },
+    "code": {
+      "id": "CM005001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005001",
+      "level": 2,
+      "name": {
+        "local": "Moungo",
+        "en": "Moungo",
+        "slug": "moungo-cm005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005001",
+        "level": 2,
+        "name": {
+          "local": "Moungo",
+          "en": "Moungo",
+          "slug": "moungo-cm005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.576",
+      "lon": "9.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005001010",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nkongsamba 1er",
+      "en": "Nkongsamba 1er",
+      "slug": "nkongsamba-1er-cm005001010"
+    },
+    "code": {
+      "id": "CM005001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005001",
+      "level": 2,
+      "name": {
+        "local": "Moungo",
+        "en": "Moungo",
+        "slug": "moungo-cm005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005001",
+        "level": 2,
+        "name": {
+          "local": "Moungo",
+          "en": "Moungo",
+          "slug": "moungo-cm005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.902",
+      "lon": "10.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005001011",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nkongsamba 2e",
+      "en": "Nkongsamba 2e",
+      "slug": "nkongsamba-2e-cm005001011"
+    },
+    "code": {
+      "id": "CM005001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005001",
+      "level": 2,
+      "name": {
+        "local": "Moungo",
+        "en": "Moungo",
+        "slug": "moungo-cm005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005001",
+        "level": 2,
+        "name": {
+          "local": "Moungo",
+          "en": "Moungo",
+          "slug": "moungo-cm005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.986",
+      "lon": "9.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005001012",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nkongsamba 3e",
+      "en": "Nkongsamba 3e",
+      "slug": "nkongsamba-3e-cm005001012"
+    },
+    "code": {
+      "id": "CM005001012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005001",
+      "level": 2,
+      "name": {
+        "local": "Moungo",
+        "en": "Moungo",
+        "slug": "moungo-cm005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005001",
+        "level": 2,
+        "name": {
+          "local": "Moungo",
+          "en": "Moungo",
+          "slug": "moungo-cm005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.974",
+      "lon": "9.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005001013",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nlonako",
+      "en": "Nlonako",
+      "slug": "nlonako-cm005001013"
+    },
+    "code": {
+      "id": "CM005001013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005001",
+      "level": 2,
+      "name": {
+        "local": "Moungo",
+        "en": "Moungo",
+        "slug": "moungo-cm005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005001",
+        "level": 2,
+        "name": {
+          "local": "Moungo",
+          "en": "Moungo",
+          "slug": "moungo-cm005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.853",
+      "lon": "9.931"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

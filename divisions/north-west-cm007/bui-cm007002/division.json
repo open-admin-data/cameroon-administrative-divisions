@@ -1,0 +1,47 @@
+{
+  "id": "CM007002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Bui",
+    "en": "Bui",
+    "slug": "bui-cm007002"
+  },
+  "code": {
+    "id": "CM007002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM007",
+    "level": 1,
+    "name": {
+      "local": "Nord-Ouest",
+      "en": "North-West",
+      "slug": "north-west-cm007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM007",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ouest",
+        "en": "North-West",
+        "slug": "north-west-cm007"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.228",
+    "lon": "10.715"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "CM003",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Est",
+    "en": "East",
+    "slug": "east-cm003"
+  },
+  "code": {
+    "id": "CM003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "division": 4,
+    "subdivision": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.892",
+    "lon": "13.86"
+  },
+  "metadata": {},
+  "source": {}
+}

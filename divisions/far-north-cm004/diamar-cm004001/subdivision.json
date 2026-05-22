@@ -1,0 +1,488 @@
+[
+  {
+    "id": "CM004001001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bogo",
+      "en": "Bogo",
+      "slug": "bogo-cm004001001"
+    },
+    "code": {
+      "id": "CM004001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004001",
+      "level": 2,
+      "name": {
+        "local": "Diamaré",
+        "en": "Diamaré",
+        "slug": "diamar-cm004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004001",
+        "level": 2,
+        "name": {
+          "local": "Diamaré",
+          "en": "Diamaré",
+          "slug": "diamar-cm004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.811",
+      "lon": "14.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004001002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Dargala",
+      "en": "Dargala",
+      "slug": "dargala-cm004001002"
+    },
+    "code": {
+      "id": "CM004001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004001",
+      "level": 2,
+      "name": {
+        "local": "Diamaré",
+        "en": "Diamaré",
+        "slug": "diamar-cm004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004001",
+        "level": 2,
+        "name": {
+          "local": "Diamaré",
+          "en": "Diamaré",
+          "slug": "diamar-cm004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.546",
+      "lon": "14.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004001003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Gazawa",
+      "en": "Gazawa",
+      "slug": "gazawa-cm004001003"
+    },
+    "code": {
+      "id": "CM004001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004001",
+      "level": 2,
+      "name": {
+        "local": "Diamaré",
+        "en": "Diamaré",
+        "slug": "diamar-cm004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004001",
+        "level": 2,
+        "name": {
+          "local": "Diamaré",
+          "en": "Diamaré",
+          "slug": "diamar-cm004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.547",
+      "lon": "14.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004001004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Maroua 1er",
+      "en": "Maroua 1er",
+      "slug": "maroua-1er-cm004001004"
+    },
+    "code": {
+      "id": "CM004001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004001",
+      "level": 2,
+      "name": {
+        "local": "Diamaré",
+        "en": "Diamaré",
+        "slug": "diamar-cm004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004001",
+        "level": 2,
+        "name": {
+          "local": "Diamaré",
+          "en": "Diamaré",
+          "slug": "diamar-cm004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.54",
+      "lon": "14.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004001005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Maroua 2e",
+      "en": "Maroua 2e",
+      "slug": "maroua-2e-cm004001005"
+    },
+    "code": {
+      "id": "CM004001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004001",
+      "level": 2,
+      "name": {
+        "local": "Diamaré",
+        "en": "Diamaré",
+        "slug": "diamar-cm004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004001",
+        "level": 2,
+        "name": {
+          "local": "Diamaré",
+          "en": "Diamaré",
+          "slug": "diamar-cm004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.641",
+      "lon": "14.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004001006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Maroua 3e",
+      "en": "Maroua 3e",
+      "slug": "maroua-3e-cm004001006"
+    },
+    "code": {
+      "id": "CM004001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004001",
+      "level": 2,
+      "name": {
+        "local": "Diamaré",
+        "en": "Diamaré",
+        "slug": "diamar-cm004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004001",
+        "level": 2,
+        "name": {
+          "local": "Diamaré",
+          "en": "Diamaré",
+          "slug": "diamar-cm004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.796",
+      "lon": "14.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004001007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Meri",
+      "en": "Meri",
+      "slug": "meri-cm004001007"
+    },
+    "code": {
+      "id": "CM004001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004001",
+      "level": 2,
+      "name": {
+        "local": "Diamaré",
+        "en": "Diamaré",
+        "slug": "diamar-cm004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004001",
+        "level": 2,
+        "name": {
+          "local": "Diamaré",
+          "en": "Diamaré",
+          "slug": "diamar-cm004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.759",
+      "lon": "14.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004001008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ndoukoula",
+      "en": "Ndoukoula",
+      "slug": "ndoukoula-cm004001008"
+    },
+    "code": {
+      "id": "CM004001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004001",
+      "level": 2,
+      "name": {
+        "local": "Diamaré",
+        "en": "Diamaré",
+        "slug": "diamar-cm004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004001",
+        "level": 2,
+        "name": {
+          "local": "Diamaré",
+          "en": "Diamaré",
+          "slug": "diamar-cm004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.328",
+      "lon": "14.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004001009",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Pette",
+      "en": "Pette",
+      "slug": "pette-cm004001009"
+    },
+    "code": {
+      "id": "CM004001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004001",
+      "level": 2,
+      "name": {
+        "local": "Diamaré",
+        "en": "Diamaré",
+        "slug": "diamar-cm004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004001",
+        "level": 2,
+        "name": {
+          "local": "Diamaré",
+          "en": "Diamaré",
+          "slug": "diamar-cm004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.944",
+      "lon": "14.55"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

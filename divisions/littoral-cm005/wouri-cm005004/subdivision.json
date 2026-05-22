@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CM005004001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Douala 1er",
+      "en": "Douala 1er",
+      "slug": "douala-1er-cm005004001"
+    },
+    "code": {
+      "id": "CM005004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005004",
+      "level": 2,
+      "name": {
+        "local": "Wouri",
+        "en": "Wouri",
+        "slug": "wouri-cm005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005004",
+        "level": 2,
+        "name": {
+          "local": "Wouri",
+          "en": "Wouri",
+          "slug": "wouri-cm005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.051",
+      "lon": "9.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005004002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Douala 2e",
+      "en": "Douala 2e",
+      "slug": "douala-2e-cm005004002"
+    },
+    "code": {
+      "id": "CM005004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005004",
+      "level": 2,
+      "name": {
+        "local": "Wouri",
+        "en": "Wouri",
+        "slug": "wouri-cm005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005004",
+        "level": 2,
+        "name": {
+          "local": "Wouri",
+          "en": "Wouri",
+          "slug": "wouri-cm005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.016",
+      "lon": "9.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005004003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Douala 3e",
+      "en": "Douala 3e",
+      "slug": "douala-3e-cm005004003"
+    },
+    "code": {
+      "id": "CM005004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005004",
+      "level": 2,
+      "name": {
+        "local": "Wouri",
+        "en": "Wouri",
+        "slug": "wouri-cm005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005004",
+        "level": 2,
+        "name": {
+          "local": "Wouri",
+          "en": "Wouri",
+          "slug": "wouri-cm005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.028",
+      "lon": "9.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005004004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Douala 4e",
+      "en": "Douala 4e",
+      "slug": "douala-4e-cm005004004"
+    },
+    "code": {
+      "id": "CM005004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005004",
+      "level": 2,
+      "name": {
+        "local": "Wouri",
+        "en": "Wouri",
+        "slug": "wouri-cm005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005004",
+        "level": 2,
+        "name": {
+          "local": "Wouri",
+          "en": "Wouri",
+          "slug": "wouri-cm005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.079",
+      "lon": "9.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005004005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Douala 5e",
+      "en": "Douala 5e",
+      "slug": "douala-5e-cm005004005"
+    },
+    "code": {
+      "id": "CM005004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005004",
+      "level": 2,
+      "name": {
+        "local": "Wouri",
+        "en": "Wouri",
+        "slug": "wouri-cm005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005004",
+        "level": 2,
+        "name": {
+          "local": "Wouri",
+          "en": "Wouri",
+          "slug": "wouri-cm005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.134",
+      "lon": "9.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005004006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Douala 6e",
+      "en": "Douala 6e",
+      "slug": "douala-6e-cm005004006"
+    },
+    "code": {
+      "id": "CM005004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005004",
+      "level": 2,
+      "name": {
+        "local": "Wouri",
+        "en": "Wouri",
+        "slug": "wouri-cm005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      },
+      {
+        "id": "CM005004",
+        "level": 2,
+        "name": {
+          "local": "Wouri",
+          "en": "Wouri",
+          "slug": "wouri-cm005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.977",
+      "lon": "9.699"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

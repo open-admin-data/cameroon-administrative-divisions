@@ -1,0 +1,209 @@
+# West — Cameroon Administrative Divisions
+
+> 8 divisions, 40 subdivisions
+> Code: CM008
+> Coordinates: 5.535, 10.583
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Divisions
+
+### Bamboutos
+
+Code: CM008001, Coordinates: 5.668, 10.293
+Subdivisions: 4
+
+#### Babadjou
+
+Code: CM008001001, Coordinates: 5.692, 10.149
+
+#### Batcham
+
+Code: CM008001002, Coordinates: 5.58, 10.19
+
+#### Galim
+
+Code: CM008001003, Coordinates: 5.726, 10.432
+
+#### Mbouda
+
+Code: CM008001004, Coordinates: 5.634, 10.316
+
+### Haut-Nkam
+
+Code: CM008002, Coordinates: 5.147, 10.176
+Subdivisions: 7
+
+#### Bafang
+
+Code: CM008002001, Coordinates: 5.114, 10.183
+
+#### Bakou
+
+Code: CM008002002, Coordinates: 5.003, 10.132
+
+#### Bana
+
+Code: CM008002003, Coordinates: 5.121, 10.307
+
+#### Bandja
+
+Code: CM008002004, Coordinates: 5.271, 10.181
+
+#### Banka
+
+Code: CM008002005, Coordinates: 5.197, 10.202
+
+#### Banwa
+
+Code: CM008002006, Coordinates: 5.085, 10.062
+
+#### Kekem
+
+Code: CM008002007, Coordinates: 5.178, 10.074
+
+### Hauts-Plateaux
+
+Code: CM008003, Coordinates: 5.302, 10.342
+Subdivisions: 4
+
+#### Baham
+
+Code: CM008003001, Coordinates: 5.307, 10.384
+
+#### Bamendjou
+
+Code: CM008003002, Coordinates: 5.38, 10.308
+
+#### Bangou
+
+Code: CM008003003, Coordinates: 5.226, 10.369
+
+#### Batie
+
+Code: CM008003004, Coordinates: 5.291, 10.282
+
+### Koung-Khi
+
+Code: CM008004, Coordinates: 5.331, 10.492
+Subdivisions: 3
+
+#### Bayangam
+
+Code: CM008004001, Coordinates: 5.264, 10.457
+
+#### Djebem
+
+Code: CM008004002, Coordinates: 5.318, 10.503
+
+#### Poumougne
+
+Code: CM008004003, Coordinates: 5.39, 10.434
+
+### Menoua
+
+Code: CM008005, Coordinates: 5.407, 10.114
+Subdivisions: 6
+
+#### Dschang
+
+Code: CM008005001, Coordinates: 5.415, 10.025
+
+#### Fokoue
+
+Code: CM008005002, Coordinates: 5.321, 10.107
+
+#### Fongo-Tongo
+
+Code: CM008005003, Coordinates: 5.553, 10.009
+
+#### Nkong-Ni
+
+Code: CM008005004, Coordinates: 5.511, 10.126
+
+#### Penka-Michel
+
+Code: CM008005005, Coordinates: 5.446, 10.252
+
+#### Santchou
+
+Code: CM008005006, Coordinates: 5.302, 9.949
+
+### Mifi
+
+Code: CM008006, Coordinates: 5.512, 10.454
+Subdivisions: 3
+
+#### Bafoussam 1er
+
+Code: CM008006001, Coordinates: 5.497, 10.519
+
+#### Bafoussam 2e
+
+Code: CM008006002, Coordinates: 5.544, 10.447
+
+#### Bafoussam 3e
+
+Code: CM008006003, Coordinates: 5.488, 10.366
+
+### Ndé
+
+Code: CM008007, Coordinates: 5.04, 10.598
+Subdivisions: 4
+
+#### Bangangte
+
+Code: CM008007001, Coordinates: 5.107, 10.643
+
+#### Bassamba
+
+Code: CM008007002, Coordinates: 5.051, 10.569
+
+#### Bazou
+
+Code: CM008007003, Coordinates: 5.029, 10.441
+
+#### Tonga
+
+Code: CM008007004, Coordinates: 4.94, 10.553
+
+### Noun
+
+Code: CM008008, Coordinates: 5.594, 10.857
+Subdivisions: 9
+
+#### Bangourain
+
+Code: CM008008001, Coordinates: 5.902, 10.697
+
+#### Foumban
+
+Code: CM008008002, Coordinates: 5.718, 10.908
+
+#### Foumbot
+
+Code: CM008008003, Coordinates: 5.422, 10.623
+
+#### Kouoptamo
+
+Code: CM008008004, Coordinates: 5.681, 10.544
+
+#### Koutaba
+
+Code: CM008008005, Coordinates: 5.651, 10.718
+
+#### Magba
+
+Code: CM008008006, Coordinates: 6.066, 11.145
+
+#### Malantouen
+
+Code: CM008008007, Coordinates: 5.653, 11.109
+
+#### Massangam
+
+Code: CM008008008, Coordinates: 5.256, 10.874
+
+#### Njimom
+
+Code: CM008008009, Coordinates: 5.896, 10.926
+

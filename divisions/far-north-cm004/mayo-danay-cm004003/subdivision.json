@@ -1,0 +1,596 @@
+[
+  {
+    "id": "CM004003001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Datcheka",
+      "en": "Datcheka",
+      "slug": "datcheka-cm004003001"
+    },
+    "code": {
+      "id": "CM004003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Danay",
+        "en": "Mayo-Danay",
+        "slug": "mayo-danay-cm004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Danay",
+          "en": "Mayo-Danay",
+          "slug": "mayo-danay-cm004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.003",
+      "lon": "15.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004003002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Gobo",
+      "en": "Gobo",
+      "slug": "gobo-cm004003002"
+    },
+    "code": {
+      "id": "CM004003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Danay",
+        "en": "Mayo-Danay",
+        "slug": "mayo-danay-cm004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Danay",
+          "en": "Mayo-Danay",
+          "slug": "mayo-danay-cm004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.068",
+      "lon": "15.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004003003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Guere",
+      "en": "Guere",
+      "slug": "guere-cm004003003"
+    },
+    "code": {
+      "id": "CM004003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Danay",
+        "en": "Mayo-Danay",
+        "slug": "mayo-danay-cm004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Danay",
+          "en": "Mayo-Danay",
+          "slug": "mayo-danay-cm004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.116",
+      "lon": "15.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004003004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kai-Kai",
+      "en": "Kai-Kai",
+      "slug": "kai-kai-cm004003004"
+    },
+    "code": {
+      "id": "CM004003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Danay",
+        "en": "Mayo-Danay",
+        "slug": "mayo-danay-cm004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Danay",
+          "en": "Mayo-Danay",
+          "slug": "mayo-danay-cm004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.627",
+      "lon": "14.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004003005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kalfou",
+      "en": "Kalfou",
+      "slug": "kalfou-cm004003005"
+    },
+    "code": {
+      "id": "CM004003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Danay",
+        "en": "Mayo-Danay",
+        "slug": "mayo-danay-cm004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Danay",
+          "en": "Mayo-Danay",
+          "slug": "mayo-danay-cm004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004003006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kar-Hay",
+      "en": "Kar-Hay",
+      "slug": "kar-hay-cm004003006"
+    },
+    "code": {
+      "id": "CM004003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Danay",
+        "en": "Mayo-Danay",
+        "slug": "mayo-danay-cm004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Danay",
+          "en": "Mayo-Danay",
+          "slug": "mayo-danay-cm004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.086",
+      "lon": "14.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004003007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Maga",
+      "en": "Maga",
+      "slug": "maga-cm004003007"
+    },
+    "code": {
+      "id": "CM004003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Danay",
+        "en": "Mayo-Danay",
+        "slug": "mayo-danay-cm004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Danay",
+          "en": "Mayo-Danay",
+          "slug": "mayo-danay-cm004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.91",
+      "lon": "14.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004003008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Tchatibali",
+      "en": "Tchatibali",
+      "slug": "tchatibali-cm004003008"
+    },
+    "code": {
+      "id": "CM004003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Danay",
+        "en": "Mayo-Danay",
+        "slug": "mayo-danay-cm004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Danay",
+          "en": "Mayo-Danay",
+          "slug": "mayo-danay-cm004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.988",
+      "lon": "14.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004003009",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Vele",
+      "en": "Vele",
+      "slug": "vele-cm004003009"
+    },
+    "code": {
+      "id": "CM004003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Danay",
+        "en": "Mayo-Danay",
+        "slug": "mayo-danay-cm004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Danay",
+          "en": "Mayo-Danay",
+          "slug": "mayo-danay-cm004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.433",
+      "lon": "15.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004003010",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Wina",
+      "en": "Wina",
+      "slug": "wina-cm004003010"
+    },
+    "code": {
+      "id": "CM004003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Danay",
+        "en": "Mayo-Danay",
+        "slug": "mayo-danay-cm004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Danay",
+          "en": "Mayo-Danay",
+          "slug": "mayo-danay-cm004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.051",
+      "lon": "15.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004003011",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Yagoua",
+      "en": "Yagoua",
+      "slug": "yagoua-cm004003011"
+    },
+    "code": {
+      "id": "CM004003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Danay",
+        "en": "Mayo-Danay",
+        "slug": "mayo-danay-cm004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Danay",
+          "en": "Mayo-Danay",
+          "slug": "mayo-danay-cm004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.211",
+      "lon": "15.221"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

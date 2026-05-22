@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CM008003001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Baham",
+      "en": "Baham",
+      "slug": "baham-cm008003001"
+    },
+    "code": {
+      "id": "CM008003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008003",
+      "level": 2,
+      "name": {
+        "local": "Hauts-Plateaux",
+        "en": "Hauts-Plateaux",
+        "slug": "hauts-plateaux-cm008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008003",
+        "level": 2,
+        "name": {
+          "local": "Hauts-Plateaux",
+          "en": "Hauts-Plateaux",
+          "slug": "hauts-plateaux-cm008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.307",
+      "lon": "10.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008003002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bamendjou",
+      "en": "Bamendjou",
+      "slug": "bamendjou-cm008003002"
+    },
+    "code": {
+      "id": "CM008003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008003",
+      "level": 2,
+      "name": {
+        "local": "Hauts-Plateaux",
+        "en": "Hauts-Plateaux",
+        "slug": "hauts-plateaux-cm008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008003",
+        "level": 2,
+        "name": {
+          "local": "Hauts-Plateaux",
+          "en": "Hauts-Plateaux",
+          "slug": "hauts-plateaux-cm008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.38",
+      "lon": "10.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008003003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bangou",
+      "en": "Bangou",
+      "slug": "bangou-cm008003003"
+    },
+    "code": {
+      "id": "CM008003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008003",
+      "level": 2,
+      "name": {
+        "local": "Hauts-Plateaux",
+        "en": "Hauts-Plateaux",
+        "slug": "hauts-plateaux-cm008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008003",
+        "level": 2,
+        "name": {
+          "local": "Hauts-Plateaux",
+          "en": "Hauts-Plateaux",
+          "slug": "hauts-plateaux-cm008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.226",
+      "lon": "10.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008003004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Batie",
+      "en": "Batie",
+      "slug": "batie-cm008003004"
+    },
+    "code": {
+      "id": "CM008003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008003",
+      "level": 2,
+      "name": {
+        "local": "Hauts-Plateaux",
+        "en": "Hauts-Plateaux",
+        "slug": "hauts-plateaux-cm008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008003",
+        "level": 2,
+        "name": {
+          "local": "Hauts-Plateaux",
+          "en": "Hauts-Plateaux",
+          "slug": "hauts-plateaux-cm008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.291",
+      "lon": "10.282"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

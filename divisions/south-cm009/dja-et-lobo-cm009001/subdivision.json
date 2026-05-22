@@ -1,0 +1,434 @@
+[
+  {
+    "id": "CM009001001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bengbis",
+      "en": "Bengbis",
+      "slug": "bengbis-cm009001001"
+    },
+    "code": {
+      "id": "CM009001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009001",
+      "level": 2,
+      "name": {
+        "local": "Dja-et-Lobo",
+        "en": "Dja-et-Lobo",
+        "slug": "dja-et-lobo-cm009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009001",
+        "level": 2,
+        "name": {
+          "local": "Dja-et-Lobo",
+          "en": "Dja-et-Lobo",
+          "slug": "dja-et-lobo-cm009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.322",
+      "lon": "12.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009001002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Djoum",
+      "en": "Djoum",
+      "slug": "djoum-cm009001002"
+    },
+    "code": {
+      "id": "CM009001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009001",
+      "level": 2,
+      "name": {
+        "local": "Dja-et-Lobo",
+        "en": "Dja-et-Lobo",
+        "slug": "dja-et-lobo-cm009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009001",
+        "level": 2,
+        "name": {
+          "local": "Dja-et-Lobo",
+          "en": "Dja-et-Lobo",
+          "slug": "dja-et-lobo-cm009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.636",
+      "lon": "12.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009001003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Meyomessala",
+      "en": "Meyomessala",
+      "slug": "meyomessala-cm009001003"
+    },
+    "code": {
+      "id": "CM009001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009001",
+      "level": 2,
+      "name": {
+        "local": "Dja-et-Lobo",
+        "en": "Dja-et-Lobo",
+        "slug": "dja-et-lobo-cm009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009001",
+        "level": 2,
+        "name": {
+          "local": "Dja-et-Lobo",
+          "en": "Dja-et-Lobo",
+          "slug": "dja-et-lobo-cm009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.091",
+      "lon": "12.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009001004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Meyomessi",
+      "en": "Meyomessi",
+      "slug": "meyomessi-cm009001004"
+    },
+    "code": {
+      "id": "CM009001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009001",
+      "level": 2,
+      "name": {
+        "local": "Dja-et-Lobo",
+        "en": "Dja-et-Lobo",
+        "slug": "dja-et-lobo-cm009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009001",
+        "level": 2,
+        "name": {
+          "local": "Dja-et-Lobo",
+          "en": "Dja-et-Lobo",
+          "slug": "dja-et-lobo-cm009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.725",
+      "lon": "12.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009001005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mintom",
+      "en": "Mintom",
+      "slug": "mintom-cm009001005"
+    },
+    "code": {
+      "id": "CM009001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009001",
+      "level": 2,
+      "name": {
+        "local": "Dja-et-Lobo",
+        "en": "Dja-et-Lobo",
+        "slug": "dja-et-lobo-cm009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009001",
+        "level": 2,
+        "name": {
+          "local": "Dja-et-Lobo",
+          "en": "Dja-et-Lobo",
+          "slug": "dja-et-lobo-cm009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.538",
+      "lon": "13.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009001006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Oveng",
+      "en": "Oveng",
+      "slug": "oveng-cm009001006"
+    },
+    "code": {
+      "id": "CM009001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009001",
+      "level": 2,
+      "name": {
+        "local": "Dja-et-Lobo",
+        "en": "Dja-et-Lobo",
+        "slug": "dja-et-lobo-cm009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009001",
+        "level": 2,
+        "name": {
+          "local": "Dja-et-Lobo",
+          "en": "Dja-et-Lobo",
+          "slug": "dja-et-lobo-cm009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.471",
+      "lon": "12.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009001007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Sangmelima",
+      "en": "Sangmelima",
+      "slug": "sangmelima-cm009001007"
+    },
+    "code": {
+      "id": "CM009001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009001",
+      "level": 2,
+      "name": {
+        "local": "Dja-et-Lobo",
+        "en": "Dja-et-Lobo",
+        "slug": "dja-et-lobo-cm009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009001",
+        "level": 2,
+        "name": {
+          "local": "Dja-et-Lobo",
+          "en": "Dja-et-Lobo",
+          "slug": "dja-et-lobo-cm009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.915",
+      "lon": "11.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009001008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Zoetele",
+      "en": "Zoetele",
+      "slug": "zoetele-cm009001008"
+    },
+    "code": {
+      "id": "CM009001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009001",
+      "level": 2,
+      "name": {
+        "local": "Dja-et-Lobo",
+        "en": "Dja-et-Lobo",
+        "slug": "dja-et-lobo-cm009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009001",
+        "level": 2,
+        "name": {
+          "local": "Dja-et-Lobo",
+          "en": "Dja-et-Lobo",
+          "slug": "dja-et-lobo-cm009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.271",
+      "lon": "11.871"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

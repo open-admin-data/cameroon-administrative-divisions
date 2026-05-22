@@ -1,0 +1,30 @@
+{
+  "id": "CM009",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Sud",
+    "en": "South",
+    "slug": "south-cm009"
+  },
+  "code": {
+    "id": "CM009",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "division": 4,
+    "subdivision": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.92",
+    "lon": "11.347"
+  },
+  "metadata": {},
+  "source": {}
+}

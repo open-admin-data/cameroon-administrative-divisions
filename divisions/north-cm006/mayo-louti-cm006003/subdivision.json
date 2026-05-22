@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CM006003001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Figuil",
+      "en": "Figuil",
+      "slug": "figuil-cm006003001"
+    },
+    "code": {
+      "id": "CM006003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Louti",
+        "en": "Mayo-Louti",
+        "slug": "mayo-louti-cm006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Louti",
+          "en": "Mayo-Louti",
+          "slug": "mayo-louti-cm006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.898",
+      "lon": "14.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006003002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Guider",
+      "en": "Guider",
+      "slug": "guider-cm006003002"
+    },
+    "code": {
+      "id": "CM006003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Louti",
+        "en": "Mayo-Louti",
+        "slug": "mayo-louti-cm006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Louti",
+          "en": "Mayo-Louti",
+          "slug": "mayo-louti-cm006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.907",
+      "lon": "13.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006003003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mayo-Oulo",
+      "en": "Mayo-Oulo",
+      "slug": "mayo-oulo-cm006003003"
+    },
+    "code": {
+      "id": "CM006003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Louti",
+        "en": "Mayo-Louti",
+        "slug": "mayo-louti-cm006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Louti",
+          "en": "Mayo-Louti",
+          "slug": "mayo-louti-cm006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.006",
+      "lon": "13.483"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

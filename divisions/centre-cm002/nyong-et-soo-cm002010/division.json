@@ -1,0 +1,47 @@
+{
+  "id": "CM002010",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Nyong-et-So'o",
+    "en": "Nyong-et-So'o",
+    "slug": "nyong-et-soo-cm002010"
+  },
+  "code": {
+    "id": "CM002010",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM002",
+    "level": 1,
+    "name": {
+      "local": "Centre",
+      "en": "Centre",
+      "slug": "centre-cm002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.467",
+    "lon": "11.672"
+  },
+  "metadata": {},
+  "source": {}
+}

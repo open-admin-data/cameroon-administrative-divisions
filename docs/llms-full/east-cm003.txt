@@ -1,0 +1,161 @@
+# East — Cameroon Administrative Divisions
+
+> 4 divisions, 33 subdivisions
+> Code: CM003
+> Coordinates: 3.892, 13.86
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Divisions
+
+### Boumba-et-Ngoko
+
+Code: CM003001, Coordinates: 2.837, 15.2
+Subdivisions: 4
+
+#### Gari Gombo
+
+Code: CM003001001, Coordinates: 3.749, 14.952
+
+#### Moloundou
+
+Code: CM003001002, Coordinates: 2.077, 15.477
+
+#### Salapoumbe
+
+Code: CM003001003, Coordinates: 2.683, 15.337
+
+#### Yokadouma
+
+Code: CM003001004, Coordinates: 3.139, 15.162
+
+### Haut-Nyong
+
+Code: CM003002, Coordinates: 3.366, 13.538
+Subdivisions: 14
+
+#### Abong-Mbang
+
+Code: CM003002001, Coordinates: 3.855, 13.271
+
+#### Bebend
+
+Code: CM003002002, Coordinates: 3.915, 12.769
+
+#### Dimako
+
+Code: CM003002003, Coordinates: 4.337, 13.61
+
+#### Dja
+
+Code: CM003002004, Coordinates: 3.573, 13.867
+
+#### Doumaintang
+
+Code: CM003002005, Coordinates: 4.197, 13.174
+
+#### Doume
+
+Code: CM003002006, Coordinates: 4.298, 13.389
+
+#### Lomie
+
+Code: CM003002007, Coordinates: 3.104, 13.369
+
+#### Mboanz
+
+Code: CM003002008, Coordinates: 4.093, 12.949
+
+#### Mboma
+
+Code: CM003002009, Coordinates: 4.195, 12.919
+
+#### Messamena
+
+Code: CM003002010, Coordinates: 3.606, 12.935
+
+#### Messok
+
+Code: CM003002011, Coordinates: 3.096, 14.186
+
+#### Ngoyla
+
+Code: CM003002012, Coordinates: 2.614, 14.123
+
+#### Nguelemendouka
+
+Code: CM003002013, Coordinates: 4.347, 12.873
+
+#### Somalomo
+
+Code: CM003002014, Coordinates: 3.307, 12.968
+
+### Kadey
+
+Code: CM003003, Coordinates: 4.478, 14.416
+Subdivisions: 7
+
+#### Batouri
+
+Code: CM003003001, Coordinates: 4.49, 14.409
+
+#### Bombe
+
+Code: CM003003002, Coordinates: 4.286, 14.942
+
+#### Kette
+
+Code: CM003003003, Coordinates: 4.766, 14.483
+
+#### Mbang
+
+Code: CM003003004, Coordinates: 3.989, 14.127
+
+#### Mbotoro
+
+Code: CM003003005, Coordinates: 5.117, 14.595
+
+#### Ndelele
+
+Code: CM003003006, Coordinates: 4.008, 14.81
+
+#### Ndem Nam
+
+Code: CM003003007, Coordinates: 4.136, 13.695
+
+### Lom-et-Djérem
+
+Code: CM003004, Coordinates: 5.234, 13.67
+Subdivisions: 8
+
+#### Belabo
+
+Code: CM003004001, Coordinates: 5.033, 13.395
+
+#### Bertoua 1er
+
+Code: CM003004002, Coordinates: 4.528, 13.631
+
+#### Bertoua 2e
+
+Code: CM003004003, Coordinates: 4.553, 13.691
+
+#### Betare-Oya
+
+Code: CM003004004, Coordinates: 5.538, 13.682
+
+#### Diang
+
+Code: CM003004005, Coordinates: 4.615, 13.37
+
+#### Garoua-Boulai
+
+Code: CM003004006, Coordinates: 5.729, 14.438
+
+#### Mandjou
+
+Code: CM003004007, Coordinates: 4.827, 13.797
+
+#### Ngoura
+
+Code: CM003004008, Coordinates: 4.883, 14.077
+

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CM005001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Moungo",
+      "en": "Moungo",
+      "slug": "moungo-cm005001"
+    },
+    "code": {
+      "id": "CM005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005",
+      "level": 1,
+      "name": {
+        "local": "Littoral",
+        "en": "Littoral",
+        "slug": "littoral-cm005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.7",
+      "lon": "9.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Nkam",
+      "en": "Nkam",
+      "slug": "nkam-cm005002"
+    },
+    "code": {
+      "id": "CM005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005",
+      "level": 1,
+      "name": {
+        "local": "Littoral",
+        "en": "Littoral",
+        "slug": "littoral-cm005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.587",
+      "lon": "10.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Sanaga-Maritime",
+      "en": "Sanaga-Maritime",
+      "slug": "sanaga-maritime-cm005003"
+    },
+    "code": {
+      "id": "CM005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005",
+      "level": 1,
+      "name": {
+        "local": "Littoral",
+        "en": "Littoral",
+        "slug": "littoral-cm005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.935",
+      "lon": "10.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Wouri",
+      "en": "Wouri",
+      "slug": "wouri-cm005004"
+    },
+    "code": {
+      "id": "CM005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM005",
+      "level": 1,
+      "name": {
+        "local": "Littoral",
+        "en": "Littoral",
+        "slug": "littoral-cm005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM005",
+        "level": 1,
+        "name": {
+          "local": "Littoral",
+          "en": "Littoral",
+          "slug": "littoral-cm005"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.054",
+      "lon": "9.664"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

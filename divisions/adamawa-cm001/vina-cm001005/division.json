@@ -1,0 +1,47 @@
+{
+  "id": "CM001005",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Vina",
+    "en": "Vina",
+    "slug": "vina-cm001005"
+  },
+  "code": {
+    "id": "CM001005",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM001",
+    "level": 1,
+    "name": {
+      "local": "Adamaoua",
+      "en": "Adamawa",
+      "slug": "adamawa-cm001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM001",
+      "level": 1,
+      "name": {
+        "local": "Adamaoua",
+        "en": "Adamawa",
+        "slug": "adamawa-cm001"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.246",
+    "lon": "13.646"
+  },
+  "metadata": {},
+  "source": {}
+}

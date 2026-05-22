@@ -1,0 +1,180 @@
+# North-West — Cameroon Administrative Divisions
+
+> 7 divisions, 34 subdivisions
+> Code: CM007
+> Coordinates: 6.433, 10.47
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Divisions
+
+### Boyo
+
+Code: CM007001, Coordinates: 6.408, 10.423
+Subdivisions: 4
+
+#### Belo
+
+Code: CM007001001, Coordinates: 6.219, 10.404
+
+#### Bum
+
+Code: CM007001002, Coordinates: 6.533, 10.44
+
+#### Fundong
+
+Code: CM007001003, Coordinates: 6.342, 10.399
+
+#### Njinikom
+
+Code: CM007001004, Coordinates: 6.216, 10.227
+
+### Bui
+
+Code: CM007002, Coordinates: 6.228, 10.715
+Subdivisions: 6
+
+#### Jakiri
+
+Code: CM007002001, Coordinates: 6.09, 10.649
+
+#### Kumbo
+
+Code: CM007002002, Coordinates: 6.207, 10.705
+
+#### Mbven
+
+Code: CM007002003, Coordinates: 6.138, 10.885
+
+#### Nkum
+
+Code: CM007002004, Coordinates: 6.324, 10.773
+
+#### Noni
+
+Code: CM007002005, Coordinates: 6.369, 10.598
+
+#### Oku
+
+Code: CM007002006, Coordinates: 6.203, 10.533
+
+### Donga-Mantung
+
+Code: CM007003, Coordinates: 6.685, 10.772
+Subdivisions: 5
+
+#### Ako
+
+Code: CM007003001, Coordinates: 6.889, 10.694
+
+#### Misaje
+
+Code: CM007003002, Coordinates: 6.694, 10.554
+
+#### Ndu
+
+Code: CM007003003, Coordinates: 6.425, 10.798
+
+#### Nkambe
+
+Code: CM007003004, Coordinates: 6.553, 10.746
+
+#### Nwa
+
+Code: CM007003005, Coordinates: 6.529, 10.993
+
+### Menchum
+
+Code: CM007004, Coordinates: 6.623, 10.043
+Subdivisions: 4
+
+#### Fungom
+
+Code: CM007004001, Coordinates: 6.581, 10.074
+
+#### Furu-Awa
+
+Code: CM007004002, Coordinates: 6.826, 10.185
+
+#### Menchum-Valley
+
+Code: CM007004003, Coordinates: 6.407, 9.888
+
+#### Wum
+
+Code: CM007004004, Coordinates: 6.357, 10.086
+
+### Mezam
+
+Code: CM007005, Coordinates: 6.005, 10.214
+Subdivisions: 7
+
+#### Bafut
+
+Code: CM007005001, Coordinates: 6.165, 10.033
+
+#### Bali
+
+Code: CM007005002, Coordinates: 5.874, 10.03
+
+#### Bamenda 1st
+
+Code: CM007005003, Coordinates: 5.913, 10.201
+
+#### Bamenda 2nd
+
+Code: CM007005004, Coordinates: 5.969, 10.102
+
+#### Bamenda 3rd
+
+Code: CM007005005, Coordinates: 5.99, 10.185
+
+#### Santa
+
+Code: CM007005006, Coordinates: 5.8, 10.143
+
+#### Tubah
+
+Code: CM007005007, Coordinates: 6.038, 10.291
+
+### Momo
+
+Code: CM007006, Coordinates: 6, 9.833
+Subdivisions: 5
+
+#### Batibo
+
+Code: CM007006001, Coordinates: 5.825, 9.887
+
+#### Mbengwi
+
+Code: CM007006002, Coordinates: 6.069, 9.962
+
+#### Ngie
+
+Code: CM007006003, Coordinates: 5.982, 9.794
+
+#### Njikwa
+
+Code: CM007006004, Coordinates: 6.146, 9.841
+
+#### Widikum
+
+Code: CM007006005, Coordinates: 5.946, 9.69
+
+### Ngo-Ketunjia
+
+Code: CM007007, Coordinates: 5.966, 10.518
+Subdivisions: 3
+
+#### Babessi
+
+Code: CM007007001, Coordinates: 6.019, 10.557
+
+#### Balikumbat
+
+Code: CM007007002, Coordinates: 5.879, 10.386
+
+#### Ndop
+
+Code: CM007007003, Coordinates: 5.91, 10.525
+

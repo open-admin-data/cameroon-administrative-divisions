@@ -1,0 +1,488 @@
+[
+  {
+    "id": "CM008008001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bangourain",
+      "en": "Bangourain",
+      "slug": "bangourain-cm008008001"
+    },
+    "code": {
+      "id": "CM008008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008008",
+      "level": 2,
+      "name": {
+        "local": "Noun",
+        "en": "Noun",
+        "slug": "noun-cm008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008008",
+        "level": 2,
+        "name": {
+          "local": "Noun",
+          "en": "Noun",
+          "slug": "noun-cm008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.902",
+      "lon": "10.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008008002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Foumban",
+      "en": "Foumban",
+      "slug": "foumban-cm008008002"
+    },
+    "code": {
+      "id": "CM008008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008008",
+      "level": 2,
+      "name": {
+        "local": "Noun",
+        "en": "Noun",
+        "slug": "noun-cm008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008008",
+        "level": 2,
+        "name": {
+          "local": "Noun",
+          "en": "Noun",
+          "slug": "noun-cm008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.718",
+      "lon": "10.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008008003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Foumbot",
+      "en": "Foumbot",
+      "slug": "foumbot-cm008008003"
+    },
+    "code": {
+      "id": "CM008008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008008",
+      "level": 2,
+      "name": {
+        "local": "Noun",
+        "en": "Noun",
+        "slug": "noun-cm008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008008",
+        "level": 2,
+        "name": {
+          "local": "Noun",
+          "en": "Noun",
+          "slug": "noun-cm008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.422",
+      "lon": "10.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008008004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kouoptamo",
+      "en": "Kouoptamo",
+      "slug": "kouoptamo-cm008008004"
+    },
+    "code": {
+      "id": "CM008008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008008",
+      "level": 2,
+      "name": {
+        "local": "Noun",
+        "en": "Noun",
+        "slug": "noun-cm008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008008",
+        "level": 2,
+        "name": {
+          "local": "Noun",
+          "en": "Noun",
+          "slug": "noun-cm008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.681",
+      "lon": "10.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008008005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Koutaba",
+      "en": "Koutaba",
+      "slug": "koutaba-cm008008005"
+    },
+    "code": {
+      "id": "CM008008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008008",
+      "level": 2,
+      "name": {
+        "local": "Noun",
+        "en": "Noun",
+        "slug": "noun-cm008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008008",
+        "level": 2,
+        "name": {
+          "local": "Noun",
+          "en": "Noun",
+          "slug": "noun-cm008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.651",
+      "lon": "10.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008008006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Magba",
+      "en": "Magba",
+      "slug": "magba-cm008008006"
+    },
+    "code": {
+      "id": "CM008008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008008",
+      "level": 2,
+      "name": {
+        "local": "Noun",
+        "en": "Noun",
+        "slug": "noun-cm008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008008",
+        "level": 2,
+        "name": {
+          "local": "Noun",
+          "en": "Noun",
+          "slug": "noun-cm008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.066",
+      "lon": "11.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008008007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Malantouen",
+      "en": "Malantouen",
+      "slug": "malantouen-cm008008007"
+    },
+    "code": {
+      "id": "CM008008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008008",
+      "level": 2,
+      "name": {
+        "local": "Noun",
+        "en": "Noun",
+        "slug": "noun-cm008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008008",
+        "level": 2,
+        "name": {
+          "local": "Noun",
+          "en": "Noun",
+          "slug": "noun-cm008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.653",
+      "lon": "11.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008008008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Massangam",
+      "en": "Massangam",
+      "slug": "massangam-cm008008008"
+    },
+    "code": {
+      "id": "CM008008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008008",
+      "level": 2,
+      "name": {
+        "local": "Noun",
+        "en": "Noun",
+        "slug": "noun-cm008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008008",
+        "level": 2,
+        "name": {
+          "local": "Noun",
+          "en": "Noun",
+          "slug": "noun-cm008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.256",
+      "lon": "10.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008008009",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Njimom",
+      "en": "Njimom",
+      "slug": "njimom-cm008008009"
+    },
+    "code": {
+      "id": "CM008008009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008008",
+      "level": 2,
+      "name": {
+        "local": "Noun",
+        "en": "Noun",
+        "slug": "noun-cm008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008008",
+        "level": 2,
+        "name": {
+          "local": "Noun",
+          "en": "Noun",
+          "slug": "noun-cm008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.896",
+      "lon": "10.926"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

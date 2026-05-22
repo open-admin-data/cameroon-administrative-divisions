@@ -1,0 +1,30 @@
+{
+  "id": "CM006",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Nord",
+    "en": "North",
+    "slug": "north-cm006"
+  },
+  "code": {
+    "id": "CM006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "division": 4,
+    "subdivision": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.637",
+    "lon": "13.873"
+  },
+  "metadata": {},
+  "source": {}
+}

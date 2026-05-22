@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CM002010001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Akoeman",
+      "en": "Akoeman",
+      "slug": "akoeman-cm002010001"
+    },
+    "code": {
+      "id": "CM002010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002010",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-So'o",
+        "en": "Nyong-et-So'o",
+        "slug": "nyong-et-soo-cm002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002010",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-So'o",
+          "en": "Nyong-et-So'o",
+          "slug": "nyong-et-soo-cm002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.261",
+      "lon": "11.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002010002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Dzeng",
+      "en": "Dzeng",
+      "slug": "dzeng-cm002010002"
+    },
+    "code": {
+      "id": "CM002010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002010",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-So'o",
+        "en": "Nyong-et-So'o",
+        "slug": "nyong-et-soo-cm002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002010",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-So'o",
+          "en": "Nyong-et-So'o",
+          "slug": "nyong-et-soo-cm002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.675",
+      "lon": "11.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002010003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mbalmayo",
+      "en": "Mbalmayo",
+      "slug": "mbalmayo-cm002010003"
+    },
+    "code": {
+      "id": "CM002010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002010",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-So'o",
+        "en": "Nyong-et-So'o",
+        "slug": "nyong-et-soo-cm002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002010",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-So'o",
+          "en": "Nyong-et-So'o",
+          "slug": "nyong-et-soo-cm002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.486",
+      "lon": "11.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002010004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mengueme",
+      "en": "Mengueme",
+      "slug": "mengueme-cm002010004"
+    },
+    "code": {
+      "id": "CM002010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002010",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-So'o",
+        "en": "Nyong-et-So'o",
+        "slug": "nyong-et-soo-cm002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002010",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-So'o",
+          "en": "Nyong-et-So'o",
+          "slug": "nyong-et-soo-cm002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.272",
+      "lon": "11.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002010005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngomedzap",
+      "en": "Ngomedzap",
+      "slug": "ngomedzap-cm002010005"
+    },
+    "code": {
+      "id": "CM002010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002010",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-So'o",
+        "en": "Nyong-et-So'o",
+        "slug": "nyong-et-soo-cm002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002010",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-So'o",
+          "en": "Nyong-et-So'o",
+          "slug": "nyong-et-soo-cm002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.285",
+      "lon": "11.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002010006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nkolmetet",
+      "en": "Nkolmetet",
+      "slug": "nkolmetet-cm002010006"
+    },
+    "code": {
+      "id": "CM002010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002010",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-So'o",
+        "en": "Nyong-et-So'o",
+        "slug": "nyong-et-soo-cm002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002010",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-So'o",
+          "en": "Nyong-et-So'o",
+          "slug": "nyong-et-soo-cm002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.425",
+      "lon": "11.763"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

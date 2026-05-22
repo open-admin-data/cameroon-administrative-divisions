@@ -1,0 +1,47 @@
+{
+  "id": "CM003001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Boumba-et-Ngoko",
+    "en": "Boumba-et-Ngoko",
+    "slug": "boumba-et-ngoko-cm003001"
+  },
+  "code": {
+    "id": "CM003001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM003",
+    "level": 1,
+    "name": {
+      "local": "Est",
+      "en": "East",
+      "slug": "east-cm003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM003",
+      "level": 1,
+      "name": {
+        "local": "Est",
+        "en": "East",
+        "slug": "east-cm003"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.837",
+    "lon": "15.2"
+  },
+  "metadata": {},
+  "source": {}
+}

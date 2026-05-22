@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CM007007001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Babessi",
+      "en": "Babessi",
+      "slug": "babessi-cm007007001"
+    },
+    "code": {
+      "id": "CM007007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007007",
+      "level": 2,
+      "name": {
+        "local": "Ngo-Ketunjia",
+        "en": "Ngo-Ketunjia",
+        "slug": "ngo-ketunjia-cm007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007007",
+        "level": 2,
+        "name": {
+          "local": "Ngo-Ketunjia",
+          "en": "Ngo-Ketunjia",
+          "slug": "ngo-ketunjia-cm007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.019",
+      "lon": "10.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007007002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Balikumbat",
+      "en": "Balikumbat",
+      "slug": "balikumbat-cm007007002"
+    },
+    "code": {
+      "id": "CM007007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007007",
+      "level": 2,
+      "name": {
+        "local": "Ngo-Ketunjia",
+        "en": "Ngo-Ketunjia",
+        "slug": "ngo-ketunjia-cm007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007007",
+        "level": 2,
+        "name": {
+          "local": "Ngo-Ketunjia",
+          "en": "Ngo-Ketunjia",
+          "slug": "ngo-ketunjia-cm007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.879",
+      "lon": "10.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007007003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ndop",
+      "en": "Ndop",
+      "slug": "ndop-cm007007003"
+    },
+    "code": {
+      "id": "CM007007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007007",
+      "level": 2,
+      "name": {
+        "local": "Ngo-Ketunjia",
+        "en": "Ngo-Ketunjia",
+        "slug": "ngo-ketunjia-cm007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007007",
+        "level": 2,
+        "name": {
+          "local": "Ngo-Ketunjia",
+          "en": "Ngo-Ketunjia",
+          "slug": "ngo-ketunjia-cm007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.91",
+      "lon": "10.525"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

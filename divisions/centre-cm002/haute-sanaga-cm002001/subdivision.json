@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CM002001001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bibey",
+      "en": "Bibey",
+      "slug": "bibey-cm002001001"
+    },
+    "code": {
+      "id": "CM002001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002001",
+      "level": 2,
+      "name": {
+        "local": "Haute-Sanaga",
+        "en": "Haute-Sanaga",
+        "slug": "haute-sanaga-cm002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002001",
+        "level": 2,
+        "name": {
+          "local": "Haute-Sanaga",
+          "en": "Haute-Sanaga",
+          "slug": "haute-sanaga-cm002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.093",
+      "lon": "12.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002001002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Lembe Yezoum",
+      "en": "Lembe Yezoum",
+      "slug": "lembe-yezoum-cm002001002"
+    },
+    "code": {
+      "id": "CM002001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002001",
+      "level": 2,
+      "name": {
+        "local": "Haute-Sanaga",
+        "en": "Haute-Sanaga",
+        "slug": "haute-sanaga-cm002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002001",
+        "level": 2,
+        "name": {
+          "local": "Haute-Sanaga",
+          "en": "Haute-Sanaga",
+          "slug": "haute-sanaga-cm002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.211",
+      "lon": "12.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002001003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mbandjock",
+      "en": "Mbandjock",
+      "slug": "mbandjock-cm002001003"
+    },
+    "code": {
+      "id": "CM002001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002001",
+      "level": 2,
+      "name": {
+        "local": "Haute-Sanaga",
+        "en": "Haute-Sanaga",
+        "slug": "haute-sanaga-cm002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002001",
+        "level": 2,
+        "name": {
+          "local": "Haute-Sanaga",
+          "en": "Haute-Sanaga",
+          "slug": "haute-sanaga-cm002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.451",
+      "lon": "11.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002001004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Minta",
+      "en": "Minta",
+      "slug": "minta-cm002001004"
+    },
+    "code": {
+      "id": "CM002001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002001",
+      "level": 2,
+      "name": {
+        "local": "Haute-Sanaga",
+        "en": "Haute-Sanaga",
+        "slug": "haute-sanaga-cm002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002001",
+        "level": 2,
+        "name": {
+          "local": "Haute-Sanaga",
+          "en": "Haute-Sanaga",
+          "slug": "haute-sanaga-cm002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.641",
+      "lon": "12.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002001005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nanga-Eboko",
+      "en": "Nanga-Eboko",
+      "slug": "nanga-eboko-cm002001005"
+    },
+    "code": {
+      "id": "CM002001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002001",
+      "level": 2,
+      "name": {
+        "local": "Haute-Sanaga",
+        "en": "Haute-Sanaga",
+        "slug": "haute-sanaga-cm002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002001",
+        "level": 2,
+        "name": {
+          "local": "Haute-Sanaga",
+          "en": "Haute-Sanaga",
+          "slug": "haute-sanaga-cm002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.786",
+      "lon": "12.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002001006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nkoteng",
+      "en": "Nkoteng",
+      "slug": "nkoteng-cm002001006"
+    },
+    "code": {
+      "id": "CM002001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002001",
+      "level": 2,
+      "name": {
+        "local": "Haute-Sanaga",
+        "en": "Haute-Sanaga",
+        "slug": "haute-sanaga-cm002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002001",
+        "level": 2,
+        "name": {
+          "local": "Haute-Sanaga",
+          "en": "Haute-Sanaga",
+          "slug": "haute-sanaga-cm002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.493",
+      "lon": "12.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002001007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nsem",
+      "en": "Nsem",
+      "slug": "nsem-cm002001007"
+    },
+    "code": {
+      "id": "CM002001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002001",
+      "level": 2,
+      "name": {
+        "local": "Haute-Sanaga",
+        "en": "Haute-Sanaga",
+        "slug": "haute-sanaga-cm002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002001",
+        "level": 2,
+        "name": {
+          "local": "Haute-Sanaga",
+          "en": "Haute-Sanaga",
+          "slug": "haute-sanaga-cm002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.903",
+      "lon": "12.919"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

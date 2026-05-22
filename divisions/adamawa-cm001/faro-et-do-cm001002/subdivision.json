@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CM001002001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Galim-Tignere",
+      "en": "Galim-Tignere",
+      "slug": "galim-tignere-cm001002001"
+    },
+    "code": {
+      "id": "CM001002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001002",
+      "level": 2,
+      "name": {
+        "local": "Faro-et-Déo",
+        "en": "Faro-et-Déo",
+        "slug": "faro-et-do-cm001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001002",
+        "level": 2,
+        "name": {
+          "local": "Faro-et-Déo",
+          "en": "Faro-et-Déo",
+          "slug": "faro-et-do-cm001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.131",
+      "lon": "12.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001002002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kontcha",
+      "en": "Kontcha",
+      "slug": "kontcha-cm001002002"
+    },
+    "code": {
+      "id": "CM001002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001002",
+      "level": 2,
+      "name": {
+        "local": "Faro-et-Déo",
+        "en": "Faro-et-Déo",
+        "slug": "faro-et-do-cm001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001002",
+        "level": 2,
+        "name": {
+          "local": "Faro-et-Déo",
+          "en": "Faro-et-Déo",
+          "slug": "faro-et-do-cm001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.063",
+      "lon": "12.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001002003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mayo-Baleo",
+      "en": "Mayo-Baleo",
+      "slug": "mayo-baleo-cm001002003"
+    },
+    "code": {
+      "id": "CM001002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001002",
+      "level": 2,
+      "name": {
+        "local": "Faro-et-Déo",
+        "en": "Faro-et-Déo",
+        "slug": "faro-et-do-cm001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001002",
+        "level": 2,
+        "name": {
+          "local": "Faro-et-Déo",
+          "en": "Faro-et-Déo",
+          "slug": "faro-et-do-cm001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.679",
+      "lon": "12.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001002004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Tignere",
+      "en": "Tignere",
+      "slug": "tignere-cm001002004"
+    },
+    "code": {
+      "id": "CM001002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001002",
+      "level": 2,
+      "name": {
+        "local": "Faro-et-Déo",
+        "en": "Faro-et-Déo",
+        "slug": "faro-et-do-cm001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001002",
+        "level": 2,
+        "name": {
+          "local": "Faro-et-Déo",
+          "en": "Faro-et-Déo",
+          "slug": "faro-et-do-cm001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.361",
+      "lon": "12.635"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

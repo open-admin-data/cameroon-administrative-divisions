@@ -1,0 +1,47 @@
+{
+  "id": "CM010004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Manyu",
+    "en": "Manyu",
+    "slug": "manyu-cm010004"
+  },
+  "code": {
+    "id": "CM010004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM010",
+    "level": 1,
+    "name": {
+      "local": "Sud-Ouest",
+      "en": "South-West",
+      "slug": "south-west-cm010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM010",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ouest",
+        "en": "South-West",
+        "slug": "south-west-cm010"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.908",
+    "lon": "9.262"
+  },
+  "metadata": {},
+  "source": {}
+}

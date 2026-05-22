@@ -1,0 +1,47 @@
+{
+  "id": "CM010002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Kupe-Manenguba",
+    "en": "Kupe-Manenguba",
+    "slug": "kupe-manenguba-cm010002"
+  },
+  "code": {
+    "id": "CM010002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM010",
+    "level": 1,
+    "name": {
+      "local": "Sud-Ouest",
+      "en": "South-West",
+      "slug": "south-west-cm010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM010",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ouest",
+        "en": "South-West",
+        "slug": "south-west-cm010"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.048",
+    "lon": "9.64"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CM007006",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Momo",
+    "en": "Momo",
+    "slug": "momo-cm007006"
+  },
+  "code": {
+    "id": "CM007006",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM007",
+    "level": 1,
+    "name": {
+      "local": "Nord-Ouest",
+      "en": "North-West",
+      "slug": "north-west-cm007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM007",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ouest",
+        "en": "North-West",
+        "slug": "north-west-cm007"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6",
+    "lon": "9.833"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,284 @@
+[
+  {
+    "id": "CM004001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Diamaré",
+      "en": "Diamaré",
+      "slug": "diamar-cm004001"
+    },
+    "code": {
+      "id": "CM004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004",
+      "level": 1,
+      "name": {
+        "local": "Extrême-Nord",
+        "en": "Far-North",
+        "slug": "far-north-cm004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.663",
+      "lon": "14.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Logone-et-Chari",
+      "en": "Logone-et-Chari",
+      "slug": "logone-et-chari-cm004002"
+    },
+    "code": {
+      "id": "CM004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004",
+      "level": 1,
+      "name": {
+        "local": "Extrême-Nord",
+        "en": "Far-North",
+        "slug": "far-north-cm004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.041",
+      "lon": "14.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mayo-Danay",
+      "en": "Mayo-Danay",
+      "slug": "mayo-danay-cm004003"
+    },
+    "code": {
+      "id": "CM004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004",
+      "level": 1,
+      "name": {
+        "local": "Extrême-Nord",
+        "en": "Far-North",
+        "slug": "far-north-cm004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.511",
+      "lon": "15.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mayo-Kani",
+      "en": "Mayo-Kani",
+      "slug": "mayo-kani-cm004004"
+    },
+    "code": {
+      "id": "CM004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004",
+      "level": 1,
+      "name": {
+        "local": "Extrême-Nord",
+        "en": "Far-North",
+        "slug": "far-north-cm004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.291",
+      "lon": "14.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mayo-Sava",
+      "en": "Mayo-Sava",
+      "slug": "mayo-sava-cm004005"
+    },
+    "code": {
+      "id": "CM004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004",
+      "level": 1,
+      "name": {
+        "local": "Extrême-Nord",
+        "en": "Far-North",
+        "slug": "far-north-cm004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.105",
+      "lon": "14.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mayo-Tsanaga",
+      "en": "Mayo-Tsanaga",
+      "slug": "mayo-tsanaga-cm004006"
+    },
+    "code": {
+      "id": "CM004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004",
+      "level": 1,
+      "name": {
+        "local": "Extrême-Nord",
+        "en": "Far-North",
+        "slug": "far-north-cm004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.607",
+      "lon": "13.803"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

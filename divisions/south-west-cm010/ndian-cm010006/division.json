@@ -1,0 +1,47 @@
+{
+  "id": "CM010006",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Ndian",
+    "en": "Ndian",
+    "slug": "ndian-cm010006"
+  },
+  "code": {
+    "id": "CM010006",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM010",
+    "level": 1,
+    "name": {
+      "local": "Sud-Ouest",
+      "en": "South-West",
+      "slug": "south-west-cm010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM010",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ouest",
+        "en": "South-West",
+        "slug": "south-west-cm010"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.845",
+    "lon": "8.948"
+  },
+  "metadata": {},
+  "source": {}
+}

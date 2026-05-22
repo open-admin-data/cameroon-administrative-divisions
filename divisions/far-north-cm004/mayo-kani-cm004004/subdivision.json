@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CM004004001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Guidiguis",
+      "en": "Guidiguis",
+      "slug": "guidiguis-cm004004001"
+    },
+    "code": {
+      "id": "CM004004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004004",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Kani",
+        "en": "Mayo-Kani",
+        "slug": "mayo-kani-cm004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004004",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Kani",
+          "en": "Mayo-Kani",
+          "slug": "mayo-kani-cm004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.081",
+      "lon": "14.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004004002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kaele",
+      "en": "Kaele",
+      "slug": "kaele-cm004004002"
+    },
+    "code": {
+      "id": "CM004004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004004",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Kani",
+        "en": "Mayo-Kani",
+        "slug": "mayo-kani-cm004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004004",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Kani",
+          "en": "Mayo-Kani",
+          "slug": "mayo-kani-cm004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.201",
+      "lon": "14.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004004003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mindif",
+      "en": "Mindif",
+      "slug": "mindif-cm004004003"
+    },
+    "code": {
+      "id": "CM004004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004004",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Kani",
+        "en": "Mayo-Kani",
+        "slug": "mayo-kani-cm004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004004",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Kani",
+          "en": "Mayo-Kani",
+          "slug": "mayo-kani-cm004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.398",
+      "lon": "14.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004004004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Moulvoudaye",
+      "en": "Moulvoudaye",
+      "slug": "moulvoudaye-cm004004004"
+    },
+    "code": {
+      "id": "CM004004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004004",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Kani",
+        "en": "Mayo-Kani",
+        "slug": "mayo-kani-cm004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004004",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Kani",
+          "en": "Mayo-Kani",
+          "slug": "mayo-kani-cm004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.415",
+      "lon": "14.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004004005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Moutourwa",
+      "en": "Moutourwa",
+      "slug": "moutourwa-cm004004005"
+    },
+    "code": {
+      "id": "CM004004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004004",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Kani",
+        "en": "Mayo-Kani",
+        "slug": "mayo-kani-cm004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004004",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Kani",
+          "en": "Mayo-Kani",
+          "slug": "mayo-kani-cm004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.244",
+      "lon": "14.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004004006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Porhi",
+      "en": "Porhi",
+      "slug": "porhi-cm004004006"
+    },
+    "code": {
+      "id": "CM004004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004004",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Kani",
+        "en": "Mayo-Kani",
+        "slug": "mayo-kani-cm004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004004",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Kani",
+          "en": "Mayo-Kani",
+          "slug": "mayo-kani-cm004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.188",
+      "lon": "14.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004004007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Taibong",
+      "en": "Taibong",
+      "slug": "taibong-cm004004007"
+    },
+    "code": {
+      "id": "CM004004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004004",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Kani",
+        "en": "Mayo-Kani",
+        "slug": "mayo-kani-cm004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004004",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Kani",
+          "en": "Mayo-Kani",
+          "slug": "mayo-kani-cm004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.026",
+      "lon": "14.775"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

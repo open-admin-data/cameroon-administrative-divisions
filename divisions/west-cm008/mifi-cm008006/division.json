@@ -1,0 +1,47 @@
+{
+  "id": "CM008006",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mifi",
+    "en": "Mifi",
+    "slug": "mifi-cm008006"
+  },
+  "code": {
+    "id": "CM008006",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM008",
+    "level": 1,
+    "name": {
+      "local": "Ouest",
+      "en": "West",
+      "slug": "west-cm008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM008",
+      "level": 1,
+      "name": {
+        "local": "Ouest",
+        "en": "West",
+        "slug": "west-cm008"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.512",
+    "lon": "10.454"
+  },
+  "metadata": {},
+  "source": {}
+}

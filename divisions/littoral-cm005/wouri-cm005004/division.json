@@ -1,0 +1,47 @@
+{
+  "id": "CM005004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Wouri",
+    "en": "Wouri",
+    "slug": "wouri-cm005004"
+  },
+  "code": {
+    "id": "CM005004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM005",
+    "level": 1,
+    "name": {
+      "local": "Littoral",
+      "en": "Littoral",
+      "slug": "littoral-cm005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM005",
+      "level": 1,
+      "name": {
+        "local": "Littoral",
+        "en": "Littoral",
+        "slug": "littoral-cm005"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.054",
+    "lon": "9.664"
+  },
+  "metadata": {},
+  "source": {}
+}

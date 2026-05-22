@@ -1,0 +1,47 @@
+{
+  "id": "CM007003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Donga-Mantung",
+    "en": "Donga-Mantung",
+    "slug": "donga-mantung-cm007003"
+  },
+  "code": {
+    "id": "CM007003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM007",
+    "level": 1,
+    "name": {
+      "local": "Nord-Ouest",
+      "en": "North-West",
+      "slug": "north-west-cm007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM007",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ouest",
+        "en": "North-West",
+        "slug": "north-west-cm007"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.685",
+    "lon": "10.772"
+  },
+  "metadata": {},
+  "source": {}
+}

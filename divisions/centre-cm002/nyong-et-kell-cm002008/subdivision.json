@@ -1,0 +1,542 @@
+[
+  {
+    "id": "CM002008001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Biyouha",
+      "en": "Biyouha",
+      "slug": "biyouha-cm002008001"
+    },
+    "code": {
+      "id": "CM002008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002008",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Kellé",
+        "en": "Nyong-et-Kellé",
+        "slug": "nyong-et-kell-cm002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002008",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Kellé",
+          "en": "Nyong-et-Kellé",
+          "slug": "nyong-et-kell-cm002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.806",
+      "lon": "10.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002008002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bondjock",
+      "en": "Bondjock",
+      "slug": "bondjock-cm002008002"
+    },
+    "code": {
+      "id": "CM002008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002008",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Kellé",
+        "en": "Nyong-et-Kellé",
+        "slug": "nyong-et-kell-cm002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002008",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Kellé",
+          "en": "Nyong-et-Kellé",
+          "slug": "nyong-et-kell-cm002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.657",
+      "lon": "11.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002008003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bot-Makak",
+      "en": "Bot-Makak",
+      "slug": "bot-makak-cm002008003"
+    },
+    "code": {
+      "id": "CM002008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002008",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Kellé",
+        "en": "Nyong-et-Kellé",
+        "slug": "nyong-et-kell-cm002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002008",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Kellé",
+          "en": "Nyong-et-Kellé",
+          "slug": "nyong-et-kell-cm002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.04",
+      "lon": "10.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002008004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Dibang",
+      "en": "Dibang",
+      "slug": "dibang-cm002008004"
+    },
+    "code": {
+      "id": "CM002008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002008",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Kellé",
+        "en": "Nyong-et-Kellé",
+        "slug": "nyong-et-kell-cm002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002008",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Kellé",
+          "en": "Nyong-et-Kellé",
+          "slug": "nyong-et-kell-cm002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.949",
+      "lon": "10.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002008005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Eseka",
+      "en": "Eseka",
+      "slug": "eseka-cm002008005"
+    },
+    "code": {
+      "id": "CM002008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002008",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Kellé",
+        "en": "Nyong-et-Kellé",
+        "slug": "nyong-et-kell-cm002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002008",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Kellé",
+          "en": "Nyong-et-Kellé",
+          "slug": "nyong-et-kell-cm002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.649",
+      "lon": "10.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002008006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Makak",
+      "en": "Makak",
+      "slug": "makak-cm002008006"
+    },
+    "code": {
+      "id": "CM002008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002008",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Kellé",
+        "en": "Nyong-et-Kellé",
+        "slug": "nyong-et-kell-cm002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002008",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Kellé",
+          "en": "Nyong-et-Kellé",
+          "slug": "nyong-et-kell-cm002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.573",
+      "lon": "11.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002008007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Matomb",
+      "en": "Matomb",
+      "slug": "matomb-cm002008007"
+    },
+    "code": {
+      "id": "CM002008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002008",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Kellé",
+        "en": "Nyong-et-Kellé",
+        "slug": "nyong-et-kell-cm002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002008",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Kellé",
+          "en": "Nyong-et-Kellé",
+          "slug": "nyong-et-kell-cm002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.834",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002008008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Messondo",
+      "en": "Messondo",
+      "slug": "messondo-cm002008008"
+    },
+    "code": {
+      "id": "CM002008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002008",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Kellé",
+        "en": "Nyong-et-Kellé",
+        "slug": "nyong-et-kell-cm002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002008",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Kellé",
+          "en": "Nyong-et-Kellé",
+          "slug": "nyong-et-kell-cm002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.578",
+      "lon": "10.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002008009",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngog-Mapubi",
+      "en": "Ngog-Mapubi",
+      "slug": "ngog-mapubi-cm002008009"
+    },
+    "code": {
+      "id": "CM002008009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002008",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Kellé",
+        "en": "Nyong-et-Kellé",
+        "slug": "nyong-et-kell-cm002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002008",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Kellé",
+          "en": "Nyong-et-Kellé",
+          "slug": "nyong-et-kell-cm002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.9",
+      "lon": "10.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002008010",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nguibassal",
+      "en": "Nguibassal",
+      "slug": "nguibassal-cm002008010"
+    },
+    "code": {
+      "id": "CM002008010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002008",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Kellé",
+        "en": "Nyong-et-Kellé",
+        "slug": "nyong-et-kell-cm002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002008",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Kellé",
+          "en": "Nyong-et-Kellé",
+          "slug": "nyong-et-kell-cm002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.099",
+      "lon": "11.072"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

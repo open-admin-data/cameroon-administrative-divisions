@@ -1,0 +1,650 @@
+[
+  {
+    "id": "CM006001001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bascheo",
+      "en": "Bascheo",
+      "slug": "bascheo-cm006001001"
+    },
+    "code": {
+      "id": "CM006001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006001",
+      "level": 2,
+      "name": {
+        "local": "Bénoué",
+        "en": "Bénoué",
+        "slug": "bnou-cm006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006001",
+        "level": 2,
+        "name": {
+          "local": "Bénoué",
+          "en": "Bénoué",
+          "slug": "bnou-cm006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.764",
+      "lon": "13.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006001002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bibemi",
+      "en": "Bibemi",
+      "slug": "bibemi-cm006001002"
+    },
+    "code": {
+      "id": "CM006001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006001",
+      "level": 2,
+      "name": {
+        "local": "Bénoué",
+        "en": "Bénoué",
+        "slug": "bnou-cm006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006001",
+        "level": 2,
+        "name": {
+          "local": "Bénoué",
+          "en": "Bénoué",
+          "slug": "bnou-cm006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.303",
+      "lon": "13.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006001003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Dembo",
+      "en": "Dembo",
+      "slug": "dembo-cm006001003"
+    },
+    "code": {
+      "id": "CM006001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006001",
+      "level": 2,
+      "name": {
+        "local": "Bénoué",
+        "en": "Bénoué",
+        "slug": "bnou-cm006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006001",
+        "level": 2,
+        "name": {
+          "local": "Bénoué",
+          "en": "Bénoué",
+          "slug": "bnou-cm006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.788",
+      "lon": "13.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006001004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Demsa",
+      "en": "Demsa",
+      "slug": "demsa-cm006001004"
+    },
+    "code": {
+      "id": "CM006001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006001",
+      "level": 2,
+      "name": {
+        "local": "Bénoué",
+        "en": "Bénoué",
+        "slug": "bnou-cm006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006001",
+        "level": 2,
+        "name": {
+          "local": "Bénoué",
+          "en": "Bénoué",
+          "slug": "bnou-cm006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.486",
+      "lon": "13.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006001005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Garoua 1er",
+      "en": "Garoua 1er",
+      "slug": "garoua-1er-cm006001005"
+    },
+    "code": {
+      "id": "CM006001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006001",
+      "level": 2,
+      "name": {
+        "local": "Bénoué",
+        "en": "Bénoué",
+        "slug": "bnou-cm006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006001",
+        "level": 2,
+        "name": {
+          "local": "Bénoué",
+          "en": "Bénoué",
+          "slug": "bnou-cm006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.337",
+      "lon": "13.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006001006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Garoua 2e",
+      "en": "Garoua 2e",
+      "slug": "garoua-2e-cm006001006"
+    },
+    "code": {
+      "id": "CM006001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006001",
+      "level": 2,
+      "name": {
+        "local": "Bénoué",
+        "en": "Bénoué",
+        "slug": "bnou-cm006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006001",
+        "level": 2,
+        "name": {
+          "local": "Bénoué",
+          "en": "Bénoué",
+          "slug": "bnou-cm006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.348",
+      "lon": "13.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006001007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Garoua 3e",
+      "en": "Garoua 3e",
+      "slug": "garoua-3e-cm006001007"
+    },
+    "code": {
+      "id": "CM006001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006001",
+      "level": 2,
+      "name": {
+        "local": "Bénoué",
+        "en": "Bénoué",
+        "slug": "bnou-cm006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006001",
+        "level": 2,
+        "name": {
+          "local": "Bénoué",
+          "en": "Bénoué",
+          "slug": "bnou-cm006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.272",
+      "lon": "13.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006001008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Lagdo",
+      "en": "Lagdo",
+      "slug": "lagdo-cm006001008"
+    },
+    "code": {
+      "id": "CM006001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006001",
+      "level": 2,
+      "name": {
+        "local": "Bénoué",
+        "en": "Bénoué",
+        "slug": "bnou-cm006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006001",
+        "level": 2,
+        "name": {
+          "local": "Bénoué",
+          "en": "Bénoué",
+          "slug": "bnou-cm006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.758",
+      "lon": "13.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006001009",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mayo-Hourna",
+      "en": "Mayo-Hourna",
+      "slug": "mayo-hourna-cm006001009"
+    },
+    "code": {
+      "id": "CM006001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006001",
+      "level": 2,
+      "name": {
+        "local": "Bénoué",
+        "en": "Bénoué",
+        "slug": "bnou-cm006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006001",
+        "level": 2,
+        "name": {
+          "local": "Bénoué",
+          "en": "Bénoué",
+          "slug": "bnou-cm006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.345",
+      "lon": "13.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006001010",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Pitoa",
+      "en": "Pitoa",
+      "slug": "pitoa-cm006001010"
+    },
+    "code": {
+      "id": "CM006001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006001",
+      "level": 2,
+      "name": {
+        "local": "Bénoué",
+        "en": "Bénoué",
+        "slug": "bnou-cm006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006001",
+        "level": 2,
+        "name": {
+          "local": "Bénoué",
+          "en": "Bénoué",
+          "slug": "bnou-cm006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.474",
+      "lon": "13.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006001011",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Tcheboa",
+      "en": "Tcheboa",
+      "slug": "tcheboa-cm006001011"
+    },
+    "code": {
+      "id": "CM006001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006001",
+      "level": 2,
+      "name": {
+        "local": "Bénoué",
+        "en": "Bénoué",
+        "slug": "bnou-cm006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006001",
+        "level": 2,
+        "name": {
+          "local": "Bénoué",
+          "en": "Bénoué",
+          "slug": "bnou-cm006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.932",
+      "lon": "13.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006001012",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Touroua",
+      "en": "Touroua",
+      "slug": "touroua-cm006001012"
+    },
+    "code": {
+      "id": "CM006001012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006001",
+      "level": 2,
+      "name": {
+        "local": "Bénoué",
+        "en": "Bénoué",
+        "slug": "bnou-cm006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006001",
+        "level": 2,
+        "name": {
+          "local": "Bénoué",
+          "en": "Bénoué",
+          "slug": "bnou-cm006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.027",
+      "lon": "13.014"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

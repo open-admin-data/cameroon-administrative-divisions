@@ -1,0 +1,30 @@
+{
+  "id": "CM010",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Sud-Ouest",
+    "en": "South-West",
+    "slug": "south-west-cm010"
+  },
+  "code": {
+    "id": "CM010",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "division": 6,
+    "subdivision": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.22",
+    "lon": "9.286"
+  },
+  "metadata": {},
+  "source": {}
+}

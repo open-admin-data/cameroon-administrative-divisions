@@ -1,0 +1,47 @@
+{
+  "id": "CM007007",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Ngo-Ketunjia",
+    "en": "Ngo-Ketunjia",
+    "slug": "ngo-ketunjia-cm007007"
+  },
+  "code": {
+    "id": "CM007007",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM007",
+    "level": 1,
+    "name": {
+      "local": "Nord-Ouest",
+      "en": "North-West",
+      "slug": "north-west-cm007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM007",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ouest",
+        "en": "North-West",
+        "slug": "north-west-cm007"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.966",
+    "lon": "10.518"
+  },
+  "metadata": {},
+  "source": {}
+}

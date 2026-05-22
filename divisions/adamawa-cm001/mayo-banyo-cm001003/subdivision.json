@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CM001003001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bankim",
+      "en": "Bankim",
+      "slug": "bankim-cm001003001"
+    },
+    "code": {
+      "id": "CM001003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Banyo",
+        "en": "Mayo-Banyo",
+        "slug": "mayo-banyo-cm001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Banyo",
+          "en": "Mayo-Banyo",
+          "slug": "mayo-banyo-cm001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "11.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001003002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Banyo",
+      "en": "Banyo",
+      "slug": "banyo-cm001003002"
+    },
+    "code": {
+      "id": "CM001003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Banyo",
+        "en": "Mayo-Banyo",
+        "slug": "mayo-banyo-cm001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Banyo",
+          "en": "Mayo-Banyo",
+          "slug": "mayo-banyo-cm001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.723",
+      "lon": "11.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001003003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mayo-Darle",
+      "en": "Mayo-Darle",
+      "slug": "mayo-darle-cm001003003"
+    },
+    "code": {
+      "id": "CM001003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001003",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Banyo",
+        "en": "Mayo-Banyo",
+        "slug": "mayo-banyo-cm001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001003",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Banyo",
+          "en": "Mayo-Banyo",
+          "slug": "mayo-banyo-cm001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.476",
+      "lon": "11.652"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

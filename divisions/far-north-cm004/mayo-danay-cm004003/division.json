@@ -1,0 +1,47 @@
+{
+  "id": "CM004003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mayo-Danay",
+    "en": "Mayo-Danay",
+    "slug": "mayo-danay-cm004003"
+  },
+  "code": {
+    "id": "CM004003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM004",
+    "level": 1,
+    "name": {
+      "local": "Extrême-Nord",
+      "en": "Far-North",
+      "slug": "far-north-cm004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM004",
+      "level": 1,
+      "name": {
+        "local": "Extrême-Nord",
+        "en": "Far-North",
+        "slug": "far-north-cm004"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.511",
+    "lon": "15.041"
+  },
+  "metadata": {},
+  "source": {}
+}

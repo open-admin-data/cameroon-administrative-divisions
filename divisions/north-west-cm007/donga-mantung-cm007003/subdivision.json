@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CM007003001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ako",
+      "en": "Ako",
+      "slug": "ako-cm007003001"
+    },
+    "code": {
+      "id": "CM007003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007003",
+      "level": 2,
+      "name": {
+        "local": "Donga-Mantung",
+        "en": "Donga-Mantung",
+        "slug": "donga-mantung-cm007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007003",
+        "level": 2,
+        "name": {
+          "local": "Donga-Mantung",
+          "en": "Donga-Mantung",
+          "slug": "donga-mantung-cm007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.889",
+      "lon": "10.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007003002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Misaje",
+      "en": "Misaje",
+      "slug": "misaje-cm007003002"
+    },
+    "code": {
+      "id": "CM007003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007003",
+      "level": 2,
+      "name": {
+        "local": "Donga-Mantung",
+        "en": "Donga-Mantung",
+        "slug": "donga-mantung-cm007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007003",
+        "level": 2,
+        "name": {
+          "local": "Donga-Mantung",
+          "en": "Donga-Mantung",
+          "slug": "donga-mantung-cm007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.694",
+      "lon": "10.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007003003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ndu",
+      "en": "Ndu",
+      "slug": "ndu-cm007003003"
+    },
+    "code": {
+      "id": "CM007003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007003",
+      "level": 2,
+      "name": {
+        "local": "Donga-Mantung",
+        "en": "Donga-Mantung",
+        "slug": "donga-mantung-cm007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007003",
+        "level": 2,
+        "name": {
+          "local": "Donga-Mantung",
+          "en": "Donga-Mantung",
+          "slug": "donga-mantung-cm007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.425",
+      "lon": "10.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007003004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nkambe",
+      "en": "Nkambe",
+      "slug": "nkambe-cm007003004"
+    },
+    "code": {
+      "id": "CM007003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007003",
+      "level": 2,
+      "name": {
+        "local": "Donga-Mantung",
+        "en": "Donga-Mantung",
+        "slug": "donga-mantung-cm007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007003",
+        "level": 2,
+        "name": {
+          "local": "Donga-Mantung",
+          "en": "Donga-Mantung",
+          "slug": "donga-mantung-cm007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.553",
+      "lon": "10.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007003005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nwa",
+      "en": "Nwa",
+      "slug": "nwa-cm007003005"
+    },
+    "code": {
+      "id": "CM007003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007003",
+      "level": 2,
+      "name": {
+        "local": "Donga-Mantung",
+        "en": "Donga-Mantung",
+        "slug": "donga-mantung-cm007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007003",
+        "level": 2,
+        "name": {
+          "local": "Donga-Mantung",
+          "en": "Donga-Mantung",
+          "slug": "donga-mantung-cm007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "10.993"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

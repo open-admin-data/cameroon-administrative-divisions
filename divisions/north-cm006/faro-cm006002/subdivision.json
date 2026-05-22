@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CM006002001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Beka",
+      "en": "Beka",
+      "slug": "beka-cm006002001"
+    },
+    "code": {
+      "id": "CM006002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006002",
+      "level": 2,
+      "name": {
+        "local": "Faro",
+        "en": "Faro",
+        "slug": "faro-cm006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006002",
+        "level": 2,
+        "name": {
+          "local": "Faro",
+          "en": "Faro",
+          "slug": "faro-cm006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.715",
+      "lon": "12.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006002002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Poli",
+      "en": "Poli",
+      "slug": "poli-cm006002002"
+    },
+    "code": {
+      "id": "CM006002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM006002",
+      "level": 2,
+      "name": {
+        "local": "Faro",
+        "en": "Faro",
+        "slug": "faro-cm006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM006",
+        "level": 1,
+        "name": {
+          "local": "Nord",
+          "en": "North",
+          "slug": "north-cm006"
+        }
+      },
+      {
+        "id": "CM006002",
+        "level": 2,
+        "name": {
+          "local": "Faro",
+          "en": "Faro",
+          "slug": "faro-cm006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.195",
+      "lon": "12.813"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

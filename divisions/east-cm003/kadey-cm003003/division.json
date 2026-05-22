@@ -1,0 +1,47 @@
+{
+  "id": "CM003003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Kadey",
+    "en": "Kadey",
+    "slug": "kadey-cm003003"
+  },
+  "code": {
+    "id": "CM003003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM003",
+    "level": 1,
+    "name": {
+      "local": "Est",
+      "en": "East",
+      "slug": "east-cm003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM003",
+      "level": 1,
+      "name": {
+        "local": "Est",
+        "en": "East",
+        "slug": "east-cm003"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.478",
+    "lon": "14.416"
+  },
+  "metadata": {},
+  "source": {}
+}

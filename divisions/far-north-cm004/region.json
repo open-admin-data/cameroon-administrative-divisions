@@ -1,0 +1,30 @@
+{
+  "id": "CM004",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Extrême-Nord",
+    "en": "Far-North",
+    "slug": "far-north-cm004"
+  },
+  "code": {
+    "id": "CM004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "division": 6,
+    "subdivision": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.509",
+    "lon": "14.867"
+  },
+  "metadata": {},
+  "source": {}
+}

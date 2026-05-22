@@ -1,0 +1,47 @@
+{
+  "id": "CM002008",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Nyong-et-Kellé",
+    "en": "Nyong-et-Kellé",
+    "slug": "nyong-et-kell-cm002008"
+  },
+  "code": {
+    "id": "CM002008",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM002",
+    "level": 1,
+    "name": {
+      "local": "Centre",
+      "en": "Centre",
+      "slug": "centre-cm002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.773",
+    "lon": "10.925"
+  },
+  "metadata": {},
+  "source": {}
+}

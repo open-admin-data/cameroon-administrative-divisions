@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CM010003001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Alou",
+      "en": "Alou",
+      "slug": "alou-cm010003001"
+    },
+    "code": {
+      "id": "CM010003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010003",
+      "level": 2,
+      "name": {
+        "local": "Lebialem",
+        "en": "Lebialem",
+        "slug": "lebialem-cm010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010003",
+        "level": 2,
+        "name": {
+          "local": "Lebialem",
+          "en": "Lebialem",
+          "slug": "lebialem-cm010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.555",
+      "lon": "9.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010003002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Fontem",
+      "en": "Fontem",
+      "slug": "fontem-cm010003002"
+    },
+    "code": {
+      "id": "CM010003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010003",
+      "level": 2,
+      "name": {
+        "local": "Lebialem",
+        "en": "Lebialem",
+        "slug": "lebialem-cm010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010003",
+        "level": 2,
+        "name": {
+          "local": "Lebialem",
+          "en": "Lebialem",
+          "slug": "lebialem-cm010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.446",
+      "lon": "9.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010003003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Wabane",
+      "en": "Wabane",
+      "slug": "wabane-cm010003003"
+    },
+    "code": {
+      "id": "CM010003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010003",
+      "level": 2,
+      "name": {
+        "local": "Lebialem",
+        "en": "Lebialem",
+        "slug": "lebialem-cm010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010003",
+        "level": 2,
+        "name": {
+          "local": "Lebialem",
+          "en": "Lebialem",
+          "slug": "lebialem-cm010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.671",
+      "lon": "10.002"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

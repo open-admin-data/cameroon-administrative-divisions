@@ -1,0 +1,47 @@
+{
+  "id": "CM004004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mayo-Kani",
+    "en": "Mayo-Kani",
+    "slug": "mayo-kani-cm004004"
+  },
+  "code": {
+    "id": "CM004004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM004",
+    "level": 1,
+    "name": {
+      "local": "Extrême-Nord",
+      "en": "Far-North",
+      "slug": "far-north-cm004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM004",
+      "level": 1,
+      "name": {
+        "local": "Extrême-Nord",
+        "en": "Far-North",
+        "slug": "far-north-cm004"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.291",
+    "lon": "14.459"
+  },
+  "metadata": {},
+  "source": {}
+}

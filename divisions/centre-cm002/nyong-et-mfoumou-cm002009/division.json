@@ -1,0 +1,47 @@
+{
+  "id": "CM002009",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Nyong-et-Mfoumou",
+    "en": "Nyong-et-Mfoumou",
+    "slug": "nyong-et-mfoumou-cm002009"
+  },
+  "code": {
+    "id": "CM002009",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM002",
+    "level": 1,
+    "name": {
+      "local": "Centre",
+      "en": "Centre",
+      "slug": "centre-cm002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.839",
+    "lon": "12.265"
+  },
+  "metadata": {},
+  "source": {}
+}

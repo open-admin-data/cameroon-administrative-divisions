@@ -1,0 +1,227 @@
+# Far-North — Cameroon Administrative Divisions
+
+> 6 divisions, 47 subdivisions
+> Code: CM004
+> Coordinates: 11.509, 14.867
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Divisions
+
+### Diamaré
+
+Code: CM004001, Coordinates: 10.663, 14.416
+Subdivisions: 9
+
+#### Bogo
+
+Code: CM004001001, Coordinates: 10.811, 14.682
+
+#### Dargala
+
+Code: CM004001002, Coordinates: 10.546, 14.572
+
+#### Gazawa
+
+Code: CM004001003, Coordinates: 10.547, 14.125
+
+#### Maroua 1er
+
+Code: CM004001004, Coordinates: 10.54, 14.288
+
+#### Maroua 2e
+
+Code: CM004001005, Coordinates: 10.641, 14.318
+
+#### Maroua 3e
+
+Code: CM004001006, Coordinates: 10.796, 14.361
+
+#### Meri
+
+Code: CM004001007, Coordinates: 10.759, 14.194
+
+#### Ndoukoula
+
+Code: CM004001008, Coordinates: 10.328, 14.005
+
+#### Pette
+
+Code: CM004001009, Coordinates: 10.944, 14.55
+
+### Logone-et-Chari
+
+Code: CM004002, Coordinates: 12.041, 14.84
+Subdivisions: 10
+
+#### Blangoua
+
+Code: CM004002001, Coordinates: 12.774, 14.546
+
+#### Darak
+
+Code: CM004002002, Coordinates: 12.771, 14.43
+
+#### Fotokol
+
+Code: CM004002003, Coordinates: 12.473, 14.281
+
+#### Goulfey
+
+Code: CM004002004, Coordinates: 12.413, 14.713
+
+#### Hile-Alifa
+
+Code: CM004002005, Coordinates: 12.683, 14.353
+
+#### Kousseri
+
+Code: CM004002006, Coordinates: 12.061, 14.995
+
+#### Logone-Birni
+
+Code: CM004002007, Coordinates: 11.803, 14.859
+
+#### Makary
+
+Code: CM004002008, Coordinates: 12.443, 14.422
+
+#### Waza
+
+Code: CM004002009, Coordinates: 11.416, 14.707
+
+#### Zina
+
+Code: CM004002010, Coordinates: 11.23, 14.965
+
+### Mayo-Danay
+
+Code: CM004003, Coordinates: 10.511, 15.041
+Subdivisions: 11
+
+#### Datcheka
+
+Code: CM004003001, Coordinates: 10.003, 15.049
+
+#### Gobo
+
+Code: CM004003002, Coordinates: 10.068, 15.468
+
+#### Guere
+
+Code: CM004003003, Coordinates: 10.116, 15.322
+
+#### Kai-Kai
+
+Code: CM004003004, Coordinates: 10.627, 14.985
+
+#### Kalfou
+
+Code: CM004003005, Coordinates: 10.254, 15.024
+
+#### Kar-Hay
+
+Code: CM004003006, Coordinates: 10.086, 14.973
+
+#### Maga
+
+Code: CM004003007, Coordinates: 10.91, 14.942
+
+#### Tchatibali
+
+Code: CM004003008, Coordinates: 9.988, 14.897
+
+#### Vele
+
+Code: CM004003009, Coordinates: 10.433, 15.107
+
+#### Wina
+
+Code: CM004003010, Coordinates: 10.051, 15.108
+
+#### Yagoua
+
+Code: CM004003011, Coordinates: 10.211, 15.221
+
+### Mayo-Kani
+
+Code: CM004004, Coordinates: 10.291, 14.459
+Subdivisions: 7
+
+#### Guidiguis
+
+Code: CM004004001, Coordinates: 10.081, 14.67
+
+#### Kaele
+
+Code: CM004004002, Coordinates: 10.201, 14.408
+
+#### Mindif
+
+Code: CM004004003, Coordinates: 10.398, 14.452
+
+#### Moulvoudaye
+
+Code: CM004004004, Coordinates: 10.415, 14.827
+
+#### Moutourwa
+
+Code: CM004004005, Coordinates: 10.244, 14.146
+
+#### Porhi
+
+Code: CM004004006, Coordinates: 10.188, 14.82
+
+#### Taibong
+
+Code: CM004004007, Coordinates: 10.026, 14.775
+
+### Mayo-Sava
+
+Code: CM004005, Coordinates: 11.105, 14.215
+Subdivisions: 3
+
+#### Kolofata
+
+Code: CM004005001, Coordinates: 11.141, 14.003
+
+#### Mora
+
+Code: CM004005002, Coordinates: 11.158, 14.308
+
+#### Tokombere
+
+Code: CM004005003, Coordinates: 10.871, 14.128
+
+### Mayo-Tsanaga
+
+Code: CM004006, Coordinates: 10.607, 13.803
+Subdivisions: 7
+
+#### Bourrha
+
+Code: CM004006001, Coordinates: 10.25, 13.526
+
+#### Hina
+
+Code: CM004006002, Coordinates: 10.33, 13.811
+
+#### Koza
+
+Code: CM004006003, Coordinates: 10.923, 13.882
+
+#### Mayo-Moskota
+
+Code: CM004006004, Coordinates: 11.041, 13.877
+
+#### Mogode
+
+Code: CM004006005, Coordinates: 10.545, 13.668
+
+#### Mokolo
+
+Code: CM004006006, Coordinates: 10.666, 13.837
+
+#### Soulede-Roua
+
+Code: CM004006007, Coordinates: 10.757, 13.978
+

@@ -1,0 +1,472 @@
+[
+  {
+    "id": "CM002001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Haute-Sanaga",
+      "en": "Haute-Sanaga",
+      "slug": "haute-sanaga-cm002001"
+    },
+    "code": {
+      "id": "CM002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.655",
+      "lon": "12.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Lekié",
+      "en": "Lekié",
+      "slug": "leki-cm002002"
+    },
+    "code": {
+      "id": "CM002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.149",
+      "lon": "11.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mbam-et-Inoubou",
+      "en": "Mbam-et-Inoubou",
+      "slug": "mbam-et-inoubou-cm002003"
+    },
+    "code": {
+      "id": "CM002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.724",
+      "lon": "10.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mbam-et-Kim",
+      "en": "Mbam-et-Kim",
+      "slug": "mbam-et-kim-cm002004"
+    },
+    "code": {
+      "id": "CM002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.305",
+      "lon": "11.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mefou-et-Afamba",
+      "en": "Mefou-et-Afamba",
+      "slug": "mefou-et-afamba-cm002005"
+    },
+    "code": {
+      "id": "CM002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.934",
+      "lon": "11.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mefou-et-Akono",
+      "en": "Mefou-et-Akono",
+      "slug": "mefou-et-akono-cm002006"
+    },
+    "code": {
+      "id": "CM002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.612",
+      "lon": "11.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002007",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mfoundi",
+      "en": "Mfoundi",
+      "slug": "mfoundi-cm002007"
+    },
+    "code": {
+      "id": "CM002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.842",
+      "lon": "11.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002008",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Nyong-et-Kellé",
+      "en": "Nyong-et-Kellé",
+      "slug": "nyong-et-kell-cm002008"
+    },
+    "code": {
+      "id": "CM002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.773",
+      "lon": "10.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002009",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Nyong-et-Mfoumou",
+      "en": "Nyong-et-Mfoumou",
+      "slug": "nyong-et-mfoumou-cm002009"
+    },
+    "code": {
+      "id": "CM002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.839",
+      "lon": "12.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002010",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Nyong-et-So'o",
+      "en": "Nyong-et-So'o",
+      "slug": "nyong-et-soo-cm002010"
+    },
+    "code": {
+      "id": "CM002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.467",
+      "lon": "11.672"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "id": "CM008001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Bamboutos",
+      "en": "Bamboutos",
+      "slug": "bamboutos-cm008001"
+    },
+    "code": {
+      "id": "CM008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008",
+      "level": 1,
+      "name": {
+        "local": "Ouest",
+        "en": "West",
+        "slug": "west-cm008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.668",
+      "lon": "10.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Haut-Nkam",
+      "en": "Haut-Nkam",
+      "slug": "haut-nkam-cm008002"
+    },
+    "code": {
+      "id": "CM008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008",
+      "level": 1,
+      "name": {
+        "local": "Ouest",
+        "en": "West",
+        "slug": "west-cm008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.147",
+      "lon": "10.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Hauts-Plateaux",
+      "en": "Hauts-Plateaux",
+      "slug": "hauts-plateaux-cm008003"
+    },
+    "code": {
+      "id": "CM008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008",
+      "level": 1,
+      "name": {
+        "local": "Ouest",
+        "en": "West",
+        "slug": "west-cm008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.302",
+      "lon": "10.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Koung-Khi",
+      "en": "Koung-Khi",
+      "slug": "koung-khi-cm008004"
+    },
+    "code": {
+      "id": "CM008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008",
+      "level": 1,
+      "name": {
+        "local": "Ouest",
+        "en": "West",
+        "slug": "west-cm008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.331",
+      "lon": "10.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Menoua",
+      "en": "Menoua",
+      "slug": "menoua-cm008005"
+    },
+    "code": {
+      "id": "CM008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008",
+      "level": 1,
+      "name": {
+        "local": "Ouest",
+        "en": "West",
+        "slug": "west-cm008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.407",
+      "lon": "10.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mifi",
+      "en": "Mifi",
+      "slug": "mifi-cm008006"
+    },
+    "code": {
+      "id": "CM008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008",
+      "level": 1,
+      "name": {
+        "local": "Ouest",
+        "en": "West",
+        "slug": "west-cm008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.512",
+      "lon": "10.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008007",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Ndé",
+      "en": "Ndé",
+      "slug": "nd-cm008007"
+    },
+    "code": {
+      "id": "CM008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008",
+      "level": 1,
+      "name": {
+        "local": "Ouest",
+        "en": "West",
+        "slug": "west-cm008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.04",
+      "lon": "10.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008008",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Noun",
+      "en": "Noun",
+      "slug": "noun-cm008008"
+    },
+    "code": {
+      "id": "CM008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008",
+      "level": 1,
+      "name": {
+        "local": "Ouest",
+        "en": "West",
+        "slug": "west-cm008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.594",
+      "lon": "10.857"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

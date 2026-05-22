@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CM010001001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Buea",
+      "en": "Buea",
+      "slug": "buea-cm010001001"
+    },
+    "code": {
+      "id": "CM010001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010001",
+      "level": 2,
+      "name": {
+        "local": "Fako",
+        "en": "Fako",
+        "slug": "fako-cm010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010001",
+        "level": 2,
+        "name": {
+          "local": "Fako",
+          "en": "Fako",
+          "slug": "fako-cm010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.182",
+      "lon": "9.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010001002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Limbe 1st",
+      "en": "Limbe 1st",
+      "slug": "limbe-1st-cm010001002"
+    },
+    "code": {
+      "id": "CM010001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010001",
+      "level": 2,
+      "name": {
+        "local": "Fako",
+        "en": "Fako",
+        "slug": "fako-cm010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010001",
+        "level": 2,
+        "name": {
+          "local": "Fako",
+          "en": "Fako",
+          "slug": "fako-cm010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.044",
+      "lon": "9.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010001003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Limbe 2nd",
+      "en": "Limbe 2nd",
+      "slug": "limbe-2nd-cm010001003"
+    },
+    "code": {
+      "id": "CM010001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010001",
+      "level": 2,
+      "name": {
+        "local": "Fako",
+        "en": "Fako",
+        "slug": "fako-cm010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010001",
+        "level": 2,
+        "name": {
+          "local": "Fako",
+          "en": "Fako",
+          "slug": "fako-cm010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.035",
+      "lon": "9.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010001004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Limbe 3rd",
+      "en": "Limbe 3rd",
+      "slug": "limbe-3rd-cm010001004"
+    },
+    "code": {
+      "id": "CM010001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010001",
+      "level": 2,
+      "name": {
+        "local": "Fako",
+        "en": "Fako",
+        "slug": "fako-cm010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010001",
+        "level": 2,
+        "name": {
+          "local": "Fako",
+          "en": "Fako",
+          "slug": "fako-cm010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.958",
+      "lon": "9.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010001005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Muyuka",
+      "en": "Muyuka",
+      "slug": "muyuka-cm010001005"
+    },
+    "code": {
+      "id": "CM010001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010001",
+      "level": 2,
+      "name": {
+        "local": "Fako",
+        "en": "Fako",
+        "slug": "fako-cm010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010001",
+        "level": 2,
+        "name": {
+          "local": "Fako",
+          "en": "Fako",
+          "slug": "fako-cm010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.322",
+      "lon": "9.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010001006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Tiko",
+      "en": "Tiko",
+      "slug": "tiko-cm010001006"
+    },
+    "code": {
+      "id": "CM010001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010001",
+      "level": 2,
+      "name": {
+        "local": "Fako",
+        "en": "Fako",
+        "slug": "fako-cm010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010001",
+        "level": 2,
+        "name": {
+          "local": "Fako",
+          "en": "Fako",
+          "slug": "fako-cm010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.086",
+      "lon": "9.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010001007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "West-Coast",
+      "en": "West-Coast",
+      "slug": "west-coast-cm010001007"
+    },
+    "code": {
+      "id": "CM010001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010001",
+      "level": 2,
+      "name": {
+        "local": "Fako",
+        "en": "Fako",
+        "slug": "fako-cm010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010001",
+        "level": 2,
+        "name": {
+          "local": "Fako",
+          "en": "Fako",
+          "slug": "fako-cm010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.182",
+      "lon": "9.077"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

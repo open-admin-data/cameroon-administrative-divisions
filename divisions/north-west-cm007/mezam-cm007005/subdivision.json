@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CM007005001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bafut",
+      "en": "Bafut",
+      "slug": "bafut-cm007005001"
+    },
+    "code": {
+      "id": "CM007005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007005",
+      "level": 2,
+      "name": {
+        "local": "Mezam",
+        "en": "Mezam",
+        "slug": "mezam-cm007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007005",
+        "level": 2,
+        "name": {
+          "local": "Mezam",
+          "en": "Mezam",
+          "slug": "mezam-cm007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.165",
+      "lon": "10.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007005002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bali",
+      "en": "Bali",
+      "slug": "bali-cm007005002"
+    },
+    "code": {
+      "id": "CM007005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007005",
+      "level": 2,
+      "name": {
+        "local": "Mezam",
+        "en": "Mezam",
+        "slug": "mezam-cm007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007005",
+        "level": 2,
+        "name": {
+          "local": "Mezam",
+          "en": "Mezam",
+          "slug": "mezam-cm007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.874",
+      "lon": "10.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007005003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bamenda 1st",
+      "en": "Bamenda 1st",
+      "slug": "bamenda-1st-cm007005003"
+    },
+    "code": {
+      "id": "CM007005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007005",
+      "level": 2,
+      "name": {
+        "local": "Mezam",
+        "en": "Mezam",
+        "slug": "mezam-cm007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007005",
+        "level": 2,
+        "name": {
+          "local": "Mezam",
+          "en": "Mezam",
+          "slug": "mezam-cm007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.913",
+      "lon": "10.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007005004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bamenda 2nd",
+      "en": "Bamenda 2nd",
+      "slug": "bamenda-2nd-cm007005004"
+    },
+    "code": {
+      "id": "CM007005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007005",
+      "level": 2,
+      "name": {
+        "local": "Mezam",
+        "en": "Mezam",
+        "slug": "mezam-cm007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007005",
+        "level": 2,
+        "name": {
+          "local": "Mezam",
+          "en": "Mezam",
+          "slug": "mezam-cm007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.969",
+      "lon": "10.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007005005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bamenda 3rd",
+      "en": "Bamenda 3rd",
+      "slug": "bamenda-3rd-cm007005005"
+    },
+    "code": {
+      "id": "CM007005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007005",
+      "level": 2,
+      "name": {
+        "local": "Mezam",
+        "en": "Mezam",
+        "slug": "mezam-cm007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007005",
+        "level": 2,
+        "name": {
+          "local": "Mezam",
+          "en": "Mezam",
+          "slug": "mezam-cm007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "10.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007005006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Santa",
+      "en": "Santa",
+      "slug": "santa-cm007005006"
+    },
+    "code": {
+      "id": "CM007005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007005",
+      "level": 2,
+      "name": {
+        "local": "Mezam",
+        "en": "Mezam",
+        "slug": "mezam-cm007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007005",
+        "level": 2,
+        "name": {
+          "local": "Mezam",
+          "en": "Mezam",
+          "slug": "mezam-cm007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.8",
+      "lon": "10.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007005007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Tubah",
+      "en": "Tubah",
+      "slug": "tubah-cm007005007"
+    },
+    "code": {
+      "id": "CM007005007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007005",
+      "level": 2,
+      "name": {
+        "local": "Mezam",
+        "en": "Mezam",
+        "slug": "mezam-cm007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007005",
+        "level": 2,
+        "name": {
+          "local": "Mezam",
+          "en": "Mezam",
+          "slug": "mezam-cm007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.038",
+      "lon": "10.291"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

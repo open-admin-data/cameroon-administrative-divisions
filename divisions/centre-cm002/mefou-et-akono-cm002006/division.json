@@ -1,0 +1,47 @@
+{
+  "id": "CM002006",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mefou-et-Akono",
+    "en": "Mefou-et-Akono",
+    "slug": "mefou-et-akono-cm002006"
+  },
+  "code": {
+    "id": "CM002006",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM002",
+    "level": 1,
+    "name": {
+      "local": "Centre",
+      "en": "Centre",
+      "slug": "centre-cm002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.612",
+    "lon": "11.367"
+  },
+  "metadata": {},
+  "source": {}
+}

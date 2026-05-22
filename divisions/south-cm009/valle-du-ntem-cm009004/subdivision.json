@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CM009004001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ambam",
+      "en": "Ambam",
+      "slug": "ambam-cm009004001"
+    },
+    "code": {
+      "id": "CM009004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009004",
+      "level": 2,
+      "name": {
+        "local": "Vallée-du-Ntem",
+        "en": "Vallée-du-Ntem",
+        "slug": "valle-du-ntem-cm009004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009004",
+        "level": 2,
+        "name": {
+          "local": "Vallée-du-Ntem",
+          "en": "Vallée-du-Ntem",
+          "slug": "valle-du-ntem-cm009004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.516",
+      "lon": "11.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009004002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kye-Ossi",
+      "en": "Kye-Ossi",
+      "slug": "kye-ossi-cm009004002"
+    },
+    "code": {
+      "id": "CM009004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009004",
+      "level": 2,
+      "name": {
+        "local": "Vallée-du-Ntem",
+        "en": "Vallée-du-Ntem",
+        "slug": "valle-du-ntem-cm009004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009004",
+        "level": 2,
+        "name": {
+          "local": "Vallée-du-Ntem",
+          "en": "Vallée-du-Ntem",
+          "slug": "valle-du-ntem-cm009004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.239",
+      "lon": "11.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009004003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Maan",
+      "en": "Maan",
+      "slug": "maan-cm009004003"
+    },
+    "code": {
+      "id": "CM009004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009004",
+      "level": 2,
+      "name": {
+        "local": "Vallée-du-Ntem",
+        "en": "Vallée-du-Ntem",
+        "slug": "valle-du-ntem-cm009004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009004",
+        "level": 2,
+        "name": {
+          "local": "Vallée-du-Ntem",
+          "en": "Vallée-du-Ntem",
+          "slug": "valle-du-ntem-cm009004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.483",
+      "lon": "10.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009004004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Olamze",
+      "en": "Olamze",
+      "slug": "olamze-cm009004004"
+    },
+    "code": {
+      "id": "CM009004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009004",
+      "level": 2,
+      "name": {
+        "local": "Vallée-du-Ntem",
+        "en": "Vallée-du-Ntem",
+        "slug": "valle-du-ntem-cm009004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009004",
+        "level": 2,
+        "name": {
+          "local": "Vallée-du-Ntem",
+          "en": "Vallée-du-Ntem",
+          "slug": "valle-du-ntem-cm009004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.233",
+      "lon": "11.054"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

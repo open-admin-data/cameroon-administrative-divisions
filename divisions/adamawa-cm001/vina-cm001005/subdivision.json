@@ -1,0 +1,434 @@
+[
+  {
+    "id": "CM001005001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Belel",
+      "en": "Belel",
+      "slug": "belel-cm001005001"
+    },
+    "code": {
+      "id": "CM001005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001005",
+      "level": 2,
+      "name": {
+        "local": "Vina",
+        "en": "Vina",
+        "slug": "vina-cm001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001005",
+        "level": 2,
+        "name": {
+          "local": "Vina",
+          "en": "Vina",
+          "slug": "vina-cm001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.108",
+      "lon": "14.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001005002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Martap",
+      "en": "Martap",
+      "slug": "martap-cm001005002"
+    },
+    "code": {
+      "id": "CM001005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001005",
+      "level": 2,
+      "name": {
+        "local": "Vina",
+        "en": "Vina",
+        "slug": "vina-cm001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001005",
+        "level": 2,
+        "name": {
+          "local": "Vina",
+          "en": "Vina",
+          "slug": "vina-cm001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.223",
+      "lon": "13.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001005003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mbe",
+      "en": "Mbe",
+      "slug": "mbe-cm001005003"
+    },
+    "code": {
+      "id": "CM001005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001005",
+      "level": 2,
+      "name": {
+        "local": "Vina",
+        "en": "Vina",
+        "slug": "vina-cm001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001005",
+        "level": 2,
+        "name": {
+          "local": "Vina",
+          "en": "Vina",
+          "slug": "vina-cm001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.772",
+      "lon": "13.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001005004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nganha",
+      "en": "Nganha",
+      "slug": "nganha-cm001005004"
+    },
+    "code": {
+      "id": "CM001005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001005",
+      "level": 2,
+      "name": {
+        "local": "Vina",
+        "en": "Vina",
+        "slug": "vina-cm001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001005",
+        "level": 2,
+        "name": {
+          "local": "Vina",
+          "en": "Vina",
+          "slug": "vina-cm001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.462",
+      "lon": "13.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001005005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngaoundere 1er",
+      "en": "Ngaoundere 1er",
+      "slug": "ngaoundere-1er-cm001005005"
+    },
+    "code": {
+      "id": "CM001005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001005",
+      "level": 2,
+      "name": {
+        "local": "Vina",
+        "en": "Vina",
+        "slug": "vina-cm001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001005",
+        "level": 2,
+        "name": {
+          "local": "Vina",
+          "en": "Vina",
+          "slug": "vina-cm001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.275",
+      "lon": "13.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001005006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngaoundere 2e",
+      "en": "Ngaoundere 2e",
+      "slug": "ngaoundere-2e-cm001005006"
+    },
+    "code": {
+      "id": "CM001005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001005",
+      "level": 2,
+      "name": {
+        "local": "Vina",
+        "en": "Vina",
+        "slug": "vina-cm001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001005",
+        "level": 2,
+        "name": {
+          "local": "Vina",
+          "en": "Vina",
+          "slug": "vina-cm001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.348",
+      "lon": "13.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001005007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngaoundere 3e",
+      "en": "Ngaoundere 3e",
+      "slug": "ngaoundere-3e-cm001005007"
+    },
+    "code": {
+      "id": "CM001005007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001005",
+      "level": 2,
+      "name": {
+        "local": "Vina",
+        "en": "Vina",
+        "slug": "vina-cm001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001005",
+        "level": 2,
+        "name": {
+          "local": "Vina",
+          "en": "Vina",
+          "slug": "vina-cm001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.499",
+      "lon": "13.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM001005008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nyambaka",
+      "en": "Nyambaka",
+      "slug": "nyambaka-cm001005008"
+    },
+    "code": {
+      "id": "CM001005008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM001005",
+      "level": 2,
+      "name": {
+        "local": "Vina",
+        "en": "Vina",
+        "slug": "vina-cm001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM001",
+        "level": 1,
+        "name": {
+          "local": "Adamaoua",
+          "en": "Adamawa",
+          "slug": "adamawa-cm001"
+        }
+      },
+      {
+        "id": "CM001005",
+        "level": 2,
+        "name": {
+          "local": "Vina",
+          "en": "Vina",
+          "slug": "vina-cm001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.911",
+      "lon": "13.796"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

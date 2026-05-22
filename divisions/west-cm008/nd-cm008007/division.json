@@ -1,0 +1,47 @@
+{
+  "id": "CM008007",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Ndé",
+    "en": "Ndé",
+    "slug": "nd-cm008007"
+  },
+  "code": {
+    "id": "CM008007",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM008",
+    "level": 1,
+    "name": {
+      "local": "Ouest",
+      "en": "West",
+      "slug": "west-cm008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM008",
+      "level": 1,
+      "name": {
+        "local": "Ouest",
+        "en": "West",
+        "slug": "west-cm008"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.04",
+    "lon": "10.598"
+  },
+  "metadata": {},
+  "source": {}
+}

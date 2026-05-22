@@ -1,0 +1,47 @@
+{
+  "id": "CM009003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Océan",
+    "en": "Océan",
+    "slug": "ocan-cm009003"
+  },
+  "code": {
+    "id": "CM009003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM009",
+    "level": 1,
+    "name": {
+      "local": "Sud",
+      "en": "South",
+      "slug": "south-cm009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM009",
+      "level": 1,
+      "name": {
+        "local": "Sud",
+        "en": "South",
+        "slug": "south-cm009"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.875",
+    "lon": "10.284"
+  },
+  "metadata": {},
+  "source": {}
+}

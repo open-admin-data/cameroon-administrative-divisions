@@ -1,0 +1,302 @@
+[
+  {
+    "id": "CM001",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Adamaoua",
+      "en": "Adamawa",
+      "slug": "adamawa-cm001"
+    },
+    "code": {
+      "id": "CM001",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "division": 5,
+      "subdivision": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.082",
+      "lon": "13.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Centre",
+      "en": "Centre",
+      "slug": "centre-cm002"
+    },
+    "code": {
+      "id": "CM002",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "division": 10,
+      "subdivision": 70
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.684",
+      "lon": "11.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Est",
+      "en": "East",
+      "slug": "east-cm003"
+    },
+    "code": {
+      "id": "CM003",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "division": 4,
+      "subdivision": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.892",
+      "lon": "13.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Extrême-Nord",
+      "en": "Far-North",
+      "slug": "far-north-cm004"
+    },
+    "code": {
+      "id": "CM004",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "division": 6,
+      "subdivision": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.509",
+      "lon": "14.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM005",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Littoral",
+      "en": "Littoral",
+      "slug": "littoral-cm005"
+    },
+    "code": {
+      "id": "CM005",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "division": 4,
+      "subdivision": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.295",
+      "lon": "10.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM006",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Nord",
+      "en": "North",
+      "slug": "north-cm006"
+    },
+    "code": {
+      "id": "CM006",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "division": 4,
+      "subdivision": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.637",
+      "lon": "13.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Nord-Ouest",
+      "en": "North-West",
+      "slug": "north-west-cm007"
+    },
+    "code": {
+      "id": "CM007",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "division": 7,
+      "subdivision": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.433",
+      "lon": "10.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Sud",
+      "en": "South",
+      "slug": "south-cm009"
+    },
+    "code": {
+      "id": "CM009",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "division": 4,
+      "subdivision": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.92",
+      "lon": "11.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Sud-Ouest",
+      "en": "South-West",
+      "slug": "south-west-cm010"
+    },
+    "code": {
+      "id": "CM010",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "division": 6,
+      "subdivision": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.22",
+      "lon": "9.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Ouest",
+      "en": "West",
+      "slug": "west-cm008"
+    },
+    "code": {
+      "id": "CM008",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "division": 8,
+      "subdivision": 40
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.535",
+      "lon": "10.583"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

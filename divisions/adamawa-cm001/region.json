@@ -1,0 +1,30 @@
+{
+  "id": "CM001",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Adamaoua",
+    "en": "Adamawa",
+    "slug": "adamawa-cm001"
+  },
+  "code": {
+    "id": "CM001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "division": 5,
+    "subdivision": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.082",
+    "lon": "13.218"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,284 @@
+[
+  {
+    "id": "CM010001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Fako",
+      "en": "Fako",
+      "slug": "fako-cm010001"
+    },
+    "code": {
+      "id": "CM010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ouest",
+        "en": "South-West",
+        "slug": "south-west-cm010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.184",
+      "lon": "9.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Kupe-Manenguba",
+      "en": "Kupe-Manenguba",
+      "slug": "kupe-manenguba-cm010002"
+    },
+    "code": {
+      "id": "CM010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ouest",
+        "en": "South-West",
+        "slug": "south-west-cm010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.048",
+      "lon": "9.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Lebialem",
+      "en": "Lebialem",
+      "slug": "lebialem-cm010003"
+    },
+    "code": {
+      "id": "CM010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ouest",
+        "en": "South-West",
+        "slug": "south-west-cm010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.559",
+      "lon": "9.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Manyu",
+      "en": "Manyu",
+      "slug": "manyu-cm010004"
+    },
+    "code": {
+      "id": "CM010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ouest",
+        "en": "South-West",
+        "slug": "south-west-cm010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.908",
+      "lon": "9.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Meme",
+      "en": "Meme",
+      "slug": "meme-cm010005"
+    },
+    "code": {
+      "id": "CM010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ouest",
+        "en": "South-West",
+        "slug": "south-west-cm010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.662",
+      "lon": "9.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Ndian",
+      "en": "Ndian",
+      "slug": "ndian-cm010006"
+    },
+    "code": {
+      "id": "CM010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ouest",
+        "en": "South-West",
+        "slug": "south-west-cm010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.845",
+      "lon": "8.948"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

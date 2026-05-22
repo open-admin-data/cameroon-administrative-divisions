@@ -1,0 +1,488 @@
+[
+  {
+    "id": "CM002002001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Batchenga",
+      "en": "Batchenga",
+      "slug": "batchenga-cm002002001"
+    },
+    "code": {
+      "id": "CM002002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002002",
+      "level": 2,
+      "name": {
+        "local": "Lekié",
+        "en": "Lekié",
+        "slug": "leki-cm002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002002",
+        "level": 2,
+        "name": {
+          "local": "Lekié",
+          "en": "Lekié",
+          "slug": "leki-cm002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.286",
+      "lon": "11.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002002002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ebebda",
+      "en": "Ebebda",
+      "slug": "ebebda-cm002002002"
+    },
+    "code": {
+      "id": "CM002002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002002",
+      "level": 2,
+      "name": {
+        "local": "Lekié",
+        "en": "Lekié",
+        "slug": "leki-cm002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002002",
+        "level": 2,
+        "name": {
+          "local": "Lekié",
+          "en": "Lekié",
+          "slug": "leki-cm002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.406",
+      "lon": "11.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002002003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Elig-Mfomo",
+      "en": "Elig-Mfomo",
+      "slug": "elig-mfomo-cm002002003"
+    },
+    "code": {
+      "id": "CM002002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002002",
+      "level": 2,
+      "name": {
+        "local": "Lekié",
+        "en": "Lekié",
+        "slug": "leki-cm002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002002",
+        "level": 2,
+        "name": {
+          "local": "Lekié",
+          "en": "Lekié",
+          "slug": "leki-cm002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.169",
+      "lon": "11.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002002004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Evodoula",
+      "en": "Evodoula",
+      "slug": "evodoula-cm002002004"
+    },
+    "code": {
+      "id": "CM002002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002002",
+      "level": 2,
+      "name": {
+        "local": "Lekié",
+        "en": "Lekié",
+        "slug": "leki-cm002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002002",
+        "level": 2,
+        "name": {
+          "local": "Lekié",
+          "en": "Lekié",
+          "slug": "leki-cm002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.127",
+      "lon": "11.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002002005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Lobo",
+      "en": "Lobo",
+      "slug": "lobo-cm002002005"
+    },
+    "code": {
+      "id": "CM002002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002002",
+      "level": 2,
+      "name": {
+        "local": "Lekié",
+        "en": "Lekié",
+        "slug": "leki-cm002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002002",
+        "level": 2,
+        "name": {
+          "local": "Lekié",
+          "en": "Lekié",
+          "slug": "leki-cm002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.902",
+      "lon": "11.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002002006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Monatele",
+      "en": "Monatele",
+      "slug": "monatele-cm002002006"
+    },
+    "code": {
+      "id": "CM002002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002002",
+      "level": 2,
+      "name": {
+        "local": "Lekié",
+        "en": "Lekié",
+        "slug": "leki-cm002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002002",
+        "level": 2,
+        "name": {
+          "local": "Lekié",
+          "en": "Lekié",
+          "slug": "leki-cm002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.26",
+      "lon": "11.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002002007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Obala",
+      "en": "Obala",
+      "slug": "obala-cm002002007"
+    },
+    "code": {
+      "id": "CM002002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002002",
+      "level": 2,
+      "name": {
+        "local": "Lekié",
+        "en": "Lekié",
+        "slug": "leki-cm002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002002",
+        "level": 2,
+        "name": {
+          "local": "Lekié",
+          "en": "Lekié",
+          "slug": "leki-cm002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.117",
+      "lon": "11.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002002008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Okola",
+      "en": "Okola",
+      "slug": "okola-cm002002008"
+    },
+    "code": {
+      "id": "CM002002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002002",
+      "level": 2,
+      "name": {
+        "local": "Lekié",
+        "en": "Lekié",
+        "slug": "leki-cm002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002002",
+        "level": 2,
+        "name": {
+          "local": "Lekié",
+          "en": "Lekié",
+          "slug": "leki-cm002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.995",
+      "lon": "11.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002002009",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Saa",
+      "en": "Saa",
+      "slug": "saa-cm002002009"
+    },
+    "code": {
+      "id": "CM002002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002002",
+      "level": 2,
+      "name": {
+        "local": "Lekié",
+        "en": "Lekié",
+        "slug": "leki-cm002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002002",
+        "level": 2,
+        "name": {
+          "local": "Lekié",
+          "en": "Lekié",
+          "slug": "leki-cm002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.358",
+      "lon": "11.51"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

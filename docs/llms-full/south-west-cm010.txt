@@ -1,0 +1,163 @@
+# South-West — Cameroon Administrative Divisions
+
+> 6 divisions, 31 subdivisions
+> Code: CM010
+> Coordinates: 5.22, 9.286
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Divisions
+
+### Fako
+
+Code: CM010001, Coordinates: 4.184, 9.261
+Subdivisions: 7
+
+#### Buea
+
+Code: CM010001001, Coordinates: 4.182, 9.282
+
+#### Limbe 1st
+
+Code: CM010001002, Coordinates: 4.044, 9.248
+
+#### Limbe 2nd
+
+Code: CM010001003, Coordinates: 4.035, 9.144
+
+#### Limbe 3rd
+
+Code: CM010001004, Coordinates: 3.958, 9.345
+
+#### Muyuka
+
+Code: CM010001005, Coordinates: 4.322, 9.333
+
+#### Tiko
+
+Code: CM010001006, Coordinates: 4.086, 9.389
+
+#### West-Coast
+
+Code: CM010001007, Coordinates: 4.182, 9.077
+
+### Kupe-Manenguba
+
+Code: CM010002, Coordinates: 5.048, 9.64
+Subdivisions: 3
+
+#### Bangem
+
+Code: CM010002001, Coordinates: 5.066, 9.739
+
+#### Nguti
+
+Code: CM010002002, Coordinates: 5.252, 9.476
+
+#### Tombel
+
+Code: CM010002003, Coordinates: 4.844, 9.608
+
+### Lebialem
+
+Code: CM010003, Coordinates: 5.559, 9.913
+Subdivisions: 3
+
+#### Alou
+
+Code: CM010003001, Coordinates: 5.555, 9.914
+
+#### Fontem
+
+Code: CM010003002, Coordinates: 5.446, 9.863
+
+#### Wabane
+
+Code: CM010003003, Coordinates: 5.671, 10.002
+
+### Manyu
+
+Code: CM010004, Coordinates: 5.908, 9.262
+Subdivisions: 4
+
+#### Akwaya
+
+Code: CM010004001, Coordinates: 6.163, 9.49
+
+#### Eyumodjock
+
+Code: CM010004002, Coordinates: 5.606, 9
+
+#### Mamfe
+
+Code: CM010004003, Coordinates: 5.648, 9.341
+
+#### Upper Bayang
+
+Code: CM010004004, Coordinates: 5.603, 9.722
+
+### Meme
+
+Code: CM010005, Coordinates: 4.662, 9.394
+Subdivisions: 5
+
+#### Konye
+
+Code: CM010005001, Coordinates: 4.871, 9.38
+
+#### Kumba 1st
+
+Code: CM010005002, Coordinates: 4.546, 9.32
+
+#### Kumba 2nd
+
+Code: CM010005003, Coordinates: 4.732, 9.459
+
+#### Kumba 3rd
+
+Code: CM010005004, Coordinates: 4.539, 9.46
+
+#### Mbonge
+
+Code: CM010005005, Coordinates: 4.444, 9.183
+
+### Ndian
+
+Code: CM010006, Coordinates: 4.845, 8.948
+Subdivisions: 9
+
+#### Bamusso
+
+Code: CM010006001, Coordinates: 4.461, 8.997
+
+#### Dikome Balue
+
+Code: CM010006002, Coordinates: 4.807, 9.169
+
+#### Ekondo Titi
+
+Code: CM010006003, Coordinates: 4.693, 8.933
+
+#### Idabato
+
+Code: CM010006004, Coordinates: 4.537, 8.537
+
+#### Isangele
+
+Code: CM010006005, Coordinates: 4.795, 8.659
+
+#### Kombo Abedimo
+
+Code: CM010006006, Coordinates: 4.599, 8.586
+
+#### Kombo Itindi
+
+Code: CM010006007, Coordinates: 4.653, 8.75
+
+#### Mundemba
+
+Code: CM010006008, Coordinates: 5.052, 8.845
+
+#### Toko
+
+Code: CM010006009, Coordinates: 5.181, 9.109
+

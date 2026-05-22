@@ -1,0 +1,488 @@
+[
+  {
+    "id": "CM009003001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Akom 2",
+      "en": "Akom 2",
+      "slug": "akom-2-cm009003001"
+    },
+    "code": {
+      "id": "CM009003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009003",
+      "level": 2,
+      "name": {
+        "local": "Océan",
+        "en": "Océan",
+        "slug": "ocan-cm009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009003",
+        "level": 2,
+        "name": {
+          "local": "Océan",
+          "en": "Océan",
+          "slug": "ocan-cm009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.829",
+      "lon": "10.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009003002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bipindi",
+      "en": "Bipindi",
+      "slug": "bipindi-cm009003002"
+    },
+    "code": {
+      "id": "CM009003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009003",
+      "level": 2,
+      "name": {
+        "local": "Océan",
+        "en": "Océan",
+        "slug": "ocan-cm009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009003",
+        "level": 2,
+        "name": {
+          "local": "Océan",
+          "en": "Océan",
+          "slug": "ocan-cm009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.194",
+      "lon": "10.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009003003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Campo",
+      "en": "Campo",
+      "slug": "campo-cm009003003"
+    },
+    "code": {
+      "id": "CM009003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009003",
+      "level": 2,
+      "name": {
+        "local": "Océan",
+        "en": "Océan",
+        "slug": "ocan-cm009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009003",
+        "level": 2,
+        "name": {
+          "local": "Océan",
+          "en": "Océan",
+          "slug": "ocan-cm009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.425",
+      "lon": "10.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009003004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kribi 1er",
+      "en": "Kribi 1er",
+      "slug": "kribi-1er-cm009003004"
+    },
+    "code": {
+      "id": "CM009003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009003",
+      "level": 2,
+      "name": {
+        "local": "Océan",
+        "en": "Océan",
+        "slug": "ocan-cm009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009003",
+        "level": 2,
+        "name": {
+          "local": "Océan",
+          "en": "Océan",
+          "slug": "ocan-cm009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.801",
+      "lon": "9.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009003005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kribi 2e",
+      "en": "Kribi 2e",
+      "slug": "kribi-2e-cm009003005"
+    },
+    "code": {
+      "id": "CM009003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009003",
+      "level": 2,
+      "name": {
+        "local": "Océan",
+        "en": "Océan",
+        "slug": "ocan-cm009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009003",
+        "level": 2,
+        "name": {
+          "local": "Océan",
+          "en": "Océan",
+          "slug": "ocan-cm009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.014",
+      "lon": "9.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009003006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Lokoundje",
+      "en": "Lokoundje",
+      "slug": "lokoundje-cm009003006"
+    },
+    "code": {
+      "id": "CM009003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009003",
+      "level": 2,
+      "name": {
+        "local": "Océan",
+        "en": "Océan",
+        "slug": "ocan-cm009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009003",
+        "level": 2,
+        "name": {
+          "local": "Océan",
+          "en": "Océan",
+          "slug": "ocan-cm009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.115",
+      "lon": "10.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009003007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Lolodorf",
+      "en": "Lolodorf",
+      "slug": "lolodorf-cm009003007"
+    },
+    "code": {
+      "id": "CM009003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009003",
+      "level": 2,
+      "name": {
+        "local": "Océan",
+        "en": "Océan",
+        "slug": "ocan-cm009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009003",
+        "level": 2,
+        "name": {
+          "local": "Océan",
+          "en": "Océan",
+          "slug": "ocan-cm009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.273",
+      "lon": "10.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009003008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mvengue",
+      "en": "Mvengue",
+      "slug": "mvengue-cm009003008"
+    },
+    "code": {
+      "id": "CM009003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009003",
+      "level": 2,
+      "name": {
+        "local": "Océan",
+        "en": "Océan",
+        "slug": "ocan-cm009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009003",
+        "level": 2,
+        "name": {
+          "local": "Océan",
+          "en": "Océan",
+          "slug": "ocan-cm009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.276",
+      "lon": "10.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009003009",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Niete",
+      "en": "Niete",
+      "slug": "niete-cm009003009"
+    },
+    "code": {
+      "id": "CM009003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009003",
+      "level": 2,
+      "name": {
+        "local": "Océan",
+        "en": "Océan",
+        "slug": "ocan-cm009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009003",
+        "level": 2,
+        "name": {
+          "local": "Océan",
+          "en": "Océan",
+          "slug": "ocan-cm009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.749",
+      "lon": "10.129"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

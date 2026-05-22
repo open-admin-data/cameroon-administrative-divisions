@@ -1,0 +1,165 @@
+# Littoral — Cameroon Administrative Divisions
+
+> 4 divisions, 34 subdivisions
+> Code: CM005
+> Coordinates: 4.295, 10.227
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Divisions
+
+### Moungo
+
+Code: CM005001, Coordinates: 4.7, 9.774
+Subdivisions: 13
+
+#### Bare-Bakem
+
+Code: CM005001001, Coordinates: 4.983, 10.017
+
+#### Dibombari
+
+Code: CM005001002, Coordinates: 4.177, 9.639
+
+#### Fiko
+
+Code: CM005001003, Coordinates: 4.337, 9.665
+
+#### Loum
+
+Code: CM005001004, Coordinates: 4.696, 9.77
+
+#### Manjo
+
+Code: CM005001005, Coordinates: 4.872, 9.809
+
+#### Mbanga
+
+Code: CM005001006, Coordinates: 4.391, 9.559
+
+#### Melong
+
+Code: CM005001007, Coordinates: 5.167, 9.888
+
+#### Mombo
+
+Code: CM005001008, Coordinates: 4.568, 9.586
+
+#### Njombe-Penja
+
+Code: CM005001009, Coordinates: 4.576, 9.695
+
+#### Nkongsamba 1er
+
+Code: CM005001010, Coordinates: 4.902, 10.055
+
+#### Nkongsamba 2e
+
+Code: CM005001011, Coordinates: 4.986, 9.924
+
+#### Nkongsamba 3e
+
+Code: CM005001012, Coordinates: 4.974, 9.902
+
+#### Nlonako
+
+Code: CM005001013, Coordinates: 4.853, 9.931
+
+### Nkam
+
+Code: CM005002, Coordinates: 4.587, 10.085
+Subdivisions: 4
+
+#### Nkondjock
+
+Code: CM005002001, Coordinates: 4.786, 10.208
+
+#### Nord-Makombe
+
+Code: CM005002002, Coordinates: 4.942, 10.361
+
+#### Yabassi
+
+Code: CM005002003, Coordinates: 4.402, 10.029
+
+#### Yingui
+
+Code: CM005002004, Coordinates: 4.439, 10.456
+
+### Sanaga-Maritime
+
+Code: CM005003, Coordinates: 3.935, 10.182
+Subdivisions: 11
+
+#### Dibamba
+
+Code: CM005003001, Coordinates: 4.021, 10.055
+
+#### Dizangue
+
+Code: CM005003002, Coordinates: 3.818, 9.885
+
+#### Edea 1er
+
+Code: CM005003003, Coordinates: 3.56, 10.04
+
+#### Edea 2e
+
+Code: CM005003004, Coordinates: 3.997, 10.322
+
+#### Massock-Songloulou
+
+Code: CM005003005, Coordinates: 4.136, 10.631
+
+#### Mouanko
+
+Code: CM005003006, Coordinates: 3.584, 9.851
+
+#### Ndom
+
+Code: CM005003007, Coordinates: 4.428, 10.841
+
+#### Ngambe
+
+Code: CM005003008, Coordinates: 4.353, 10.6
+
+#### Ngwei
+
+Code: CM005003009, Coordinates: 3.797, 10.309
+
+#### Nyanon
+
+Code: CM005003010, Coordinates: 4.214, 10.941
+
+#### Pouma
+
+Code: CM005003011, Coordinates: 3.912, 10.553
+
+### Wouri
+
+Code: CM005004, Coordinates: 4.054, 9.664
+Subdivisions: 6
+
+#### Douala 1er
+
+Code: CM005004001, Coordinates: 4.051, 9.7
+
+#### Douala 2e
+
+Code: CM005004002, Coordinates: 4.016, 9.714
+
+#### Douala 3e
+
+Code: CM005004003, Coordinates: 4.028, 9.782
+
+#### Douala 4e
+
+Code: CM005004004, Coordinates: 4.079, 9.647
+
+#### Douala 5e
+
+Code: CM005004005, Coordinates: 4.134, 9.803
+
+#### Douala 6e
+
+Code: CM005004006, Coordinates: 3.977, 9.699
+

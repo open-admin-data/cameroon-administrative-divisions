@@ -1,0 +1,47 @@
+{
+  "id": "CM002007",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mfoundi",
+    "en": "Mfoundi",
+    "slug": "mfoundi-cm002007"
+  },
+  "code": {
+    "id": "CM002007",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM002",
+    "level": 1,
+    "name": {
+      "local": "Centre",
+      "en": "Centre",
+      "slug": "centre-cm002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.842",
+    "lon": "11.508"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CM005001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Moungo",
+    "en": "Moungo",
+    "slug": "moungo-cm005001"
+  },
+  "code": {
+    "id": "CM005001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM005",
+    "level": 1,
+    "name": {
+      "local": "Littoral",
+      "en": "Littoral",
+      "slug": "littoral-cm005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM005",
+      "level": 1,
+      "name": {
+        "local": "Littoral",
+        "en": "Littoral",
+        "slug": "littoral-cm005"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.7",
+    "lon": "9.774"
+  },
+  "metadata": {},
+  "source": {}
+}

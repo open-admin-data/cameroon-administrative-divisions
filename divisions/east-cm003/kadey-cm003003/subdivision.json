@@ -1,0 +1,380 @@
+[
+  {
+    "id": "CM003003001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Batouri",
+      "en": "Batouri",
+      "slug": "batouri-cm003003001"
+    },
+    "code": {
+      "id": "CM003003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003003",
+      "level": 2,
+      "name": {
+        "local": "Kadey",
+        "en": "Kadey",
+        "slug": "kadey-cm003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003003",
+        "level": 2,
+        "name": {
+          "local": "Kadey",
+          "en": "Kadey",
+          "slug": "kadey-cm003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.49",
+      "lon": "14.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003003002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bombe",
+      "en": "Bombe",
+      "slug": "bombe-cm003003002"
+    },
+    "code": {
+      "id": "CM003003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003003",
+      "level": 2,
+      "name": {
+        "local": "Kadey",
+        "en": "Kadey",
+        "slug": "kadey-cm003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003003",
+        "level": 2,
+        "name": {
+          "local": "Kadey",
+          "en": "Kadey",
+          "slug": "kadey-cm003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.286",
+      "lon": "14.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003003003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kette",
+      "en": "Kette",
+      "slug": "kette-cm003003003"
+    },
+    "code": {
+      "id": "CM003003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003003",
+      "level": 2,
+      "name": {
+        "local": "Kadey",
+        "en": "Kadey",
+        "slug": "kadey-cm003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003003",
+        "level": 2,
+        "name": {
+          "local": "Kadey",
+          "en": "Kadey",
+          "slug": "kadey-cm003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.766",
+      "lon": "14.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003003004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mbang",
+      "en": "Mbang",
+      "slug": "mbang-cm003003004"
+    },
+    "code": {
+      "id": "CM003003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003003",
+      "level": 2,
+      "name": {
+        "local": "Kadey",
+        "en": "Kadey",
+        "slug": "kadey-cm003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003003",
+        "level": 2,
+        "name": {
+          "local": "Kadey",
+          "en": "Kadey",
+          "slug": "kadey-cm003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.989",
+      "lon": "14.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003003005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mbotoro",
+      "en": "Mbotoro",
+      "slug": "mbotoro-cm003003005"
+    },
+    "code": {
+      "id": "CM003003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003003",
+      "level": 2,
+      "name": {
+        "local": "Kadey",
+        "en": "Kadey",
+        "slug": "kadey-cm003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003003",
+        "level": 2,
+        "name": {
+          "local": "Kadey",
+          "en": "Kadey",
+          "slug": "kadey-cm003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.117",
+      "lon": "14.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003003006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ndelele",
+      "en": "Ndelele",
+      "slug": "ndelele-cm003003006"
+    },
+    "code": {
+      "id": "CM003003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003003",
+      "level": 2,
+      "name": {
+        "local": "Kadey",
+        "en": "Kadey",
+        "slug": "kadey-cm003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003003",
+        "level": 2,
+        "name": {
+          "local": "Kadey",
+          "en": "Kadey",
+          "slug": "kadey-cm003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.008",
+      "lon": "14.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003003007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ndem Nam",
+      "en": "Ndem Nam",
+      "slug": "ndem-nam-cm003003007"
+    },
+    "code": {
+      "id": "CM003003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003003",
+      "level": 2,
+      "name": {
+        "local": "Kadey",
+        "en": "Kadey",
+        "slug": "kadey-cm003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003003",
+        "level": 2,
+        "name": {
+          "local": "Kadey",
+          "en": "Kadey",
+          "slug": "kadey-cm003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.136",
+      "lon": "13.695"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

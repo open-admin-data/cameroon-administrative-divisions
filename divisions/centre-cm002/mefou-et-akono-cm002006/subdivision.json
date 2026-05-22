@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CM002006001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Akono",
+      "en": "Akono",
+      "slug": "akono-cm002006001"
+    },
+    "code": {
+      "id": "CM002006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002006",
+      "level": 2,
+      "name": {
+        "local": "Mefou-et-Akono",
+        "en": "Mefou-et-Akono",
+        "slug": "mefou-et-akono-cm002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002006",
+        "level": 2,
+        "name": {
+          "local": "Mefou-et-Akono",
+          "en": "Mefou-et-Akono",
+          "slug": "mefou-et-akono-cm002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.485",
+      "lon": "11.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002006002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bikok",
+      "en": "Bikok",
+      "slug": "bikok-cm002006002"
+    },
+    "code": {
+      "id": "CM002006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002006",
+      "level": 2,
+      "name": {
+        "local": "Mefou-et-Akono",
+        "en": "Mefou-et-Akono",
+        "slug": "mefou-et-akono-cm002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002006",
+        "level": 2,
+        "name": {
+          "local": "Mefou-et-Akono",
+          "en": "Mefou-et-Akono",
+          "slug": "mefou-et-akono-cm002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.549",
+      "lon": "11.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002006003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mbankomo",
+      "en": "Mbankomo",
+      "slug": "mbankomo-cm002006003"
+    },
+    "code": {
+      "id": "CM002006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002006",
+      "level": 2,
+      "name": {
+        "local": "Mefou-et-Akono",
+        "en": "Mefou-et-Akono",
+        "slug": "mefou-et-akono-cm002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002006",
+        "level": 2,
+        "name": {
+          "local": "Mefou-et-Akono",
+          "en": "Mefou-et-Akono",
+          "slug": "mefou-et-akono-cm002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.757",
+      "lon": "11.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002006004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngoumou",
+      "en": "Ngoumou",
+      "slug": "ngoumou-cm002006004"
+    },
+    "code": {
+      "id": "CM002006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002006",
+      "level": 2,
+      "name": {
+        "local": "Mefou-et-Akono",
+        "en": "Mefou-et-Akono",
+        "slug": "mefou-et-akono-cm002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002006",
+        "level": 2,
+        "name": {
+          "local": "Mefou-et-Akono",
+          "en": "Mefou-et-Akono",
+          "slug": "mefou-et-akono-cm002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.639",
+      "lon": "11.304"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

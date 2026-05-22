@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CM007002001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Jakiri",
+      "en": "Jakiri",
+      "slug": "jakiri-cm007002001"
+    },
+    "code": {
+      "id": "CM007002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007002",
+      "level": 2,
+      "name": {
+        "local": "Bui",
+        "en": "Bui",
+        "slug": "bui-cm007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007002",
+        "level": 2,
+        "name": {
+          "local": "Bui",
+          "en": "Bui",
+          "slug": "bui-cm007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.09",
+      "lon": "10.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007002002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kumbo",
+      "en": "Kumbo",
+      "slug": "kumbo-cm007002002"
+    },
+    "code": {
+      "id": "CM007002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007002",
+      "level": 2,
+      "name": {
+        "local": "Bui",
+        "en": "Bui",
+        "slug": "bui-cm007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007002",
+        "level": 2,
+        "name": {
+          "local": "Bui",
+          "en": "Bui",
+          "slug": "bui-cm007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.207",
+      "lon": "10.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007002003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mbven",
+      "en": "Mbven",
+      "slug": "mbven-cm007002003"
+    },
+    "code": {
+      "id": "CM007002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007002",
+      "level": 2,
+      "name": {
+        "local": "Bui",
+        "en": "Bui",
+        "slug": "bui-cm007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007002",
+        "level": 2,
+        "name": {
+          "local": "Bui",
+          "en": "Bui",
+          "slug": "bui-cm007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.138",
+      "lon": "10.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007002004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nkum",
+      "en": "Nkum",
+      "slug": "nkum-cm007002004"
+    },
+    "code": {
+      "id": "CM007002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007002",
+      "level": 2,
+      "name": {
+        "local": "Bui",
+        "en": "Bui",
+        "slug": "bui-cm007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007002",
+        "level": 2,
+        "name": {
+          "local": "Bui",
+          "en": "Bui",
+          "slug": "bui-cm007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.324",
+      "lon": "10.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007002005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Noni",
+      "en": "Noni",
+      "slug": "noni-cm007002005"
+    },
+    "code": {
+      "id": "CM007002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007002",
+      "level": 2,
+      "name": {
+        "local": "Bui",
+        "en": "Bui",
+        "slug": "bui-cm007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007002",
+        "level": 2,
+        "name": {
+          "local": "Bui",
+          "en": "Bui",
+          "slug": "bui-cm007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.369",
+      "lon": "10.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007002006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Oku",
+      "en": "Oku",
+      "slug": "oku-cm007002006"
+    },
+    "code": {
+      "id": "CM007002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007002",
+      "level": 2,
+      "name": {
+        "local": "Bui",
+        "en": "Bui",
+        "slug": "bui-cm007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007002",
+        "level": 2,
+        "name": {
+          "local": "Bui",
+          "en": "Bui",
+          "slug": "bui-cm007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.203",
+      "lon": "10.533"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

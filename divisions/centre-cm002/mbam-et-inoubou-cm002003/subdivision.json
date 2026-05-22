@@ -1,0 +1,488 @@
+[
+  {
+    "id": "CM002003001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bafia",
+      "en": "Bafia",
+      "slug": "bafia-cm002003001"
+    },
+    "code": {
+      "id": "CM002003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002003",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Inoubou",
+        "en": "Mbam-et-Inoubou",
+        "slug": "mbam-et-inoubou-cm002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002003",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Inoubou",
+          "en": "Mbam-et-Inoubou",
+          "slug": "mbam-et-inoubou-cm002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.738",
+      "lon": "11.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002003002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bokito",
+      "en": "Bokito",
+      "slug": "bokito-cm002003002"
+    },
+    "code": {
+      "id": "CM002003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002003",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Inoubou",
+        "en": "Mbam-et-Inoubou",
+        "slug": "mbam-et-inoubou-cm002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002003",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Inoubou",
+          "en": "Mbam-et-Inoubou",
+          "slug": "mbam-et-inoubou-cm002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.483",
+      "lon": "11.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002003003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Deuk",
+      "en": "Deuk",
+      "slug": "deuk-cm002003003"
+    },
+    "code": {
+      "id": "CM002003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002003",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Inoubou",
+        "en": "Mbam-et-Inoubou",
+        "slug": "mbam-et-inoubou-cm002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002003",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Inoubou",
+          "en": "Mbam-et-Inoubou",
+          "slug": "mbam-et-inoubou-cm002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.004",
+      "lon": "11.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002003004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kiiki",
+      "en": "Kiiki",
+      "slug": "kiiki-cm002003004"
+    },
+    "code": {
+      "id": "CM002003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002003",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Inoubou",
+        "en": "Mbam-et-Inoubou",
+        "slug": "mbam-et-inoubou-cm002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002003",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Inoubou",
+          "en": "Mbam-et-Inoubou",
+          "slug": "mbam-et-inoubou-cm002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.676",
+      "lon": "11.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002003005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kon Yambetta",
+      "en": "Kon Yambetta",
+      "slug": "kon-yambetta-cm002003005"
+    },
+    "code": {
+      "id": "CM002003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002003",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Inoubou",
+        "en": "Mbam-et-Inoubou",
+        "slug": "mbam-et-inoubou-cm002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002003",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Inoubou",
+          "en": "Mbam-et-Inoubou",
+          "slug": "mbam-et-inoubou-cm002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.811",
+      "lon": "11.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002003006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Makenene",
+      "en": "Makenene",
+      "slug": "makenene-cm002003006"
+    },
+    "code": {
+      "id": "CM002003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002003",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Inoubou",
+        "en": "Mbam-et-Inoubou",
+        "slug": "mbam-et-inoubou-cm002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002003",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Inoubou",
+          "en": "Mbam-et-Inoubou",
+          "slug": "mbam-et-inoubou-cm002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.866",
+      "lon": "10.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002003007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ndikinimeki",
+      "en": "Ndikinimeki",
+      "slug": "ndikinimeki-cm002003007"
+    },
+    "code": {
+      "id": "CM002003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002003",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Inoubou",
+        "en": "Mbam-et-Inoubou",
+        "slug": "mbam-et-inoubou-cm002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002003",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Inoubou",
+          "en": "Mbam-et-Inoubou",
+          "slug": "mbam-et-inoubou-cm002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.675",
+      "lon": "10.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002003008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nitoukou",
+      "en": "Nitoukou",
+      "slug": "nitoukou-cm002003008"
+    },
+    "code": {
+      "id": "CM002003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002003",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Inoubou",
+        "en": "Mbam-et-Inoubou",
+        "slug": "mbam-et-inoubou-cm002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002003",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Inoubou",
+          "en": "Mbam-et-Inoubou",
+          "slug": "mbam-et-inoubou-cm002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.65",
+      "lon": "10.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002003009",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ombessa",
+      "en": "Ombessa",
+      "slug": "ombessa-cm002003009"
+    },
+    "code": {
+      "id": "CM002003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002003",
+      "level": 2,
+      "name": {
+        "local": "Mbam-et-Inoubou",
+        "en": "Mbam-et-Inoubou",
+        "slug": "mbam-et-inoubou-cm002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002003",
+        "level": 2,
+        "name": {
+          "local": "Mbam-et-Inoubou",
+          "en": "Mbam-et-Inoubou",
+          "slug": "mbam-et-inoubou-cm002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.627",
+      "lon": "11.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

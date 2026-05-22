@@ -1,0 +1,47 @@
+{
+  "id": "CM006002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Faro",
+    "en": "Faro",
+    "slug": "faro-cm006002"
+  },
+  "code": {
+    "id": "CM006002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM006",
+    "level": 1,
+    "name": {
+      "local": "Nord",
+      "en": "North",
+      "slug": "north-cm006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM006",
+      "level": 1,
+      "name": {
+        "local": "Nord",
+        "en": "North",
+        "slug": "north-cm006"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.422",
+    "lon": "12.851"
+  },
+  "metadata": {},
+  "source": {}
+}

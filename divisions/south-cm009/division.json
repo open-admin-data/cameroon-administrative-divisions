@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CM009001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Dja-et-Lobo",
+      "en": "Dja-et-Lobo",
+      "slug": "dja-et-lobo-cm009001"
+    },
+    "code": {
+      "id": "CM009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009",
+      "level": 1,
+      "name": {
+        "local": "Sud",
+        "en": "South",
+        "slug": "south-cm009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.925",
+      "lon": "12.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mvila",
+      "en": "Mvila",
+      "slug": "mvila-cm009002"
+    },
+    "code": {
+      "id": "CM009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009",
+      "level": 1,
+      "name": {
+        "local": "Sud",
+        "en": "South",
+        "slug": "south-cm009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.732",
+      "lon": "11.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Océan",
+      "en": "Océan",
+      "slug": "ocan-cm009003"
+    },
+    "code": {
+      "id": "CM009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009",
+      "level": 1,
+      "name": {
+        "local": "Sud",
+        "en": "South",
+        "slug": "south-cm009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.875",
+      "lon": "10.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Vallée-du-Ntem",
+      "en": "Vallée-du-Ntem",
+      "slug": "valle-du-ntem-cm009004"
+    },
+    "code": {
+      "id": "CM009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009",
+      "level": 1,
+      "name": {
+        "local": "Sud",
+        "en": "South",
+        "slug": "south-cm009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.482",
+      "lon": "10.97"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

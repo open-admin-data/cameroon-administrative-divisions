@@ -1,0 +1,47 @@
+{
+  "id": "CM009001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Dja-et-Lobo",
+    "en": "Dja-et-Lobo",
+    "slug": "dja-et-lobo-cm009001"
+  },
+  "code": {
+    "id": "CM009001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM009",
+    "level": 1,
+    "name": {
+      "local": "Sud",
+      "en": "South",
+      "slug": "south-cm009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM009",
+      "level": 1,
+      "name": {
+        "local": "Sud",
+        "en": "South",
+        "slug": "south-cm009"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.925",
+    "lon": "12.242"
+  },
+  "metadata": {},
+  "source": {}
+}

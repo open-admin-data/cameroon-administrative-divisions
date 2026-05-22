@@ -1,0 +1,47 @@
+{
+  "id": "CM001002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Faro-et-Déo",
+    "en": "Faro-et-Déo",
+    "slug": "faro-et-do-cm001002"
+  },
+  "code": {
+    "id": "CM001002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM001",
+    "level": 1,
+    "name": {
+      "local": "Adamaoua",
+      "en": "Adamawa",
+      "slug": "adamawa-cm001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM001",
+      "level": 1,
+      "name": {
+        "local": "Adamaoua",
+        "en": "Adamawa",
+        "slug": "adamawa-cm001"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.533",
+    "lon": "12.598"
+  },
+  "metadata": {},
+  "source": {}
+}

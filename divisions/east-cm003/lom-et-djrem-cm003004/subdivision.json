@@ -1,0 +1,434 @@
+[
+  {
+    "id": "CM003004001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Belabo",
+      "en": "Belabo",
+      "slug": "belabo-cm003004001"
+    },
+    "code": {
+      "id": "CM003004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003004",
+      "level": 2,
+      "name": {
+        "local": "Lom-et-Djérem",
+        "en": "Lom-et-Djérem",
+        "slug": "lom-et-djrem-cm003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003004",
+        "level": 2,
+        "name": {
+          "local": "Lom-et-Djérem",
+          "en": "Lom-et-Djérem",
+          "slug": "lom-et-djrem-cm003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.033",
+      "lon": "13.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003004002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bertoua 1er",
+      "en": "Bertoua 1er",
+      "slug": "bertoua-1er-cm003004002"
+    },
+    "code": {
+      "id": "CM003004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003004",
+      "level": 2,
+      "name": {
+        "local": "Lom-et-Djérem",
+        "en": "Lom-et-Djérem",
+        "slug": "lom-et-djrem-cm003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003004",
+        "level": 2,
+        "name": {
+          "local": "Lom-et-Djérem",
+          "en": "Lom-et-Djérem",
+          "slug": "lom-et-djrem-cm003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.528",
+      "lon": "13.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003004003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bertoua 2e",
+      "en": "Bertoua 2e",
+      "slug": "bertoua-2e-cm003004003"
+    },
+    "code": {
+      "id": "CM003004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003004",
+      "level": 2,
+      "name": {
+        "local": "Lom-et-Djérem",
+        "en": "Lom-et-Djérem",
+        "slug": "lom-et-djrem-cm003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003004",
+        "level": 2,
+        "name": {
+          "local": "Lom-et-Djérem",
+          "en": "Lom-et-Djérem",
+          "slug": "lom-et-djrem-cm003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.553",
+      "lon": "13.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003004004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Betare-Oya",
+      "en": "Betare-Oya",
+      "slug": "betare-oya-cm003004004"
+    },
+    "code": {
+      "id": "CM003004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003004",
+      "level": 2,
+      "name": {
+        "local": "Lom-et-Djérem",
+        "en": "Lom-et-Djérem",
+        "slug": "lom-et-djrem-cm003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003004",
+        "level": 2,
+        "name": {
+          "local": "Lom-et-Djérem",
+          "en": "Lom-et-Djérem",
+          "slug": "lom-et-djrem-cm003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.538",
+      "lon": "13.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003004005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Diang",
+      "en": "Diang",
+      "slug": "diang-cm003004005"
+    },
+    "code": {
+      "id": "CM003004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003004",
+      "level": 2,
+      "name": {
+        "local": "Lom-et-Djérem",
+        "en": "Lom-et-Djérem",
+        "slug": "lom-et-djrem-cm003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003004",
+        "level": 2,
+        "name": {
+          "local": "Lom-et-Djérem",
+          "en": "Lom-et-Djérem",
+          "slug": "lom-et-djrem-cm003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.615",
+      "lon": "13.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003004006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Garoua-Boulai",
+      "en": "Garoua-Boulai",
+      "slug": "garoua-boulai-cm003004006"
+    },
+    "code": {
+      "id": "CM003004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003004",
+      "level": 2,
+      "name": {
+        "local": "Lom-et-Djérem",
+        "en": "Lom-et-Djérem",
+        "slug": "lom-et-djrem-cm003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003004",
+        "level": 2,
+        "name": {
+          "local": "Lom-et-Djérem",
+          "en": "Lom-et-Djérem",
+          "slug": "lom-et-djrem-cm003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.729",
+      "lon": "14.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003004007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mandjou",
+      "en": "Mandjou",
+      "slug": "mandjou-cm003004007"
+    },
+    "code": {
+      "id": "CM003004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003004",
+      "level": 2,
+      "name": {
+        "local": "Lom-et-Djérem",
+        "en": "Lom-et-Djérem",
+        "slug": "lom-et-djrem-cm003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003004",
+        "level": 2,
+        "name": {
+          "local": "Lom-et-Djérem",
+          "en": "Lom-et-Djérem",
+          "slug": "lom-et-djrem-cm003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.827",
+      "lon": "13.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM003004008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngoura",
+      "en": "Ngoura",
+      "slug": "ngoura-cm003004008"
+    },
+    "code": {
+      "id": "CM003004008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM003004",
+      "level": 2,
+      "name": {
+        "local": "Lom-et-Djérem",
+        "en": "Lom-et-Djérem",
+        "slug": "lom-et-djrem-cm003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM003",
+        "level": 1,
+        "name": {
+          "local": "Est",
+          "en": "East",
+          "slug": "east-cm003"
+        }
+      },
+      {
+        "id": "CM003004",
+        "level": 2,
+        "name": {
+          "local": "Lom-et-Djérem",
+          "en": "Lom-et-Djérem",
+          "slug": "lom-et-djrem-cm003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.883",
+      "lon": "14.077"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

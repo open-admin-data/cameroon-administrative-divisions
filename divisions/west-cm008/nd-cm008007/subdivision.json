@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CM008007001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bangangte",
+      "en": "Bangangte",
+      "slug": "bangangte-cm008007001"
+    },
+    "code": {
+      "id": "CM008007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008007",
+      "level": 2,
+      "name": {
+        "local": "Ndé",
+        "en": "Ndé",
+        "slug": "nd-cm008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008007",
+        "level": 2,
+        "name": {
+          "local": "Ndé",
+          "en": "Ndé",
+          "slug": "nd-cm008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.107",
+      "lon": "10.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008007002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bassamba",
+      "en": "Bassamba",
+      "slug": "bassamba-cm008007002"
+    },
+    "code": {
+      "id": "CM008007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008007",
+      "level": 2,
+      "name": {
+        "local": "Ndé",
+        "en": "Ndé",
+        "slug": "nd-cm008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008007",
+        "level": 2,
+        "name": {
+          "local": "Ndé",
+          "en": "Ndé",
+          "slug": "nd-cm008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.051",
+      "lon": "10.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008007003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bazou",
+      "en": "Bazou",
+      "slug": "bazou-cm008007003"
+    },
+    "code": {
+      "id": "CM008007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008007",
+      "level": 2,
+      "name": {
+        "local": "Ndé",
+        "en": "Ndé",
+        "slug": "nd-cm008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008007",
+        "level": 2,
+        "name": {
+          "local": "Ndé",
+          "en": "Ndé",
+          "slug": "nd-cm008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.029",
+      "lon": "10.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008007004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Tonga",
+      "en": "Tonga",
+      "slug": "tonga-cm008007004"
+    },
+    "code": {
+      "id": "CM008007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008007",
+      "level": 2,
+      "name": {
+        "local": "Ndé",
+        "en": "Ndé",
+        "slug": "nd-cm008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008007",
+        "level": 2,
+        "name": {
+          "local": "Ndé",
+          "en": "Ndé",
+          "slug": "nd-cm008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.94",
+      "lon": "10.553"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

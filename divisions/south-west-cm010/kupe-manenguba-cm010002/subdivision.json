@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CM010002001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bangem",
+      "en": "Bangem",
+      "slug": "bangem-cm010002001"
+    },
+    "code": {
+      "id": "CM010002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010002",
+      "level": 2,
+      "name": {
+        "local": "Kupe-Manenguba",
+        "en": "Kupe-Manenguba",
+        "slug": "kupe-manenguba-cm010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010002",
+        "level": 2,
+        "name": {
+          "local": "Kupe-Manenguba",
+          "en": "Kupe-Manenguba",
+          "slug": "kupe-manenguba-cm010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.066",
+      "lon": "9.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010002002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nguti",
+      "en": "Nguti",
+      "slug": "nguti-cm010002002"
+    },
+    "code": {
+      "id": "CM010002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010002",
+      "level": 2,
+      "name": {
+        "local": "Kupe-Manenguba",
+        "en": "Kupe-Manenguba",
+        "slug": "kupe-manenguba-cm010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010002",
+        "level": 2,
+        "name": {
+          "local": "Kupe-Manenguba",
+          "en": "Kupe-Manenguba",
+          "slug": "kupe-manenguba-cm010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.252",
+      "lon": "9.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM010002003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Tombel",
+      "en": "Tombel",
+      "slug": "tombel-cm010002003"
+    },
+    "code": {
+      "id": "CM010002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM010002",
+      "level": 2,
+      "name": {
+        "local": "Kupe-Manenguba",
+        "en": "Kupe-Manenguba",
+        "slug": "kupe-manenguba-cm010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM010",
+        "level": 1,
+        "name": {
+          "local": "Sud-Ouest",
+          "en": "South-West",
+          "slug": "south-west-cm010"
+        }
+      },
+      {
+        "id": "CM010002",
+        "level": 2,
+        "name": {
+          "local": "Kupe-Manenguba",
+          "en": "Kupe-Manenguba",
+          "slug": "kupe-manenguba-cm010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.844",
+      "lon": "9.608"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

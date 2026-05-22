@@ -1,0 +1,47 @@
+{
+  "id": "CM004005",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mayo-Sava",
+    "en": "Mayo-Sava",
+    "slug": "mayo-sava-cm004005"
+  },
+  "code": {
+    "id": "CM004005",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM004",
+    "level": 1,
+    "name": {
+      "local": "Extrême-Nord",
+      "en": "Far-North",
+      "slug": "far-north-cm004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM004",
+      "level": 1,
+      "name": {
+        "local": "Extrême-Nord",
+        "en": "Far-North",
+        "slug": "far-north-cm004"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.105",
+    "lon": "14.215"
+  },
+  "metadata": {},
+  "source": {}
+}

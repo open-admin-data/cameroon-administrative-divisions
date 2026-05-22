@@ -1,0 +1,331 @@
+[
+  {
+    "id": "CM007001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Boyo",
+      "en": "Boyo",
+      "slug": "boyo-cm007001"
+    },
+    "code": {
+      "id": "CM007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ouest",
+        "en": "North-West",
+        "slug": "north-west-cm007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.408",
+      "lon": "10.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Bui",
+      "en": "Bui",
+      "slug": "bui-cm007002"
+    },
+    "code": {
+      "id": "CM007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ouest",
+        "en": "North-West",
+        "slug": "north-west-cm007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.228",
+      "lon": "10.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Donga-Mantung",
+      "en": "Donga-Mantung",
+      "slug": "donga-mantung-cm007003"
+    },
+    "code": {
+      "id": "CM007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ouest",
+        "en": "North-West",
+        "slug": "north-west-cm007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.685",
+      "lon": "10.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Menchum",
+      "en": "Menchum",
+      "slug": "menchum-cm007004"
+    },
+    "code": {
+      "id": "CM007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ouest",
+        "en": "North-West",
+        "slug": "north-west-cm007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.623",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Mezam",
+      "en": "Mezam",
+      "slug": "mezam-cm007005"
+    },
+    "code": {
+      "id": "CM007005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ouest",
+        "en": "North-West",
+        "slug": "north-west-cm007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.005",
+      "lon": "10.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Momo",
+      "en": "Momo",
+      "slug": "momo-cm007006"
+    },
+    "code": {
+      "id": "CM007006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ouest",
+        "en": "North-West",
+        "slug": "north-west-cm007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6",
+      "lon": "9.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007007",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Division"
+    },
+    "name": {
+      "local": "Ngo-Ketunjia",
+      "en": "Ngo-Ketunjia",
+      "slug": "ngo-ketunjia-cm007007"
+    },
+    "code": {
+      "id": "CM007007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007",
+      "level": 1,
+      "name": {
+        "local": "Nord-Ouest",
+        "en": "North-West",
+        "slug": "north-west-cm007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      }
+    ],
+    "children_count": {
+      "subdivision": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.966",
+      "lon": "10.518"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

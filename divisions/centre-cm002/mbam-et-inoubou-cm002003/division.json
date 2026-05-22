@@ -1,0 +1,47 @@
+{
+  "id": "CM002003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mbam-et-Inoubou",
+    "en": "Mbam-et-Inoubou",
+    "slug": "mbam-et-inoubou-cm002003"
+  },
+  "code": {
+    "id": "CM002003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM002",
+    "level": 1,
+    "name": {
+      "local": "Centre",
+      "en": "Centre",
+      "slug": "centre-cm002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM002",
+      "level": 1,
+      "name": {
+        "local": "Centre",
+        "en": "Centre",
+        "slug": "centre-cm002"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.724",
+    "lon": "10.942"
+  },
+  "metadata": {},
+  "source": {}
+}

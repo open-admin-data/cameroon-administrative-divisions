@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CM008004001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bayangam",
+      "en": "Bayangam",
+      "slug": "bayangam-cm008004001"
+    },
+    "code": {
+      "id": "CM008004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008004",
+      "level": 2,
+      "name": {
+        "local": "Koung-Khi",
+        "en": "Koung-Khi",
+        "slug": "koung-khi-cm008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008004",
+        "level": 2,
+        "name": {
+          "local": "Koung-Khi",
+          "en": "Koung-Khi",
+          "slug": "koung-khi-cm008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.264",
+      "lon": "10.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008004002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Djebem",
+      "en": "Djebem",
+      "slug": "djebem-cm008004002"
+    },
+    "code": {
+      "id": "CM008004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008004",
+      "level": 2,
+      "name": {
+        "local": "Koung-Khi",
+        "en": "Koung-Khi",
+        "slug": "koung-khi-cm008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008004",
+        "level": 2,
+        "name": {
+          "local": "Koung-Khi",
+          "en": "Koung-Khi",
+          "slug": "koung-khi-cm008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.318",
+      "lon": "10.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008004003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Poumougne",
+      "en": "Poumougne",
+      "slug": "poumougne-cm008004003"
+    },
+    "code": {
+      "id": "CM008004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008004",
+      "level": 2,
+      "name": {
+        "local": "Koung-Khi",
+        "en": "Koung-Khi",
+        "slug": "koung-khi-cm008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008004",
+        "level": 2,
+        "name": {
+          "local": "Koung-Khi",
+          "en": "Koung-Khi",
+          "slug": "koung-khi-cm008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.39",
+      "lon": "10.434"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

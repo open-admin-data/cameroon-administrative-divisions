@@ -1,0 +1,47 @@
+{
+  "id": "CM010005",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Meme",
+    "en": "Meme",
+    "slug": "meme-cm010005"
+  },
+  "code": {
+    "id": "CM010005",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM010",
+    "level": 1,
+    "name": {
+      "local": "Sud-Ouest",
+      "en": "South-West",
+      "slug": "south-west-cm010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM010",
+      "level": 1,
+      "name": {
+        "local": "Sud-Ouest",
+        "en": "South-West",
+        "slug": "south-west-cm010"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.662",
+    "lon": "9.394"
+  },
+  "metadata": {},
+  "source": {}
+}

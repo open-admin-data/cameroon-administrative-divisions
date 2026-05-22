@@ -1,0 +1,30 @@
+{
+  "id": "CM008",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Ouest",
+    "en": "West",
+    "slug": "west-cm008"
+  },
+  "code": {
+    "id": "CM008",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "division": 8,
+    "subdivision": 40
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.535",
+    "lon": "10.583"
+  },
+  "metadata": {},
+  "source": {}
+}

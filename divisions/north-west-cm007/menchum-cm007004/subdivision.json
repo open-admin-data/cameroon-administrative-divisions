@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CM007004001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Fungom",
+      "en": "Fungom",
+      "slug": "fungom-cm007004001"
+    },
+    "code": {
+      "id": "CM007004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007004",
+      "level": 2,
+      "name": {
+        "local": "Menchum",
+        "en": "Menchum",
+        "slug": "menchum-cm007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007004",
+        "level": 2,
+        "name": {
+          "local": "Menchum",
+          "en": "Menchum",
+          "slug": "menchum-cm007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.581",
+      "lon": "10.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007004002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Furu-Awa",
+      "en": "Furu-Awa",
+      "slug": "furu-awa-cm007004002"
+    },
+    "code": {
+      "id": "CM007004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007004",
+      "level": 2,
+      "name": {
+        "local": "Menchum",
+        "en": "Menchum",
+        "slug": "menchum-cm007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007004",
+        "level": 2,
+        "name": {
+          "local": "Menchum",
+          "en": "Menchum",
+          "slug": "menchum-cm007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.826",
+      "lon": "10.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007004003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Menchum-Valley",
+      "en": "Menchum-Valley",
+      "slug": "menchum-valley-cm007004003"
+    },
+    "code": {
+      "id": "CM007004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007004",
+      "level": 2,
+      "name": {
+        "local": "Menchum",
+        "en": "Menchum",
+        "slug": "menchum-cm007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007004",
+        "level": 2,
+        "name": {
+          "local": "Menchum",
+          "en": "Menchum",
+          "slug": "menchum-cm007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.407",
+      "lon": "9.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM007004004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Wum",
+      "en": "Wum",
+      "slug": "wum-cm007004004"
+    },
+    "code": {
+      "id": "CM007004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM007004",
+      "level": 2,
+      "name": {
+        "local": "Menchum",
+        "en": "Menchum",
+        "slug": "menchum-cm007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM007",
+        "level": 1,
+        "name": {
+          "local": "Nord-Ouest",
+          "en": "North-West",
+          "slug": "north-west-cm007"
+        }
+      },
+      {
+        "id": "CM007004",
+        "level": 2,
+        "name": {
+          "local": "Menchum",
+          "en": "Menchum",
+          "slug": "menchum-cm007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.357",
+      "lon": "10.086"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

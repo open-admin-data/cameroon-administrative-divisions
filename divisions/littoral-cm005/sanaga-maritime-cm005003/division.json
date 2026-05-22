@@ -1,0 +1,47 @@
+{
+  "id": "CM005003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Sanaga-Maritime",
+    "en": "Sanaga-Maritime",
+    "slug": "sanaga-maritime-cm005003"
+  },
+  "code": {
+    "id": "CM005003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM005",
+    "level": 1,
+    "name": {
+      "local": "Littoral",
+      "en": "Littoral",
+      "slug": "littoral-cm005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM005",
+      "level": 1,
+      "name": {
+        "local": "Littoral",
+        "en": "Littoral",
+        "slug": "littoral-cm005"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.935",
+    "lon": "10.182"
+  },
+  "metadata": {},
+  "source": {}
+}

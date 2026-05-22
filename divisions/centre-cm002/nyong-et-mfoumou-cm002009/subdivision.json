@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CM002009001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Akonolinga",
+      "en": "Akonolinga",
+      "slug": "akonolinga-cm002009001"
+    },
+    "code": {
+      "id": "CM002009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002009",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Mfoumou",
+        "en": "Nyong-et-Mfoumou",
+        "slug": "nyong-et-mfoumou-cm002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002009",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Mfoumou",
+          "en": "Nyong-et-Mfoumou",
+          "slug": "nyong-et-mfoumou-cm002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.915",
+      "lon": "12.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002009002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ayos",
+      "en": "Ayos",
+      "slug": "ayos-cm002009002"
+    },
+    "code": {
+      "id": "CM002009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002009",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Mfoumou",
+        "en": "Nyong-et-Mfoumou",
+        "slug": "nyong-et-mfoumou-cm002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002009",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Mfoumou",
+          "en": "Nyong-et-Mfoumou",
+          "slug": "nyong-et-mfoumou-cm002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.109",
+      "lon": "12.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002009003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Endom",
+      "en": "Endom",
+      "slug": "endom-cm002009003"
+    },
+    "code": {
+      "id": "CM002009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002009",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Mfoumou",
+        "en": "Nyong-et-Mfoumou",
+        "slug": "nyong-et-mfoumou-cm002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002009",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Mfoumou",
+          "en": "Nyong-et-Mfoumou",
+          "slug": "nyong-et-mfoumou-cm002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.444",
+      "lon": "12.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002009004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mengang",
+      "en": "Mengang",
+      "slug": "mengang-cm002009004"
+    },
+    "code": {
+      "id": "CM002009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002009",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Mfoumou",
+        "en": "Nyong-et-Mfoumou",
+        "slug": "nyong-et-mfoumou-cm002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002009",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Mfoumou",
+          "en": "Nyong-et-Mfoumou",
+          "slug": "nyong-et-mfoumou-cm002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.842",
+      "lon": "12.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM002009005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Nyakokombo",
+      "en": "Nyakokombo",
+      "slug": "nyakokombo-cm002009005"
+    },
+    "code": {
+      "id": "CM002009005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM002009",
+      "level": 2,
+      "name": {
+        "local": "Nyong-et-Mfoumou",
+        "en": "Nyong-et-Mfoumou",
+        "slug": "nyong-et-mfoumou-cm002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM002",
+        "level": 1,
+        "name": {
+          "local": "Centre",
+          "en": "Centre",
+          "slug": "centre-cm002"
+        }
+      },
+      {
+        "id": "CM002009",
+        "level": 2,
+        "name": {
+          "local": "Nyong-et-Mfoumou",
+          "en": "Nyong-et-Mfoumou",
+          "slug": "nyong-et-mfoumou-cm002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.047",
+      "lon": "12.717"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

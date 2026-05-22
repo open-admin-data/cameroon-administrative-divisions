@@ -1,0 +1,434 @@
+[
+  {
+    "id": "CM009002001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Biwong-Bane",
+      "en": "Biwong-Bane",
+      "slug": "biwong-bane-cm009002001"
+    },
+    "code": {
+      "id": "CM009002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009002",
+      "level": 2,
+      "name": {
+        "local": "Mvila",
+        "en": "Mvila",
+        "slug": "mvila-cm009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009002",
+        "level": 2,
+        "name": {
+          "local": "Mvila",
+          "en": "Mvila",
+          "slug": "mvila-cm009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.094",
+      "lon": "11.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009002002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Biwong-Bulu",
+      "en": "Biwong-Bulu",
+      "slug": "biwong-bulu-cm009002002"
+    },
+    "code": {
+      "id": "CM009002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009002",
+      "level": 2,
+      "name": {
+        "local": "Mvila",
+        "en": "Mvila",
+        "slug": "mvila-cm009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009002",
+        "level": 2,
+        "name": {
+          "local": "Mvila",
+          "en": "Mvila",
+          "slug": "mvila-cm009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.79",
+      "lon": "11.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009002003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ebolowa 1er",
+      "en": "Ebolowa 1er",
+      "slug": "ebolowa-1er-cm009002003"
+    },
+    "code": {
+      "id": "CM009002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009002",
+      "level": 2,
+      "name": {
+        "local": "Mvila",
+        "en": "Mvila",
+        "slug": "mvila-cm009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009002",
+        "level": 2,
+        "name": {
+          "local": "Mvila",
+          "en": "Mvila",
+          "slug": "mvila-cm009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.924",
+      "lon": "10.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009002004",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ebolowa 2e",
+      "en": "Ebolowa 2e",
+      "slug": "ebolowa-2e-cm009002004"
+    },
+    "code": {
+      "id": "CM009002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009002",
+      "level": 2,
+      "name": {
+        "local": "Mvila",
+        "en": "Mvila",
+        "slug": "mvila-cm009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009002",
+        "level": 2,
+        "name": {
+          "local": "Mvila",
+          "en": "Mvila",
+          "slug": "mvila-cm009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.701",
+      "lon": "11.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009002005",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Efoulan",
+      "en": "Efoulan",
+      "slug": "efoulan-cm009002005"
+    },
+    "code": {
+      "id": "CM009002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009002",
+      "level": 2,
+      "name": {
+        "local": "Mvila",
+        "en": "Mvila",
+        "slug": "mvila-cm009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009002",
+        "level": 2,
+        "name": {
+          "local": "Mvila",
+          "en": "Mvila",
+          "slug": "mvila-cm009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.075",
+      "lon": "10.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009002006",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mengong",
+      "en": "Mengong",
+      "slug": "mengong-cm009002006"
+    },
+    "code": {
+      "id": "CM009002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009002",
+      "level": 2,
+      "name": {
+        "local": "Mvila",
+        "en": "Mvila",
+        "slug": "mvila-cm009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009002",
+        "level": 2,
+        "name": {
+          "local": "Mvila",
+          "en": "Mvila",
+          "slug": "mvila-cm009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.939",
+      "lon": "11.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009002007",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mvangane",
+      "en": "Mvangane",
+      "slug": "mvangane-cm009002007"
+    },
+    "code": {
+      "id": "CM009002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009002",
+      "level": 2,
+      "name": {
+        "local": "Mvila",
+        "en": "Mvila",
+        "slug": "mvila-cm009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009002",
+        "level": 2,
+        "name": {
+          "local": "Mvila",
+          "en": "Mvila",
+          "slug": "mvila-cm009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.535",
+      "lon": "11.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM009002008",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Ngoulemakong",
+      "en": "Ngoulemakong",
+      "slug": "ngoulemakong-cm009002008"
+    },
+    "code": {
+      "id": "CM009002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM009002",
+      "level": 2,
+      "name": {
+        "local": "Mvila",
+        "en": "Mvila",
+        "slug": "mvila-cm009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM009",
+        "level": 1,
+        "name": {
+          "local": "Sud",
+          "en": "South",
+          "slug": "south-cm009"
+        }
+      },
+      {
+        "id": "CM009002",
+        "level": 2,
+        "name": {
+          "local": "Mvila",
+          "en": "Mvila",
+          "slug": "mvila-cm009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.084",
+      "lon": "11.463"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

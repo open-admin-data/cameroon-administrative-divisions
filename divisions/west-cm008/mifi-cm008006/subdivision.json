@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CM008006001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bafoussam 1er",
+      "en": "Bafoussam 1er",
+      "slug": "bafoussam-1er-cm008006001"
+    },
+    "code": {
+      "id": "CM008006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008006",
+      "level": 2,
+      "name": {
+        "local": "Mifi",
+        "en": "Mifi",
+        "slug": "mifi-cm008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008006",
+        "level": 2,
+        "name": {
+          "local": "Mifi",
+          "en": "Mifi",
+          "slug": "mifi-cm008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.497",
+      "lon": "10.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008006002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bafoussam 2e",
+      "en": "Bafoussam 2e",
+      "slug": "bafoussam-2e-cm008006002"
+    },
+    "code": {
+      "id": "CM008006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008006",
+      "level": 2,
+      "name": {
+        "local": "Mifi",
+        "en": "Mifi",
+        "slug": "mifi-cm008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008006",
+        "level": 2,
+        "name": {
+          "local": "Mifi",
+          "en": "Mifi",
+          "slug": "mifi-cm008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.544",
+      "lon": "10.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM008006003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Bafoussam 3e",
+      "en": "Bafoussam 3e",
+      "slug": "bafoussam-3e-cm008006003"
+    },
+    "code": {
+      "id": "CM008006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM008006",
+      "level": 2,
+      "name": {
+        "local": "Mifi",
+        "en": "Mifi",
+        "slug": "mifi-cm008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM008",
+        "level": 1,
+        "name": {
+          "local": "Ouest",
+          "en": "West",
+          "slug": "west-cm008"
+        }
+      },
+      {
+        "id": "CM008006",
+        "level": 2,
+        "name": {
+          "local": "Mifi",
+          "en": "Mifi",
+          "slug": "mifi-cm008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.488",
+      "lon": "10.366"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

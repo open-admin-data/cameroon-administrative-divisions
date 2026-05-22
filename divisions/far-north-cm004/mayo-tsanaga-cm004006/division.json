@@ -1,0 +1,47 @@
+{
+  "id": "CM004006",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Division"
+  },
+  "name": {
+    "local": "Mayo-Tsanaga",
+    "en": "Mayo-Tsanaga",
+    "slug": "mayo-tsanaga-cm004006"
+  },
+  "code": {
+    "id": "CM004006",
+    "iso": null
+  },
+  "parent": {
+    "id": "CM004",
+    "level": 1,
+    "name": {
+      "local": "Extrême-Nord",
+      "en": "Far-North",
+      "slug": "far-north-cm004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CM004",
+      "level": 1,
+      "name": {
+        "local": "Extrême-Nord",
+        "en": "Far-North",
+        "slug": "far-north-cm004"
+      }
+    }
+  ],
+  "children_count": {
+    "subdivision": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.607",
+    "lon": "13.803"
+  },
+  "metadata": {},
+  "source": {}
+}

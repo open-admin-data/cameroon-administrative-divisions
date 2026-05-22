@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CM004005001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Kolofata",
+      "en": "Kolofata",
+      "slug": "kolofata-cm004005001"
+    },
+    "code": {
+      "id": "CM004005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004005",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Sava",
+        "en": "Mayo-Sava",
+        "slug": "mayo-sava-cm004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004005",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Sava",
+          "en": "Mayo-Sava",
+          "slug": "mayo-sava-cm004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.141",
+      "lon": "14.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004005002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Mora",
+      "en": "Mora",
+      "slug": "mora-cm004005002"
+    },
+    "code": {
+      "id": "CM004005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004005",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Sava",
+        "en": "Mayo-Sava",
+        "slug": "mayo-sava-cm004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004005",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Sava",
+          "en": "Mayo-Sava",
+          "slug": "mayo-sava-cm004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.158",
+      "lon": "14.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CM004005003",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Subdivision"
+    },
+    "name": {
+      "local": "Tokombere",
+      "en": "Tokombere",
+      "slug": "tokombere-cm004005003"
+    },
+    "code": {
+      "id": "CM004005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CM004005",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Sava",
+        "en": "Mayo-Sava",
+        "slug": "mayo-sava-cm004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CM004",
+        "level": 1,
+        "name": {
+          "local": "Extrême-Nord",
+          "en": "Far-North",
+          "slug": "far-north-cm004"
+        }
+      },
+      {
+        "id": "CM004005",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Sava",
+          "en": "Mayo-Sava",
+          "slug": "mayo-sava-cm004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.871",
+      "lon": "14.128"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
