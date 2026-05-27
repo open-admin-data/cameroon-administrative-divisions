@@ -10,7 +10,7 @@
 - Total divisions: 58
 - Total subdivisions: 360
 - Coordinates: included (all levels)
-- Last updated: 2026-05-22
+- Last updated: 2026-05-27
 - License: CC-BY-4.0
 
 ## Aggregate Data Files

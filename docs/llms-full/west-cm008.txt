@@ -3,7 +3,7 @@
 > 8 divisions, 40 subdivisions
 > Code: CM008
 > Coordinates: 5.535, 10.583
-> Last updated: 2026-05-22. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Divisions
 

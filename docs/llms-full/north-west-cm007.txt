@@ -3,7 +3,7 @@
 > 7 divisions, 34 subdivisions
 > Code: CM007
 > Coordinates: 6.433, 10.47
-> Last updated: 2026-05-22. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Divisions
 

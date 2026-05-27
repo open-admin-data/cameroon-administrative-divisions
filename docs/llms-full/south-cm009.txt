@@ -3,7 +3,7 @@
 > 4 divisions, 29 subdivisions
 > Code: CM009
 > Coordinates: 2.92, 11.347
-> Last updated: 2026-05-22. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Divisions
 
