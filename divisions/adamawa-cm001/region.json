@@ -26,5 +26,9 @@
     "lon": "13.218"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cm/regions/adamawa-cm001/",
+    "api": "https://openadmindata.org/api/cm/"
+  }
 }

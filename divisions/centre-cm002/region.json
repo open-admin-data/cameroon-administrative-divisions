@@ -26,5 +26,9 @@
     "lon": "11.852"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cm/regions/centre-cm002/",
+    "api": "https://openadmindata.org/api/cm/"
+  }
 }

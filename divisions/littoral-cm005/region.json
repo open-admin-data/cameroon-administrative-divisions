@@ -26,5 +26,9 @@
     "lon": "10.227"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cm/regions/littoral-cm005/",
+    "api": "https://openadmindata.org/api/cm/"
+  }
 }

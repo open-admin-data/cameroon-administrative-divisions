@@ -26,5 +26,9 @@
     "lon": "11.347"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cm/regions/south-cm009/",
+    "api": "https://openadmindata.org/api/cm/"
+  }
 }

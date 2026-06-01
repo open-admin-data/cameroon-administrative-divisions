@@ -26,5 +26,9 @@
     "lon": "13.873"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cm/regions/north-cm006/",
+    "api": "https://openadmindata.org/api/cm/"
+  }
 }

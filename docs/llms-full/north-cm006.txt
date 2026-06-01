@@ -3,7 +3,7 @@
 > 4 divisions, 21 subdivisions
 > Code: CM006
 > Coordinates: 8.637, 13.873
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Divisions
 

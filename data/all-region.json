@@ -27,7 +27,11 @@
       "lon": "13.218"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cm/regions/adamawa-cm001/",
+      "api": "https://openadmindata.org/api/cm/"
+    }
   },
   {
     "id": "CM002",
@@ -57,7 +61,11 @@
       "lon": "11.852"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cm/regions/centre-cm002/",
+      "api": "https://openadmindata.org/api/cm/"
+    }
   },
   {
     "id": "CM003",
@@ -87,7 +95,11 @@
       "lon": "13.86"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cm/regions/east-cm003/",
+      "api": "https://openadmindata.org/api/cm/"
+    }
   },
   {
     "id": "CM004",
@@ -117,7 +129,11 @@
       "lon": "14.867"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cm/regions/far-north-cm004/",
+      "api": "https://openadmindata.org/api/cm/"
+    }
   },
   {
     "id": "CM005",
@@ -147,7 +163,11 @@
       "lon": "10.227"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cm/regions/littoral-cm005/",
+      "api": "https://openadmindata.org/api/cm/"
+    }
   },
   {
     "id": "CM006",
@@ -177,7 +197,11 @@
       "lon": "13.873"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cm/regions/north-cm006/",
+      "api": "https://openadmindata.org/api/cm/"
+    }
   },
   {
     "id": "CM007",
@@ -207,7 +231,11 @@
       "lon": "10.47"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cm/regions/north-west-cm007/",
+      "api": "https://openadmindata.org/api/cm/"
+    }
   },
   {
     "id": "CM009",
@@ -237,7 +265,11 @@
       "lon": "11.347"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cm/regions/south-cm009/",
+      "api": "https://openadmindata.org/api/cm/"
+    }
   },
   {
     "id": "CM010",
@@ -267,7 +299,11 @@
       "lon": "9.286"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cm/regions/south-west-cm010/",
+      "api": "https://openadmindata.org/api/cm/"
+    }
   },
   {
     "id": "CM008",
@@ -297,6 +333,10 @@
       "lon": "10.583"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cm/regions/west-cm008/",
+      "api": "https://openadmindata.org/api/cm/"
+    }
   }
 ]

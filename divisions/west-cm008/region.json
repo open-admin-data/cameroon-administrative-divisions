@@ -26,5 +26,9 @@
     "lon": "10.583"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cm/regions/west-cm008/",
+    "api": "https://openadmindata.org/api/cm/"
+  }
 }

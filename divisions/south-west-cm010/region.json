@@ -26,5 +26,9 @@
     "lon": "9.286"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cm/regions/south-west-cm010/",
+    "api": "https://openadmindata.org/api/cm/"
+  }
 }

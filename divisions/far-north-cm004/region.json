@@ -26,5 +26,9 @@
     "lon": "14.867"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cm/regions/far-north-cm004/",
+    "api": "https://openadmindata.org/api/cm/"
+  }
 }

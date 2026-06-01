@@ -3,7 +3,7 @@
 > 4 divisions, 34 subdivisions
 > Code: CM005
 > Coordinates: 4.295, 10.227
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Divisions
 

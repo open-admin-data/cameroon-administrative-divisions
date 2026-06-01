@@ -26,5 +26,9 @@
     "lon": "10.47"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cm/regions/north-west-cm007/",
+    "api": "https://openadmindata.org/api/cm/"
+  }
 }

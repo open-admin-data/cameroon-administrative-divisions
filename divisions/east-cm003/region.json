@@ -26,5 +26,9 @@
     "lon": "13.86"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cm/regions/east-cm003/",
+    "api": "https://openadmindata.org/api/cm/"
+  }
 }
