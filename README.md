@@ -14,9 +14,10 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-01 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/cm](https://openadmindata.org/cm/) |
 | API | [openadmindata.org/api/cm](https://openadmindata.org/api/cm/) |
+| National Anthem | [🎵 Listen & Download Cameroon National Anthem MP3](https://onlygames.me/national-anthems/cm/) |
 
 ## Browse by Region
 
